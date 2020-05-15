@@ -8,7 +8,7 @@
 
 ---
 name: liangfen
-version: "1.0"
+version: ""
 sort: by_weight
 use_preset_vocabulary: true
 max_phrase_length: 7
