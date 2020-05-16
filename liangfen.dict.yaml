@@ -2349,7 +2349,7 @@ min_phrase_weight: 100
 圚	kougui
 圛	kouxing
 圜	kouhuan
-圝	kou
+圝	kouluan
 圞	kouluan
 土	shiheng
 圠	tuyi
@@ -12697,7 +12697,7 @@ min_phrase_weight: 100
 羆	sixiong
 羇	siqi
 羈	sima
-羉	si
+羉	siluan
 羊	bafeng
 羋	hengshi
 羌	yanger
@@ -33935,7 +33935,7 @@ min_phrase_weight: 100
 𡤠	nvli
 𡤡	nvguan
 𡤢	nvluo
-𡤣	nv
+𡤣	nvluan
 𡤤	nvyao
 𡤥	nvhei
 𡤦	nvyi
@@ -39412,7 +39412,7 @@ min_phrase_weight: 100
 𢺅	shouqian
 𢺆	shoufan
 𢺇	shouyao
-𢺈	shou
+𢺈	shouluan
 𢺉	shouchai
 𢺊	shouwang
 𢺋	nanshou
@@ -44211,7 +44211,7 @@ min_phrase_weight: 100
 𤅄	shuilian
 𤅅	shuilin
 𤅆	shuiye
-𤅇	shui
+𤅇	shuiluan
 𤅈	shuijiu
 𤅉	shuilang
 𤅊	shuixian
@@ -47749,7 +47749,7 @@ min_phrase_weight: 100
 𤼖	bingchong
 𤼗	bingzu
 𤼘	binglei
-𤼙	bing
+𤼙	bingluan
 𤼚	bingchai
 𤼛	bingshi
 𤼜	bingchong
@@ -54327,12 +54327,12 @@ min_phrase_weight: 100
 𦣈	yuebu
 𦣉	wangsou
 𦣊	nanyue
-𦣋	yue
+𦣋	yueluan
 𦣌	yuelin
 𦣍	yuemei
 𦣎	yuenan
 𦣏	luanyue
-𦣐	yue
+𦣐	yueluan
 𦣑	yuesu
 𦣒	yuejue
 𦣓	laipeng
@@ -56482,7 +56482,7 @@ min_phrase_weight: 100
 𧄳	caoqiao
 𧄴	wanye
 𧄵	caolie
-𧄶	cao
+𧄶	caoluan
 𧄷	caoniao
 𧄸	caoqie
 𧄹	caoshi
@@ -60776,7 +60776,7 @@ min_phrase_weight: 100
 𨇹	zuweng
 𨇺	zujue
 𨇻	zumi
-𨇼	zu
+𨇼	zuluan
 𨇽	zuluo
 𨇾	zuhuo
 𨇿	zujian
@@ -61283,7 +61283,7 @@ min_phrase_weight: 100
 𨏴	chenie
 𨏵	chewen
 𨏶	luanche
-𨏷	che
+𨏷	cheluan
 𨏸	chebing
 𨏹	chejue
 𨏺	chezhou
@@ -63847,7 +63847,7 @@ min_phrase_weight: 100
 𨷸	menxi
 𨷹	menhuo
 𨷺	mengui
-𨷻	men
+𨷻	menluan
 𨷼	menshi
 𨷽	menyan
 𨷾	menmen
@@ -79646,7 +79646,7 @@ min_phrase_weight: 100
 𬯥	ertian
 𬯦	erliu
 𬯧	eryi
-𬯨	er
+𬯨	erluan
 𬯩	alai
 𬯪	zhuizhi
 𬯫	zhuitu
