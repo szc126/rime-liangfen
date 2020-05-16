@@ -585,7 +585,7 @@ min_phrase_weight: 100
 倶	renliu
 倷	rennai
 倸	rencai
-倹	renjian
+倹	renqian
 债	renze
 倻	renye
 值	renzhi
@@ -6956,7 +6956,7 @@ min_phrase_weight: 100
 椙	muchang
 椚	mumen
 椛	muhua
-検	mu
+検	muqian
 椝	guimu
 椞	ximu
 椟	mumai
@@ -19491,7 +19491,7 @@ min_phrase_weight: 100
 騐	manian
 騑	mafei
 騒	machong
-験	ma
+験	maqian
 騔	mahe
 騕	mayao
 騖	maoma
@@ -20616,7 +20616,7 @@ min_phrase_weight: 100
 鹵	zhanmi
 鹶	lujin
 鹷	luling
-鹸	lu
+鹸	luqian
 鹹	luxian
 鹺	lucha
 鹻	lujian
@@ -22606,7 +22606,7 @@ min_phrase_weight: 100
 㪕	zhuopu
 㪖	lupu
 㪗	poupu
-㪘	wen
+㪘	qianwen
 㪙	guowen
 㪚	xiwen
 㪛	shenpu
@@ -23022,7 +23022,7 @@ min_phrase_weight: 100
 㰵	zuqian
 㰶	jiuqian
 㰷	siqian
-㰸	qian
+㰸	qianqian
 㰹	xianqian
 㰺	jiaqian
 㰻	zhuqian
@@ -74575,7 +74575,7 @@ min_phrase_weight: 100
 𫠔	xiniao
 𫠕	guangniao
 𫠖	hongniao
-𫠗	luren
+𫠗	luqian
 𫠘	xiaoyou
 𫠙	chishu
 𫠚	chiju
