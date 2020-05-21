@@ -2281,7 +2281,7 @@ min_phrase_weight: 100
 囖	kouluo
 囗	kuangheng
 囘	kuangsi
-囙	koukuang
+囙	koukou
 囚	kouren
 四	kouer
 囜	kousi
@@ -33039,7 +33039,7 @@ min_phrase_weight: 100
 𡖠	duozuo
 𡖡	zhanduo
 𡖢	duorong
-𡖣	duohui
+𡖣	duokou
 𡖤	duotai
 𡖥	xier
 𡖦	wainan
@@ -33380,7 +33380,7 @@ min_phrase_weight: 100
 𡛵	zhengnv
 𡛶	nvshi
 𡛷	nvfu
-𡛸	nvhui
+𡛸	nvkou
 𡛹	xinv
 𡛺	maonv
 𡛻	nvyong
@@ -39896,7 +39896,7 @@ min_phrase_weight: 100
 𣁩	wengen
 𣁪	wenqie
 𣁫	wenxue
-𣁬	kuangshi
+𣁬	koushi
 𣁭	yidou
 𣁮	fengdou
 𣁯	douyuan
@@ -44332,7 +44332,7 @@ min_phrase_weight: 100
 𤆽	huoshu
 𤆾	huoer
 𤆿	huoyou
-𤇀	huihuo
+𤇀	kouhuo
 𤇁	huodan
 𤇂	huosheng
 𤇃	huoli
@@ -57782,7 +57782,7 @@ min_phrase_weight: 100
 𧙇	yier
 𧙈	yisi
 𧙉	yichu
-𧙊	yihui
+𧙊	yikou
 𧙋	yizhi
 𧙌	yibao
 𧙍	shiyi
@@ -70256,7 +70256,7 @@ min_phrase_weight: 100
 𪜪	renbi
 𪜫	renchou
 𪜬	renwei
-𪜭	renyin
+𪜭	renkou
 𪜮	renmu
 𪜯	renling
 𪜰	renhe
@@ -82377,7 +82377,7 @@ min_phrase_weight: 100
 𭚞	bianjue
 𭚟	eryi
 𭚠	piedian
-𭚡	yiheng
+𭚡	kouheng
 𭚢	lingyi
 𭚣	yijin
 𭚤	yushi
@@ -84765,7 +84765,7 @@ min_phrase_weight: 100
 𭿲	yimu
 𭿳	mulo
 𭿴	musi
-𭿵	yipie
+𭿵	koupie
 𭿶	xipie
 𭿷	maojiong
 𭿸	maoben
