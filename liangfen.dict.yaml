@@ -16924,7 +16924,7 @@ min_phrase_weight: 100
 选	zouxian
 逊	zousun
 逋	zoufu
-逌	zouzhan
+逌	zouyou
 逍	zouxiao
 逎	zouyou
 透	zouxiu
@@ -25657,7 +25657,7 @@ min_phrase_weight: 100
 䚀	zhoujian
 䚁	xiangjian
 䚂	chijian
-䚃	zhanjian
+䚃	youjian
 䚄	lujian
 䚅	laijian
 䚆	yingjian
@@ -30028,7 +30028,7 @@ min_phrase_weight: 100
 𠧝	buliu
 𠧞	zhaobu
 𠧟	luyi
-𠧠	yikou
+𠧠	yiyou
 𠧡	yimu
 𠧢	zhanbi
 𠧣	bujin
@@ -36234,7 +36234,7 @@ min_phrase_weight: 100
 𢈛	guangkun
 𢈜	guangzhuang
 𢈝	guangqiu
-𢈞	guangzhan
+𢈞	guangyou
 𢈟	guangyi
 𢈠	guangshu
 𢈡	guangjun
@@ -42130,7 +42130,7 @@ min_phrase_weight: 100
 𣤣	yueqian
 𣤤	lianqian
 𣤥	liqian
-𣤦	zhanqian
+𣤦	youqian
 𣤧	ruiqian
 𣤨	huoqian
 𣤩	diqian
@@ -44448,7 +44448,7 @@ min_phrase_weight: 100
 𤈱	buhuo
 𤈲	changmie
 𤈳	muhuo
-𤈴	zhanhuo
+𤈴	youhuo
 𤈵	huori
 𤈶	huoyuan
 𤈷	huoqian
@@ -46467,7 +46467,7 @@ min_phrase_weight: 100
 𤨔	wangyi
 𤨕	wangle
 𤨖	wangyi
-𤨗	zhanyu
+𤨗	youyu
 𤨘	wangwen
 𤨙	leyu
 𤨚	wangchong
@@ -46544,7 +46544,7 @@ min_phrase_weight: 100
 𤩡	wanggu
 𤩢	wangshi
 𤩣	wangmu
-𤩤	zhanyu
+𤩤	youyu
 𤩥	wangshun
 𤩦	wangsi
 𤩧	wangdan
@@ -55659,7 +55659,7 @@ min_phrase_weight: 100
 𦷼	dasheng
 𦷽	caoer
 𦷾	caodai
-𦷿	caozhan
+𦷿	caoyou
 𦸀	caoji
 𦸁	caodan
 𦸂	caoshen
@@ -62017,7 +62017,7 @@ min_phrase_weight: 100
 𨛒	buer
 𨛓	nonger
 𨛔	fouer
-𨛕	zhaner
+𨛕	youer
 𨛖	buer
 𨛗	yier
 𨛘	shenger
