@@ -711,7 +711,7 @@ min_phrase_weight: 100
 傴	renqu
 債	renze
 傶	renqi
-傷	renwu
+傷	renyang
 傸	renshuang
 傹	renjing
 傺	renji
@@ -2690,7 +2690,7 @@ min_phrase_weight: 100
 塯	tuliu
 塰	haitu
 塱	langtu
-塲	tuwu
+塲	tuyang
 塳	tufeng
 塴	tubeng
 塵	lutu
@@ -4991,7 +4991,7 @@ min_phrase_weight: 100
 慬	xinjin
 慭	laixin
 慮	husi
-慯	xinshang
+慯	xinyang
 慰	weixin
 慱	xinzhuan
 慲	xinman
@@ -5749,7 +5749,7 @@ min_phrase_weight: 100
 摢	shouhu
 摣	shouqie
 摤	shoushuang
-摥	shoushang
+摥	shouyang
 摦	shougua
 摧	shoucui
 摨	shouxi
@@ -7604,7 +7604,7 @@ min_phrase_weight: 100
 殡	daibin
 殢	daidai
 殣	daijin
-殤	daishang
+殤	daiyang
 殥	daiyin
 殦	dainiao
 殧	daijiu
@@ -8497,7 +8497,7 @@ min_phrase_weight: 100
 漞	shuimi
 漟	shuitang
 漠	shuimo
-漡	shuishang
+漡	shuiyang
 漢	shuijin
 漣	shuilian
 漤	shuilan
@@ -13219,7 +13219,7 @@ min_phrase_weight: 100
 膐	lvrou
 膑	yuebin
 膒	yuequ
-膓	yuewu
+膓	yueyang
 膔	yuelu
 膕	yueguo
 膖	yuefeng
@@ -15364,7 +15364,7 @@ min_phrase_weight: 100
 觱	xianjiao
 觲	jiaoniu
 觳	kejiao
-觴	jiaoshang
+觴	jiaoyang
 觵	jiaohuang
 觶	jiaodan
 觷	yaojiao
@@ -19786,7 +19786,7 @@ min_phrase_weight: 100
 鬷	gewen
 鬸	geliu
 鬹	guige
-鬺	geshang
+鬺	geyang
 鬻	zhouge
 鬼	baisi
 鬽	guishan
@@ -56215,7 +56215,7 @@ min_phrase_weight: 100
 𧀨	caolie
 𧀩	caoci
 𧀪	caoliao
-𧀫	caoshang
+𧀫	caoyang
 𧀬	caoxi
 𧀭	caofan
 𧀮	caofu
@@ -76615,7 +76615,7 @@ min_phrase_weight: 100
 𬀎	fangpei
 𬀏	fanghuo
 𬀐	fangwen
-𬀑	fangshang
+𬀑	fangyang
 𬀒	fanghong
 𬀓	fanghuo
 𬀔	fangshe
