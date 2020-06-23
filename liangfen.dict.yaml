@@ -4519,7 +4519,7 @@ min_phrase_weight: 100
 徔	renzhi
 徕	renlai
 徖	renzong
-得	rende
+得	rencun
 徘	renfei
 徙	renzhi
 徚	renjian
@@ -28166,8 +28166,8 @@ min_phrase_weight: 100
 𠊗	renyou
 𠊘	renjian
 𠊙	renyi
-𠊚	rende
-𠊛	deren
+𠊚	rencun
+𠊛	riren
 𠊜	rendu
 𠊝	daitai
 𠊞	renzhong
@@ -37062,7 +37062,7 @@ min_phrase_weight: 100
 𢕗	renji
 𢕘	rencui
 𢕙	renmeng
-𢕚	rende
+𢕚	rencun
 𢕛	renwen
 𢕜	rener
 𢕝	renfeng
@@ -40323,12 +40323,12 @@ min_phrase_weight: 100
 𣈔	ridian
 𣈕	rimei
 𣈖	rifeng
-𣈗	deri
+𣈗	riri
 𣈘	ridian
 𣈙	rili
 𣈚	rizhuang
 𣈛	rigua
-𣈜	ride
+𣈜	ricun
 𣈝	rifeng
 𣈞	rikong
 𣈟	yangxun
@@ -44558,7 +44558,7 @@ min_phrase_weight: 100
 𤊟	huoding
 𤊠	huoshi
 𤊡	huofeng
-𤊢	huode
+𤊢	huocun
 𤊣	zhuhuo
 𤊤	huoyan
 𤊥	huoling
@@ -48485,7 +48485,7 @@ min_phrase_weight: 100
 𥇶	mujin
 𥇷	muyan
 𥇸	muyue
-𥇹	mude
+𥇹	mucun
 𥇺	muzhuang
 𥇻	muzhou
 𥇼	mushi
@@ -48741,7 +48741,7 @@ min_phrase_weight: 100
 𥋶	mubing
 𥋷	muluo
 𥋸	mulei
-𥋹	demian
+𥋹	rimian
 𥋺	muyao
 𥋻	mubei
 𥋼	muqin
@@ -57015,7 +57015,7 @@ min_phrase_weight: 100
 𧍈	chongdian
 𧍉	chongdi
 𧍊	chongya
-𧍋	chongde
+𧍋	chongcun
 𧍌	chongzhao
 𧍍	chonglai
 𧍎	chonghun
@@ -69913,7 +69913,7 @@ min_phrase_weight: 100
 𪖪	xibi
 𪖫	bimei
 𪖬	meibi
-𪖭	bide
+𪖭	bicun
 𪖮	bijie
 𪖯	bibian
 𪖰	bidi
@@ -70322,7 +70322,7 @@ min_phrase_weight: 100
 𪝬	rensui
 𪝭	renyu
 𪝮	xinxian
-𪝯	weide
+𪝯	weicun
 𪝰	renma
 𪝱	cuige
 𪝲	qiuzhu
@@ -73468,7 +73468,7 @@ min_phrase_weight: 100
 𫎶	zougong
 𫎷	zoucheng
 𫎸	zouzhan
-𫎹	zoude
+𫎹	zoucun
 𫎺	zoucan
 𫎻	zouxing
 𫎼	qian
@@ -74886,7 +74886,7 @@ min_phrase_weight: 100
 𫥍	shuiyan
 𫥎	mianshui
 𫥏	shuimei
-𫥐	shuide
+𫥐	shuicun
 𫥑	shuila
 𫥒	shuida
 𫥓	shuiyu
@@ -75876,7 +75876,7 @@ min_phrase_weight: 100
 𫴫	baofu
 𫴬	duige
 𫴭	xunxin
-𫴮	deren
+𫴮	riren
 𫴯	zecun
 𫴰	caocun
 𫴱	xunmei
@@ -82011,7 +82011,7 @@ min_phrase_weight: 100
 𭔰	doucun
 𭔱	changcun
 𭔲	jicun
-𭔳	deye
+𭔳	riye
 𭔴	tuocun
 𭔵	shicun
 𭔶	shencun
