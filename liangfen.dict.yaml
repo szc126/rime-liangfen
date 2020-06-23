@@ -29138,7 +29138,7 @@ min_phrase_weight: 100
 𠙣	jiba
 𠙤	jijie
 𠙥	fengji
-𠙦	huofan
+𠙦	yingfan
 𠙧	baiji
 𠙨	nianji
 𠙩	baifan
@@ -29741,7 +29741,7 @@ min_phrase_weight: 100
 𠢾	shili
 𠢿	tianli
 𠣀	qiangli
-𠣁	huoli
+𠣁	yingli
 𠣂	jianli
 𠣃	qiangli
 𠣄	daoli
@@ -31652,7 +31652,7 @@ min_phrase_weight: 100
 𡀵	koukua
 𡀶	kouyuan
 𡀷	koudun
-𡀸	huotong
+𡀸	yingtong
 𡀹	koubei
 𡀺	koubei
 𡀻	gaoyang
@@ -34031,7 +34031,7 @@ min_phrase_weight: 100
 𡦀	kongming
 𡦁	tuanzi
 𡦂	zizi
-𡦃	huozi
+𡦃	yingzi
 𡦄	duofu
 𡦅	zichu
 𡦆	beiyun
@@ -35959,7 +35959,7 @@ min_phrase_weight: 100
 𢄈	jinyin
 𢄉	biyou
 𢄊	jingui
-𢄋	huojin
+𢄋	yingjin
 𢄌	jinsha
 𢄍	jinhe
 𢄎	jinpang
@@ -38078,7 +38078,7 @@ min_phrase_weight: 100
 𢥏	xinying
 𢥐	xinmi
 𢥑	xinyan
-𢥒	huoxi
+𢥒	yingxi
 𢥓	xincun
 𢥔	zhangxi
 𢥕	xinzhong
@@ -39924,7 +39924,7 @@ min_phrase_weight: 100
 𣂅	lidou
 𣂆	pangdou
 𣂇	doufei
-𣂈	huodou
+𣂈	yingdou
 𣂉	didou
 𣂊	weidou
 𣂋	hugao
@@ -44664,7 +44664,7 @@ min_phrase_weight: 100
 𤌉	chuhuo
 𤌊	zaihuo
 𤌋	huogui
-𤌌	huojing
+𤌌	yingjing
 𤌍	huohe
 𤌎	henghuo
 𤌏	huoweng
@@ -44685,7 +44685,7 @@ min_phrase_weight: 100
 𤌞	zhunhuo
 𤌟	huomi
 𤌠	huochuan
-𤌡	huoyao
+𤌡	yingyao
 𤌢	huohuo
 𤌣	huoli
 𤌤	huoxia
@@ -44736,7 +44736,7 @@ min_phrase_weight: 100
 𤍑	huozhong
 𤍒	huochao
 𤍓	yehuo
-𤍔	huojiong
+𤍔	yingjiong
 𤍕	muhuo
 𤍖	huozhan
 𤍗	huowen
@@ -44755,9 +44755,9 @@ min_phrase_weight: 100
 𤍤	huozhang
 𤍥	chenhuo
 𤍦	huoyuan
-𤍧	huojing
+𤍧	yingjing
 𤍨	shuhuo
-𤍩	huoli
+𤍩	yingli
 𤍪	huoguo
 𤍫	duihuo
 𤍬	huoye
@@ -44966,9 +44966,9 @@ min_phrase_weight: 100
 𤐷	huochen
 𤐸	hehuo
 𤐹	huoyi
-𤐺	huoyan
-𤐻	huowang
-𤐼	huoshi
+𤐺	yingyan
+𤐻	yingwang
+𤐼	yingshi
 𤐽	huotai
 𤐾	huoxin
 𤐿	kuhuo
@@ -46716,7 +46716,7 @@ min_phrase_weight: 100
 𤬍	yuegua
 𤬎	guadai
 𤬏	lougua
-𤬐	huogua
+𤬐	yinggua
 𤬑	guagua
 𤬒	guawen
 𤬓	jiangua
@@ -46945,7 +46945,7 @@ min_phrase_weight: 100
 𤯲	jiangsheng
 𤯳	bingsheng
 𤯴	zhisheng
-𤯵	huosheng
+𤯵	yingsheng
 𤯶	jusheng
 𤯷	shunsheng
 𤯸	shengjin
@@ -50279,7 +50279,7 @@ min_phrase_weight: 100
 𥣸	hedou
 𥣹	hehuo
 𥣺	hetu
-𥣻	huohe
+𥣻	yinghe
 𥣼	hegui
 𥣽	zhichuan
 𥣾	heyou
@@ -53545,7 +53545,7 @@ min_phrase_weight: 100
 𦖺	erzi
 𦖻	ersi
 𦖼	ergu
-𦖽	huoer
+𦖽	yinger
 𦖾	erjian
 𦖿	erda
 𦗀	erzhen
@@ -54112,7 +54112,7 @@ min_phrase_weight: 100
 𦟱	yuesu
 𦟲	wenyue
 𦟳	yuechao
-𦟴	huorou
+𦟴	yingrou
 𦟵	yuefu
 𦟶	yuezhan
 𦟷	yuepei
@@ -61154,7 +61154,7 @@ min_phrase_weight: 100
 𨍳	cheyao
 𨍴	chetang
 𨍵	cheming
-𨍶	huoche
+𨍶	yingche
 𨍷	cherong
 𨍸	cheliu
 𨍹	chegui
@@ -72128,7 +72128,7 @@ min_phrase_weight: 100
 𪹺	huofan
 𪹻	huomu
 𪹼	huogong
-𪹽	huoji
+𪹽	yingji
 𪹾	huocha
 𪹿	binhuo
 𪺀	huocui
