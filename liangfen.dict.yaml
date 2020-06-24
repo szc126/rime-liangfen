@@ -16840,7 +16840,7 @@ min_phrase_weight: 100
 辵	shan.zou
 辶	dian.yi
 辷	zou.heng
-辸	zounai
+辸	zou.nai
 边	zou.li
 辺	zou.dao
 辻	zou.shi
@@ -16862,7 +16862,7 @@ min_phrase_weight: 100
 迋	zou.wang
 迌	zou.yue
 迍	zou.tun
-迎	zouang
+迎	zou.ang
 迏	zou.tai
 运	zou.yun
 近	zou.jin
@@ -16988,7 +16988,7 @@ min_phrase_weight: 100
 遉	zou.zhen
 遊	zou.zi
 運	zou.jun
-遌	zoue
+遌	zou.e
 遍	zou.bian
 過	zou.guo
 遏	zou.he
@@ -16998,7 +16998,7 @@ min_phrase_weight: 100
 道	zou.shou
 達	zou.yang
 違	zou.wei
-遖	zounan
+遖	zou.nan
 遗	zou.gui
 遘	zou.gou
 遙	zou.yao
@@ -17016,7 +17016,7 @@ min_phrase_weight: 100
 遥	zou.yao
 遦	zou.guan
 遧	zou.zhang
-遨	zouao
+遨	zou.ao
 適	zou.di
 遪	zou.can
 遫	zou.wen
@@ -17328,7 +17328,7 @@ min_phrase_weight: 100
 醝	you.cha
 醞	you.wen
 醟	ying.you
-醠	youang
+醠	you.ang
 醡	you.zhai
 醢	you.min
 醣	you.tang
@@ -29722,7 +29722,7 @@ min_phrase_weight: 100
 𠢫	lai.zheng
 𠢬	wu.li
 𠢭	jue.li
-𠢮	younan
+𠢮	you.nan
 𠢯	yu.li
 𠢰	dao.li
 𠢱	jin.li
@@ -37765,7 +37765,7 @@ min_phrase_weight: 100
 𢠖	nv.xin
 𢠗	lai.ren
 𢠘	xi.xin
-𢠙	ouxin
+𢠙	ou.xin
 𢠚	tou.xin
 𢠛	jiao.xin
 𢠜	bo.xin
@@ -48862,7 +48862,7 @@ min_phrase_weight: 100
 𥍯	mao.you
 𥍰	mao.shao
 𥍱	mao.gao
-𥍲	rounei
+𥍲	rou.nei
 𥍳	rou.chou
 𥍴	mao.yi
 𥍵	mao.nian
@@ -53809,7 +53809,7 @@ min_phrase_weight: 100
 𦛂	kuang.rou
 𦛃	rou.ge
 𦛄	er.rou
-𦛅	rouan
+𦛅	rou.an
 𦛆	cheng.rou
 𦛇	jue.rou
 𦛈	yue.ye
@@ -54217,7 +54217,7 @@ min_phrase_weight: 100
 𦡚	yong.yue
 𦡛	rou.ben
 𦡜	bi.rou
-𦡝	rouai
+𦡝	rou.ai
 𦡞	yue.jin
 𦡟	bei.ling
 𦡠	nong.ji
@@ -54419,7 +54419,7 @@ min_phrase_weight: 100
 𦤤	zi.zhui
 𦤥	zi.yu
 𦤦	chou.he
-𦤧	chounai
+𦤧	chou.nai
 𦤨	chou.wen
 𦤩	zi.lian
 𦤪	he.chou
@@ -54647,7 +54647,7 @@ min_phrase_weight: 100
 𦨈	zhou.ren
 𦨉	zhou.dao
 𦨊	zhou.yi
-𦨋	zhounai
+𦨋	zhou.nai
 𦨌	zhou.fan
 𦨍	zhou.ding
 𦨎	zhou.tuo
@@ -59928,7 +59928,7 @@ min_phrase_weight: 100
 𧺩	zou.huo
 𧺪	zou.gai
 𧺫	zou.chi
-𧺬	zounei
+𧺬	zou.nei
 𧺭	zou.gong
 𧺮	zou.fen
 𧺯	zou.dou
@@ -61395,7 +61395,7 @@ min_phrase_weight: 100
 𨑤	zou.zhi
 𨑥	zou.wu
 𨑦	zou.yu
-𨑧	zounei
+𨑧	zou.nei
 𨑨	zou.ri
 𨑩	zou.diao
 𨑪	zou.gong
@@ -61566,7 +61566,7 @@ min_phrase_weight: 100
 𨔏	zou.kou
 𨔐	zou.feng
 𨔑	zou.ken
-𨔒	zounei
+𨔒	zou.nei
 𨔓	zou.zhi
 𨔔	zou.si
 𨔕	zou.you
@@ -61904,7 +61904,7 @@ min_phrase_weight: 100
 𨙡	zou.niao
 𨙢	zou.jiong
 𨙣	zou.xi
-𨙤	zouai
+𨙤	zou.ai
 𨙥	zou.chun
 𨙦	zou.ma
 𨙧	shan.niao
@@ -62427,7 +62427,7 @@ min_phrase_weight: 100
 𨡬	you.min
 𨡭	mao.you
 𨡮	you.xin
-𨡯	younan
+𨡯	you.nan
 𨡰	pan.min
 𨡱	you.ku
 𨡲	you.qiu
@@ -62545,7 +62545,7 @@ min_phrase_weight: 100
 𨣢	you.sui
 𨣣	you.zuo
 𨣤	you.jin
-𨣥	youai
+𨣥	you.ai
 𨣦	you.yu
 𨣧	you.qi
 𨣨	you.jian
@@ -72942,7 +72942,7 @@ min_phrase_weight: 100
 𫆨	yue.qian
 𫆩	yue.chuan
 𫆪	yue.wen
-𫆫	rouai
+𫆫	rou.ai
 𫆬	shui.yue
 𫆭	rou.mi
 𫆮	yue.sun
@@ -72957,7 +72957,7 @@ min_phrase_weight: 100
 𫆷	yue.gong
 𫆸	rou.zun
 𫆹	yue.shui
-𫆺	rounao
+𫆺	rou.nao
 𫆻	zhi.ruan
 𫆼	yue.pang
 𫆽	yuneng
@@ -78334,7 +78334,7 @@ min_phrase_weight: 100
 𬛅	yue.zhou
 𬛆	yue.hun
 𬛇	yue.geng
-𬛈	rounan
+𬛈	rou.nan
 𬛉	bei.gong
 𬛊	yue.sui
 𬛋	yue.lang
@@ -80993,7 +80993,7 @@ min_phrase_weight: 100
 𭄶	mao.li
 𭄷	li.yi
 𭄸	lv.li
-𭄹	younan
+𭄹	you.nan
 𭄺	shu.li
 𭄻	jia.la
 𭄼	min.li
