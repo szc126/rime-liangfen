@@ -3689,7 +3689,7 @@ min_phrase_weight: 100
 屖	shi.xin
 屗	wei.cun
 屘	wei.zi
-屙	shia
+屙	shi.a
 屚	shi.yu
 屛	shi.bing
 屜	shi.shi
@@ -10776,7 +10776,7 @@ min_phrase_weight: 100
 砅	shi.shui
 砆	shi.fu
 砇	shi.wen
-砈	shie
+砈	shi.e
 砉	feng.shi
 砊	shi.kang
 砋	shi.zhi
@@ -10825,7 +10825,7 @@ min_phrase_weight: 100
 砶	shi.bai
 砷	shi.shen
 砸	shi.za
-砹	shiai
+砹	shi.ai
 砺	shi.li
 砻	long.shi
 砼	shi.gong
@@ -10888,7 +10888,7 @@ min_phrase_weight: 100
 硵	shi.lu
 硶	shi.jin
 硷	shi.qian
-硸	shian
+硸	shi.an
 硹	shi.song
 硺	shi.shi
 硻	chen.shi
@@ -10989,7 +10989,7 @@ min_phrase_weight: 100
 磚	shi.zhuan
 磛	zhan.shi
 磜	shi.ji
-磝	shiao
+磝	shi.ao
 磞	shi.beng
 磟	shi.liu
 磠	shi.lu
@@ -11031,7 +11031,7 @@ min_phrase_weight: 100
 礄	shi.qiao
 礅	shi.dun
 礆	shi.qian
-礇	shiao
+礇	shi.ao
 礈	shi.sui
 礉	shi.jiao
 礊	che.shi
@@ -11085,7 +11085,7 @@ min_phrase_weight: 100
 示	er.xiao
 礻	dian.dian
 礼	shi.yi
-礽	shinai
+礽	shi.nai
 社	shi.tu
 礿	shi.shao
 祀	shi.si
@@ -16013,7 +16013,7 @@ min_phrase_weight: 100
 豺	zhi.cai
 豻	zhi.gan
 豼	zhi.bi
-豽	zhinei
+豽	zhi.nei
 豾	zhi.pi
 豿	zhi.ju
 貀	zhi.chu
@@ -19216,7 +19216,7 @@ min_phrase_weight: 100
 飽	shi.bao
 飾	shi.jin
 飿	shi.chu
-餀	shiai
+餀	shi.ai
 餁	shi.ren
 餂	shi.she
 餃	shi.jiao
@@ -19314,7 +19314,7 @@ min_phrase_weight: 100
 饟	shi.xiang
 饠	shi.luo
 饡	shi.zan
-饢	shinang
+饢	shi.nang
 饣	pie.yi
 饤	shi.ding
 饥	shi.ji
@@ -19365,7 +19365,7 @@ min_phrase_weight: 100
 馒	shi.man
 馓	shi.san
 馔	shi.xun
-馕	shinang
+馕	shi.nang
 首	ba.zi
 馗	jiu.shou
 馘	shou.huo
@@ -20870,7 +20870,7 @@ min_phrase_weight: 100
 齳	chi.jun
 齴	chi.yan
 齵	chi.yu
-齶	chie
+齶	chi.e
 齷	chi.wu
 齸	chi.yi
 齹	cha.chi
@@ -49103,7 +49103,7 @@ min_phrase_weight: 100
 𥑠	shi.gan
 𥑡	shi.shu
 𥑢	shi.bu
-𥑣	shie
+𥑣	shi.e
 𥑤	shi.you
 𥑥	shi.sheng
 𥑦	sheng.shi
@@ -49139,7 +49139,7 @@ min_phrase_weight: 100
 𥒄	shi.mi
 𥒅	shi.li
 𥒆	shi.guan
-𥒇	shian
+𥒇	shi.an
 𥒈	shi.zhai
 𥒉	shi.yu
 𥒊	shi.ming
@@ -49297,7 +49297,7 @@ min_phrase_weight: 100
 𥔢	shi.yu
 𥔣	shi.jiang
 𥔤	shi.gong
-𥔥	shinao
+𥔥	shi.nao
 𥔦	shi.bei
 𥔧	shi.zhong
 𥔨	shi.shui
@@ -49310,7 +49310,7 @@ min_phrase_weight: 100
 𥔯	shi.hui
 𥔰	shi.bao
 𥔱	shi.shan
-𥔲	shie
+𥔲	shi.e
 𥔳	ke.shi
 𥔴	shi.shi
 𥔵	shi.yao
@@ -49426,7 +49426,7 @@ min_phrase_weight: 100
 𥖣	shi.wan
 𥖤	shi.guo
 𥖥	xi.shi
-𥖦	shiai
+𥖦	shi.ai
 𥖧	shi.niao
 𥖨	shi.zao
 𥖩	shi.hui
@@ -49456,7 +49456,7 @@ min_phrase_weight: 100
 𥗁	shi.zhu
 𥗂	shi.mo
 𥗃	shi.li
-𥗄	shiou
+𥗄	shi.ou
 𥗅	shi.dou
 𥗆	shi.lu
 𥗇	shi.che
@@ -49503,7 +49503,7 @@ min_phrase_weight: 100
 𥗰	shi.chen
 𥗱	za.shi
 𥗲	shi.shi
-𥗳	shie
+𥗳	shi.e
 𥗴	shi.luo
 𥗵	shi.shi
 𥗶	xiang.shi
@@ -49514,9 +49514,9 @@ min_phrase_weight: 100
 𥗻	shi.yu
 𥗼	shi.lei
 𥗽	shi.lan
-𥗾	shinang
+𥗾	shi.nang
 𥗿	shi.luo
-𥘀	shinang
+𥘀	shi.nang
 𥘁	shi.luo
 𥘂	shi.bian
 𥘃	shi.ling
@@ -49600,7 +49600,7 @@ min_phrase_weight: 100
 𥙑	shi.guang
 𥙒	li.qu
 𥙓	li.yong
-𥙔	shian
+𥙔	shi.an
 𥙕	shi.lao
 𥙖	shi.gong
 𥙗	shi.kou
@@ -49784,7 +49784,7 @@ min_phrase_weight: 100
 𥜉	shi.qun
 𥜊	shi.kao
 𥜋	shi.qian
-𥜌	shiao
+𥜌	shi.ao
 𥜍	shi.wan
 𥜎	shi.se
 𥜏	shi.huo
@@ -59307,7 +59307,7 @@ min_phrase_weight: 100
 𧰼	dao.shi
 𧰽	ao.shi
 𧰾	shi.ling
-𧰿	shiai
+𧰿	shi.ai
 𧱀	shi.xian
 𧱁	shi.tong
 𧱂	shi.gen
@@ -59530,7 +59530,7 @@ min_phrase_weight: 100
 𧴛	zhi.jie
 𧴜	zhi.zao
 𧴝	zhi.man
-𧴞	zhineng
+𧴞	zhi.neng
 𧴟	zhi.peng
 𧴠	zhi.li
 𧴡	zhi.lai
@@ -66054,8 +66054,8 @@ min_phrase_weight: 100
 𩚗	shi.rong
 𩚘	shi.gou
 𩚙	shi.shao
-𩚚	shie
-𩚛	shinei
+𩚚	shi.e
+𩚛	shi.nei
 𩚜	jin.shi
 𩚝	shi.li
 𩚞	shi.yao
@@ -66114,7 +66114,7 @@ min_phrase_weight: 100
 𩛓	shi.er
 𩛔	shi.xian
 𩛕	fou.shi
-𩛖	shian
+𩛖	shi.an
 𩛗	fei.shi
 𩛘	shi.gong
 𩛙	shi.fang
@@ -66187,7 +66187,7 @@ min_phrase_weight: 100
 𩜜	shi.xing
 𩜝	shi.shua
 𩜞	shi.qiu
-𩜟	shiang
+𩜟	shi.ang
 𩜠	shi.yan
 𩜡	shi.huo
 𩜢	fang.shi
@@ -66198,7 +66198,7 @@ min_phrase_weight: 100
 𩜧	shi.ji
 𩜨	shang.shi
 𩜩	shi.gui
-𩜪	shinai
+𩜪	shi.nai
 𩜫	shi.mei
 𩜬	chen.shi
 𩜭	shi.ke
@@ -66355,7 +66355,7 @@ min_phrase_weight: 100
 𩟄	shi.xi
 𩟅	shi.qian
 𩟆	shi.sui
-𩟇	shiao
+𩟇	shi.ao
 𩟈	shi.dang
 𩟉	shi.gui
 𩟊	shi.nong
@@ -66407,11 +66407,11 @@ min_phrase_weight: 100
 𩟸	gai.shi
 𩟹	shi.qu
 𩟺	shi.lan
-𩟻	shinang
+𩟻	shi.nang
 𩟼	nei.yang
 𩟽	shi.ling
 𩟾	shi.shi
-𩟿	shinei
+𩟿	shi.nei
 𩠀	shi.ba
 𩠁	shi.gan
 𩠂	shi.ye
@@ -69961,7 +69961,7 @@ min_phrase_weight: 100
 𪗚	chi.yi
 𪗛	chi.kai
 𪗜	chi.kang
-𪗝	chinei
+𪗝	chi.nei
 𪗞	chi.qi
 𪗟	chi.qi
 𪗠	chi.ge
@@ -70057,7 +70057,7 @@ min_phrase_weight: 100
 𪘺	chi.ke
 𪘻	wei.chi
 𪘼	la.chi
-𪘽	chinve
+𪘽	chi.nve
 𪘾	chi.cha
 𪘿	chi.chai
 𪙀	chi.xu
@@ -72486,7 +72486,7 @@ min_phrase_weight: 100
 𪿠	shi.yuan
 𪿡	shi.han
 𪿢	shi.xin
-𪿣	shina
+𪿣	shi.na
 𪿤	shi.bao
 𪿥	shi.mei
 𪿦	shi.biao
@@ -72518,7 +72518,7 @@ min_phrase_weight: 100
 𫀀	heng.shi
 𫀁	shi.nv
 𫀂	zhang.shi
-𫀃	shinei
+𫀃	shi.nei
 𫀄	wu.shi
 𫀅	shi.zhan
 𫀆	shi.bao
@@ -74005,10 +74005,10 @@ min_phrase_weight: 100
 𫗏	shi.you
 𫗐	shi.quan
 𫗑	shi.shu
-𫗒	shian
+𫗒	shi.an
 𫗓	shi.gao
 𫗔	shi.da
-𫗕	shinan
+𫗕	shi.nan
 𫗖	shi.mian
 𫗗	shi.mei
 𫗘	shi.min
@@ -75913,7 +75913,7 @@ min_phrase_weight: 100
 𫵐	yue.wu
 𫵑	ba.zhuo
 𫵒	ba.gui
-𫵓	shinei
+𫵓	shi.nei
 𫵔	shi.yue
 𫵕	shi.zhao
 𫵖	shi.shi
@@ -77759,7 +77759,7 @@ min_phrase_weight: 100
 𬒆	shi.ye
 𬒇	shi.lan
 𬒈	xue.shi
-𬒉	shiang
+𬒉	shi.ang
 𬒊	shi.hui
 𬒋	shi.duo
 𬒌	shi.yang
@@ -77814,7 +77814,7 @@ min_phrase_weight: 100
 𬒽	shi.jun
 𬒾	shi.biao
 𬒿	shi.dian
-𬓀	shian
+𬓀	shi.an
 𬓁	shi.jin
 𬓂	shang.shi
 𬓃	shi.peng
@@ -78961,7 +78961,7 @@ min_phrase_weight: 100
 𬤸	dou.zhou
 𬤹	qi.zi
 𬤺	feng.bao
-𬤻	shinai
+𬤻	shi.nai
 𬤼	xiong.shi
 𬤽	shi.chou
 𬤾	mu.shi
@@ -78979,7 +78979,7 @@ min_phrase_weight: 100
 𬥊	zhi.man
 𬥋	zhi.wen
 𬥌	zhi.xiang
-𬥍	zhiou
+𬥍	zhi.ou
 𬥎	you.bei
 𬥏	bei.fen
 𬥐	fu.bei
@@ -79839,7 +79839,7 @@ min_phrase_weight: 100
 𬲦	shi.ren
 𬲧	shi.kui
 𬲨	shi.yu
-𬲩	shie
+𬲩	shi.e
 𬲪	shi.cong
 𬲫	shi.zhan
 𬲬	shi.zhi
@@ -79866,7 +79866,7 @@ min_phrase_weight: 100
 𬳁	shi.yao
 𬳂	shi.zhuo
 𬳃	shi.fu
-𬳄	shinan
+𬳄	shi.nan
 𬳅	shi.you
 𬳆	shi.yan
 𬳇	shi.xuan
@@ -80305,7 +80305,7 @@ min_phrase_weight: 100
 𬹸	chi.lin
 𬹹	chi.xun
 𬹺	chi.ya
-𬹻	chinei
+𬹻	chi.nei
 𬹼	chi.jie
 𬹽	chi.kang
 𬹾	chi.gan
@@ -84780,7 +84780,7 @@ min_phrase_weight: 100
 𮀁	shi.chen
 𮀂	shi.gen
 𮀃	shi.wu
-𮀄	shia
+𮀄	shi.a
 𮀅	shi.duan
 𮀆	shi.er
 𮀇	mu.shi
@@ -84813,13 +84813,13 @@ min_phrase_weight: 100
 𮀢	shi.zhao
 𮀣	shi.shu
 𮀤	shi.lao
-𮀥	shinei
+𮀥	shi.nei
 𮀦	fei.shi
 𮀧	shi.pi
 𮀨	shi.qie
 𮀩	shi.guan
 𮀪	shi.guan
-𮀫	shia
+𮀫	shi.a
 𮀬	shi.wai
 𮀭	shi.pin
 𮀮	shi.bao
@@ -84865,7 +84865,7 @@ min_phrase_weight: 100
 𮁖	shi.nie
 𮁗	shi.zhuan
 𮁘	ma.zhuo
-𮁙	shinan
+𮁙	shi.nan
 𮁚	shi.yao
 𮁛	shi.ni
 𮁜	shi.dao
@@ -84903,7 +84903,7 @@ min_phrase_weight: 100
 𮁼	shi.ji
 𮁽	shi.yi
 𮁾	shi.yong
-𮁿	shinai
+𮁿	shi.nai
 𮂀	shi.ju
 𮂁	shi.kou
 𮂂	shi.si
@@ -87428,7 +87428,7 @@ min_phrase_weight: 100
 𮩙	shi.huo
 𮩚	mi.shi
 𮩛	shi.bi
-𮩜	shiai
+𮩜	shi.ai
 𮩝	shi.he
 𮩞	shi.yi
 𮩟	shou.zhang
@@ -87795,7 +87795,7 @@ min_phrase_weight: 100
 𮯈	chi.qian
 𮯉	chi.mi
 𮯊	chi.li
-𮯋	chie
+𮯋	chi.e
 𮯌	chi.yu
 𮯍	chi.du
 𮯎	chi.wu
