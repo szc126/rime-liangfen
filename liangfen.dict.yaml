@@ -1409,7 +1409,7 @@ min_phrase_weight: 100
 卮	chang.fan
 卯	pie.er
 印	pie.er
-危	daoe
+危	dao.e
 卲	zhao.er
 即	gen.er
 却	qu.er
@@ -13455,7 +13455,7 @@ min_phrase_weight: 100
 艼	cao.ding
 艽	cao.jiu
 艾	cao.cha
-艿	caonai
+艿	cao.nai
 芀	cao.dao
 芁	cao.ji
 节	cao.er
@@ -13502,7 +13502,7 @@ min_phrase_weight: 100
 芫	cao.yuan
 芬	cao.fen
 芭	cao.ba
-芮	caonei
+芮	cao.nei
 芯	cao.xin
 芰	cao.zhi
 花	cao.hua
@@ -13530,7 +13530,7 @@ min_phrase_weight: 100
 苇	cao.wei
 苈	cao.li
 苉	cao.pi
-苊	caoe
+苊	cao.e
 苋	cao.jian
 苌	cao.chang
 苍	cao.cang
@@ -13660,7 +13660,7 @@ min_phrase_weight: 100
 草	cao.zao
 荊	cao.xing
 荋	cao.er
-荌	caoan
+荌	cao.an
 荍	cao.shou
 荎	cao.zhi
 荏	cao.ren
@@ -13758,7 +13758,7 @@ min_phrase_weight: 100
 莫	cao.da
 莬	cao.mian
 莭	cao.ji
-莮	caonan
+莮	cao.nan
 莯	cao.mu
 莰	cao.kan
 莱	cao.lai
@@ -13864,7 +13864,7 @@ min_phrase_weight: 100
 萕	cao.qi
 萖	cao.er
 萗	cao.zong
-萘	caonai
+萘	cao.nai
 萙	cao.zhen
 萚	cao.ze
 萛	cao.cao
@@ -13891,7 +13891,7 @@ min_phrase_weight: 100
 萰	cao.jian
 萱	cao.xuan
 萲	cao.yuan
-萳	caonan
+萳	cao.nan
 萴	cao.ze
 萵	cao.guo
 萶	cao.chun
@@ -13900,7 +13900,7 @@ min_phrase_weight: 100
 萹	cao.bian
 萺	cao.mao
 萻	cao.yin
-萼	caoe
+萼	cao.e
 落	cao.luo
 萾	cao.ying
 萿	cao.huo
@@ -14019,7 +14019,7 @@ min_phrase_weight: 100
 蒰	cao.ban
 蒱	cao.bu
 蒲	cao.pu
-蒳	caona
+蒳	cao.na
 蒴	cao.shuo
 蒵	cao.xi
 蒶	cao.fen
@@ -14029,7 +14029,7 @@ min_phrase_weight: 100
 蒺	cao.ji
 蒻	cao.ruo
 蒼	cao.cang
-蒽	caoen
+蒽	cao.en
 蒾	cao.mi
 蒿	cao.gao
 蓀	cao.sun
@@ -14077,7 +14077,7 @@ min_phrase_weight: 100
 蓪	cao.tong
 蓫	cao.zhu
 蓬	cao.feng
-蓭	caoan
+蓭	cao.an
 蓮	cao.lian
 蓯	cao.cong
 蓰	cao.xi
@@ -14124,7 +14124,7 @@ min_phrase_weight: 100
 蔙	cao.xuan
 蔚	cao.wei
 蔛	cao.dou
-蔜	caoao
+蔜	cao.ao
 蔝	cao.mi
 蔞	cao.lou
 蔟	cao.zu
@@ -14225,12 +14225,12 @@ min_phrase_weight: 100
 蕾	cao.lei
 蕿	cao.yuan
 薀	cao.wen
-薁	caoao
+薁	cao.ao
 薂	cao.jiao
 薃	cao.gao
 薄	cao.pu
 薅	cao.ru
-薆	caoai
+薆	cao.ai
 薇	cao.wei
 薈	cao.hui
 薉	cao.sui
@@ -14309,7 +14309,7 @@ min_phrase_weight: 100
 藒	cao.he
 藓	cao.xian
 藔	cao.liao
-藕	caoou
+藕	cao.ou
 藖	cao.xian
 藗	cao.qian
 藘	cao.lv
@@ -14353,7 +14353,7 @@ min_phrase_weight: 100
 藾	cao.lai
 藿	cao.huo
 蘀	cao.ze
-蘁	caoe
+蘁	cao.e
 蘂	cao.mu
 蘃	cao.mu
 蘄	cao.jin
@@ -23106,7 +23106,7 @@ min_phrase_weight: 100
 㲉	ke.luan
 㲊	rui.shu
 㲋	dao.bi
-㲌	maonai
+㲌	mao.nai
 㲍	zhi.mao
 㲎	mao.mao
 㲏	pian.mao
@@ -25176,7 +25176,7 @@ min_phrase_weight: 100
 䒟	cao.dan
 䒠	cao.feng
 䒡	cao.yin
-䒢	caoang
+䒢	cao.ang
 䒣	cao.ran
 䒤	cao.ri
 䒥	cao.za
@@ -25394,7 +25394,7 @@ min_phrase_weight: 100
 䕹	cao.za
 䕺	cao.cong
 䕻	cao.li
-䕼	caonan
+䕼	cao.nan
 䕽	cao.shu
 䕾	cao.yan
 䕿	cao.niao
@@ -45228,7 +45228,7 @@ min_phrase_weight: 100
 𤔽	zhao.meng
 𤔾	meng.zhao
 𤔿	zhao.wen
-𤕀	zhaoan
+𤕀	zhao.an
 𤕁	yao.lv
 𤕂	xi.chu
 𤕃	zhao.quan
@@ -46865,7 +46865,7 @@ min_phrase_weight: 100
 𤮢	guang.wa
 𤮣	hu.wa
 𤮤	bei.yang
-𤮥	waou
+𤮥	wao.u
 𤮦	ri.wa
 𤮧	lu.wa
 𤮨	long.wa
@@ -54928,7 +54928,7 @@ min_phrase_weight: 100
 𦬡	cao.shi
 𦬢	cao.sa
 𦬣	cao.you
-𦬤	caona
+𦬤	cao.na
 𦬥	cao.jiu
 𦬦	cao.quan
 𦬧	cao.cao
@@ -55082,7 +55082,7 @@ min_phrase_weight: 100
 𦮻	cao.yuan
 𦮼	cao.ji
 𦮽	cao.gao
-𦮾	caonei
+𦮾	cao.nei
 𦮿	cao.li
 𦯀	cao.tu
 𦯁	cao.tun
@@ -55181,7 +55181,7 @@ min_phrase_weight: 100
 𦰞	cao.pu
 𦰟	cao.ruan
 𦰠	cao.gong
-𦰡	caona
+𦰡	cao.na
 𦰢	cao.er
 𦰣	cao.di
 𦰤	cao.lao
@@ -55356,7 +55356,7 @@ min_phrase_weight: 100
 𦳍	cao.gua
 𦳎	cao.qie
 𦳏	cao.qie
-𦳐	caonai
+𦳐	cao.nai
 𦳑	cao.mou
 𦳒	cao.huo
 𦳓	cao.fu
@@ -55456,7 +55456,7 @@ min_phrase_weight: 100
 𦴱	cao.yi
 𦴲	cao.wen
 𦴳	cao.ju
-𦴴	caoan
+𦴴	cao.an
 𦴵	cao.diu
 𦴶	shui.cha
 𦴷	cao.ren
@@ -55569,8 +55569,8 @@ min_phrase_weight: 100
 𦶢	cao.hang
 𦶣	cao.lie
 𦶤	cao.yuan
-𦶥	caoe
-𦶦	caona
+𦶥	cao.e
+𦶦	cao.na
 𦶧	cao.yi
 𦶨	cao.wen
 𦶩	cao.yi
@@ -55618,7 +55618,7 @@ min_phrase_weight: 100
 𦷓	cao.huo
 𦷔	cao.zhi
 𦷕	cao.bi
-𦷖	caoe
+𦷖	cao.e
 𦷗	cao.li
 𦷘	cao.shi
 𦷙	cao.zhan
@@ -55710,7 +55710,7 @@ min_phrase_weight: 100
 𦸯	cao.mu
 𦸰	cao.chan
 𦸱	cao.fu
-𦸲	caoou
+𦸲	cao.ou
 𦸳	cao.cao
 𦸴	cao.cheng
 𦸵	cao.cong
@@ -55923,7 +55923,7 @@ min_phrase_weight: 100
 𦼄	cao.kui
 𦼅	cao.ye
 𦼆	cao.yu
-𦼇	caoe
+𦼇	cao.e
 𦼈	cao.huo
 𦼉	cao.zhui
 𦼊	cao.leng
@@ -55945,7 +55945,7 @@ min_phrase_weight: 100
 𦼚	cao.sen
 𦼛	cao.chen
 𦼜	cao.er
-𦼝	caonao
+𦼝	cao.nao
 𦼞	cao.tian
 𦼟	cao.tong
 𦼠	cao.kai
@@ -56048,7 +56048,7 @@ min_phrase_weight: 100
 𦾁	cao.xiao
 𦾂	cao.xin
 𦾃	cao.he
-𦾄	caoan
+𦾄	cao.an
 𦾅	cao.shui
 𦾆	cao.yun
 𦾇	ying.mei
@@ -56190,7 +56190,7 @@ min_phrase_weight: 100
 𧀏	cao.chong
 𧀐	cao.gui
 𧀑	cao.zhong
-𧀒	caonen
+𧀒	cao.nen
 𧀓	cao.lv
 𧀔	cao.shan
 𧀕	cao.xin
@@ -56267,7 +56267,7 @@ min_phrase_weight: 100
 𧁜	cao.hui
 𧁝	cao.hui
 𧁞	cao.shi
-𧁟	caoan
+𧁟	cao.an
 𧁠	cao.da
 𧁡	cao.fu
 𧁢	cao.niao
@@ -56532,7 +56532,7 @@ min_phrase_weight: 100
 𧅥	cao.xin
 𧅦	cao.xing
 𧅧	cao.niao
-𧅨	caoao
+𧅨	cao.ao
 𧅩	cao.shou
 𧅪	cao.chong
 𧅫	cao.jue
@@ -56550,7 +56550,7 @@ min_phrase_weight: 100
 𧅷	cao.xue
 𧅸	cao.kou
 𧅹	cao.yu
-𧅺	caonang
+𧅺	cao.nang
 𧅻	cao.niao
 𧅼	cao.xiang
 𧅽	cao.min
@@ -56576,7 +56576,7 @@ min_phrase_weight: 100
 𧆑	cao.zhui
 𧆒	cao.xin
 𧆓	cao.lu
-𧆔	caonang
+𧆔	cao.nang
 𧆕	cao.he
 𧆖	cao.niao
 𧆗	cao.min
@@ -71843,7 +71843,7 @@ min_phrase_weight: 100
 𪵝	lin.mao
 𪵞	mao.li
 𪵟	mao.mei
-𪵠	maona
+𪵠	mao.na
 𪵡	mao.lu
 𪵢	mao.bin
 𪵣	yun.qi
@@ -72344,7 +72344,7 @@ min_phrase_weight: 100
 𪽒	tian.chong
 𪽓	tian.zhong
 𪽔	tian.jian
-𪽕	baonan
+𪽕	bao.nan
 𪽖	na.tian
 𪽗	chi.hua
 𪽘	tian.lu
@@ -73016,7 +73016,7 @@ min_phrase_weight: 100
 𫇲	cao.tu
 𫇳	cao.shang
 𫇴	cao.chu
-𫇵	caonai
+𫇵	cao.nai
 𫇶	cao.zai
 𫇷	cao.kao
 𫇸	cao.zhu
@@ -73073,7 +73073,7 @@ min_phrase_weight: 100
 𫈫	cao.qian
 𫈬	cao.dian
 𫈭	cao.yang
-𫈮	caoai
+𫈮	cao.ai
 𫈯	cao.qiang
 𫈰	cao.qia
 𫈱	cao.yan
@@ -73092,7 +73092,7 @@ min_phrase_weight: 100
 𫈾	cao.xi
 𫈿	cao.you
 𫉀	cao.qi
-𫉁	caoai
+𫉁	cao.ai
 𫉂	cao.guo
 𫉃	cao.li
 𫉄	cao.zhu
@@ -75889,7 +75889,7 @@ min_phrase_weight: 100
 𫴸	xiao.ri
 𫴹	nei.xiao
 𫴺	zha.xiao
-𫴻	shaonei
+𫴻	shao.nei
 𫴼	bi.xiao
 𫴽	xiao.ji
 𫴾	xiao.kun
@@ -78506,7 +78506,7 @@ min_phrase_weight: 100
 𬝱	fu.ying
 𬝲	cao.li
 𬝳	cao.zhan
-𬝴	caonan
+𬝴	cao.nan
 𬝵	cao.ruan
 𬝶	cao.ri
 𬝷	cao.yu
@@ -78535,7 +78535,7 @@ min_phrase_weight: 100
 𬞎	cao.mian
 𬞏	cao.tian
 𬞐	cao.ke
-𬞑	caonan
+𬞑	cao.nan
 𬞒	wan.kou
 𬞓	cao.you
 𬞔	cao.kua
@@ -80790,7 +80790,7 @@ min_phrase_weight: 100
 𭁫	shi.dan
 𭁬	mao.you
 𭁭	xiao.shui
-𭁮	haonei
+𭁮	hao.nei
 𭁯	shi.yong
 𭁰	tong.duo
 𭁱	kuang.tu
@@ -81842,7 +81842,7 @@ min_phrase_weight: 100
 𭒇	nv.bi
 𭒈	nv.miao
 𭒉	nv.quan
-𭒊	haoan
+𭒊	hao.an
 𭒋	nv.gan
 𭒌	nv.shou
 𭒍	yao.yao
@@ -85809,7 +85809,7 @@ min_phrase_weight: 100
 𮐆	yu.bie
 𮐇	cao.kou
 𮐈	cao.fang
-𮐉	caoai
+𮐉	cao.ai
 𮐊	cao.mian
 𮐋	cao.me
 𮐌	cao.wu
@@ -85829,7 +85829,7 @@ min_phrase_weight: 100
 𮐚	cao.fan
 𮐛	cao.yue
 𮐜	cao.bi
-𮐝	caoneng
+𮐝	cao.neng
 𮐞	cao.yong
 𮐟	cao.mu
 𮐠	cao.bao
@@ -86257,7 +86257,7 @@ min_phrase_weight: 100
 𮗆	xi.bei
 𮗇	xi.gen
 𮗈	xi.wei
-𮗉	yaoan
+𮗉	yao.an
 𮗊	xi.jiao
 𮗋	xi.yi
 𮗌	xi.ke
