@@ -1606,7 +1606,7 @@ min_phrase_weight: 100
 吳	kou.da
 吴	kou.tian
 吵	kou.shao
-吶	kounei
+吶	kou.nei
 吷	kou.jue
 吸	kou.ji
 吹	kou.qian
@@ -1619,7 +1619,7 @@ min_phrase_weight: 100
 呀	kou.ya
 呁	kou.yun
 呂	kou.kou
-呃	koue
+呃	kou.e
 呄	nai.gu
 呅	kou.wen
 呆	kou.mu
@@ -1632,7 +1632,7 @@ min_phrase_weight: 100
 呍	kou.yun
 呎	kou.chi
 呏	kou.sheng
-呐	kounei
+呐	kou.nei
 呑	yao.kou
 呒	kou.wu
 呓	kou.yi
@@ -1641,7 +1641,7 @@ min_phrase_weight: 100
 呖	kou.li
 呗	kou.bei
 员	kou.bei
-呙	kounei
+呙	kou.nei
 呚	kou.wen
 呛	kou.cang
 呜	kou.wu
@@ -1737,7 +1737,7 @@ min_phrase_weight: 100
 咶	kou.she
 咷	kou.zhao
 咸	wu.kou
-咹	kouan
+咹	kou.an
 咺	kou.gen
 咻	kou.xiu
 咼	kuang.kou
@@ -1758,7 +1758,7 @@ min_phrase_weight: 100
 哋	kou.di
 哌	kou.fei
 响	kou.xiang
-哎	kouai
+哎	kou.ai
 哏	kou.gen
 哐	kou.kuang
 哑	kou.ya
@@ -1786,7 +1786,7 @@ min_phrase_weight: 100
 哧	kou.chi
 哨	kou.xiao
 哩	kou.li
-哪	kouna
+哪	kou.na
 哫	kou.zu
 哬	kou.he
 哭	kou.quan
@@ -1882,7 +1882,7 @@ min_phrase_weight: 100
 啇	er.gu
 啈	kou.xing
 啉	kou.lin
-啊	koua
+啊	kou.a
 啋	kou.cai
 啌	kou.kong
 啍	kou.xiang
@@ -1939,7 +1939,7 @@ min_phrase_weight: 100
 喀	kou.ke
 喁	kou.yu
 喂	kou.wei
-喃	kounan
+喃	kou.nan
 善	yang.kou
 喅	kou.li
 喆	ji.ji
@@ -2047,16 +2047,16 @@ min_phrase_weight: 100
 嗬	kou.he
 嗭	zhi.chi
 嗮	kou.shai
-嗯	kouen
+嗯	kou.en
 嗰	kou.ge
-嗱	kouna
+嗱	kou.na
 嗲	kou.die
-嗳	kouai
+嗳	kou.ai
 嗴	kou.qiang
 嗵	kou.tong
 嗶	kou.bi
-嗷	kouao
-嗸	aokou
+嗷	kou.ao
+嗸	ao.kou
 嗹	kou.lian
 嗺	kou.cui
 嗻	kou.shu
@@ -2129,7 +2129,7 @@ min_phrase_weight: 100
 嘾	kou.tan
 嘿	kou.hei
 噀	kou.xun
-噁	koue
+噁	kou.e
 噂	kou.zun
 噃	kou.fan
 噄	kou.si
@@ -2162,7 +2162,7 @@ min_phrase_weight: 100
 噟	guang.kou
 噠	kou.da
 噡	kou.zhan
-噢	kouao
+噢	kou.ao
 噣	kou.shu
 噤	kou.jin
 噥	kou.nong
@@ -2175,7 +2175,7 @@ min_phrase_weight: 100
 噬	kou.wu
 噭	kou.jiao
 噮	kou.huan
-噯	kouai
+噯	kou.ai
 噰	kou.yong
 噱	kou.ju
 噲	kou.hui
@@ -2276,7 +2276,7 @@ min_phrase_weight: 100
 囑	kou.shu
 囒	kou.lan
 囓	kou.chi
-囔	kounang
+囔	kou.nang
 囕	kou.lan
 囖	kou.luo
 囗	kuang.heng
@@ -3472,7 +3472,7 @@ min_phrase_weight: 100
 孽	xue.zi
 孾	zi.ying
 孿	luan.zi
-宀	diangai
+宀	dian.gai
 宁	gai.ding
 宂	gai.ji
 它	gai.bi
@@ -3989,7 +3989,7 @@ min_phrase_weight: 100
 嶂	shan.zhang
 嶃	shan.zhan
 嶄	shan.zhan
-嶅	aoshan
+嶅	ao.shan
 嶆	shan.cao
 嶇	shan.qu
 嶈	shan.jiang
@@ -4036,7 +4036,7 @@ min_phrase_weight: 100
 嶱	shange
 嶲	shan.juan
 嶳	shan.tu
-嶴	aoshan
+嶴	ao.shan
 嶵	shan.zui
 嶶	shan.wei
 嶷	shan.yi
@@ -5220,7 +5220,7 @@ min_phrase_weight: 100
 扑	shou.bu
 扒	shou.ba
 打	shou.ding
-扔	shounai
+扔	shou.nai
 払	shou.si
 扖	shou.ru
 扗	shou.tu
@@ -5260,7 +5260,7 @@ min_phrase_weight: 100
 批	shou.bi
 扺	shou.shi
 扻	shou.qian
-扼	shoue
+扼	shou.e
 扽	shou.tun
 找	shou.ge
 承	cheng.san
@@ -5280,8 +5280,8 @@ min_phrase_weight: 100
 抍	shou.sheng
 抎	shou.yun
 抏	shou.yuan
-抐	shounei
-抑	shouang
+抐	shou.nei
+抑	shou.ang
 抒	shou.yu
 抓	shou.zhao
 抔	shou.bu
@@ -5401,7 +5401,7 @@ min_phrase_weight: 100
 挆	shou.duo
 指	shou.zhi
 挈	feng.shou
-按	shouan
+按	shou.an
 挊	shou.xia
 挋	shou.chen
 挌	shou.ge
@@ -5434,7 +5434,7 @@ min_phrase_weight: 100
 挧	shou.yu
 挨	shou.yi
 挩	shou.dui
-挪	shouna
+挪	shou.na
 挫	shou.zuo
 挬	shou.bo
 挭	shou.geng
@@ -5514,7 +5514,7 @@ min_phrase_weight: 100
 捷	shou.jie
 捸	shou.li
 捹	shou.ben
-捺	shounai
+捺	shou.nai
 捻	shou.nian
 捼	shou.wei
 捽	shou.zu
@@ -5591,7 +5591,7 @@ min_phrase_weight: 100
 揄	shou.yu
 揅	yan.shou
 揆	shou.gui
-揇	shounan
+揇	shou.nan
 揈	shou.yan
 揉	shou.rou
 揊	shou.fu
@@ -5713,7 +5713,7 @@ min_phrase_weight: 100
 搾	shou.zhai
 搿	shou.shou
 摀	shou.wu
-摁	shouen
+摁	shou.en
 摂	shou.er
 摃	shou.gong
 摄	shou.nie
@@ -5722,7 +5722,7 @@ min_phrase_weight: 100
 摇	shou.yao
 摈	shou.bin
 摉	shou.xi
-摊	shounan
+摊	shou.nan
 摋	shou.sha
 摌	shou.chan
 摍	shou.su
@@ -5758,7 +5758,7 @@ min_phrase_weight: 100
 摫	shou.gui
 摬	shou.jing
 摭	shou.shu
-摮	aoshou
+摮	ao.shou
 摯	zhi.shou
 摰	yi.shou
 摱	shou.man
@@ -5865,7 +5865,7 @@ min_phrase_weight: 100
 擖	shou.ge
 擗	shou.bi
 擘	bi.shou
-擙	shouao
+擙	shou.ao
 據	shou.ju
 擛	shou.ye
 擜	shou.xian
@@ -5940,7 +5940,7 @@ min_phrase_weight: 100
 攡	shou.li
 攢	shou.zan
 攣	luan.shou
-攤	shounan
+攤	shou.nan
 攥	shou.si
 攦	shou.li
 攧	shou.dian
@@ -5950,7 +5950,7 @@ min_phrase_weight: 100
 攫	shou.jue
 攬	shou.lan
 攭	shou.li
-攮	shounang
+攮	shou.nang
 支	shi.you
 攰	zhi.li
 攱	li.zhi
@@ -7805,7 +7805,7 @@ min_phrase_weight: 100
 汪	shui.wang
 汫	shui.jing
 汬	jing.shui
-汭	shuinei
+汭	shui.nei
 汮	shui.yun
 汯	shui.hong
 汰	shui.tai
@@ -7981,7 +7981,7 @@ min_phrase_weight: 100
 洚	shui.jiang
 洛	shui.ge
 洜	ge.shui
-洝	shuian
+洝	shui.an
 洞	shui.tong
 洟	shui.yi
 洠	shui.mou
@@ -8271,10 +8271,10 @@ min_phrase_weight: 100
 渼	shui.mei
 渽	shui.zai
 渾	shui.jun
-渿	shuinai
+渿	shui.nai
 湀	shui.gui
 湁	shui.shi
-湂	shuie
+湂	shui.e
 湃	shui.bai
 湄	shui.mei
 湅	shui.jian
@@ -8323,7 +8323,7 @@ min_phrase_weight: 100
 湰	shui.sheng
 湱	shui.shi
 湲	shui.yuan
-湳	shuinan
+湳	shui.nan
 湴	shui.bing
 湵	shui.jiu
 湶	shui.quan
@@ -8441,7 +8441,7 @@ min_phrase_weight: 100
 滦	shui.luan
 滧	shui.xiao
 滨	shui.bin
-滩	shuinan
+滩	shui.nan
 滪	shui.yu
 滫	shui.xiu
 滬	shui.yi
@@ -8454,7 +8454,7 @@ min_phrase_weight: 100
 滳	shui.shang
 滴	shui.di
 滵	shui.mi
-滶	shuiao
+滶	shui.ao
 滷	shui.lu
 滸	shui.xu
 滹	shui.hu
@@ -8643,7 +8643,7 @@ min_phrase_weight: 100
 澰	shui.qian
 澱	shui.dian
 澲	shui.ye
-澳	shuiao
+澳	shui.ao
 澴	shui.huan
 澵	shui.xin
 澶	shui.dan
@@ -8808,7 +8808,7 @@ min_phrase_weight: 100
 灕	shui.li
 灖	shui.mi
 灗	zhuo.dan
-灘	shuinan
+灘	shui.nan
 灙	shui.dang
 灚	shui.jue
 灛	shui.dan
@@ -8818,7 +8818,7 @@ min_phrase_weight: 100
 灟	shui.shu
 灠	shui.lan
 灡	shui.lan
-灢	shuinang
+灢	shui.nang
 灣	shui.wan
 灤	shui.luan
 灥	quan.quan
@@ -9019,7 +9019,7 @@ min_phrase_weight: 100
 焨	huo.yue
 焩	huo.peng
 焪	huo.qiong
-焫	huonei
+焫	huo.nei
 焬	huo.yi
 焭	ying.ji
 焮	huo.xin
@@ -9093,7 +9093,7 @@ min_phrase_weight: 100
 煲	bao.huo
 煳	huo.hu
 煴	huo.wen
-煵	huonan
+煵	huo.nan
 煶	huo.shi
 煷	huo.liang
 煸	huo.bian
@@ -9102,7 +9102,7 @@ min_phrase_weight: 100
 煻	huo.tang
 煼	huo.chu
 煽	huo.shan
-煾	huoen
+煾	huo.en
 煿	huo.fu
 熀	huo.huang
 熁	huo.xie
@@ -9148,7 +9148,7 @@ min_phrase_weight: 100
 熩	huo.yi
 熪	huo.yi
 熫	huo.shu
-熬	aohuo
+熬	ao.huo
 熭	hui.huo
 熮	huo.liu
 熯	huo.jin
@@ -9200,7 +9200,7 @@ min_phrase_weight: 100
 燝	huo.jing
 燞	zhui.huo
 營	ying.lv
-燠	huoao
+燠	huo.ao
 燡	huo.xing
 燢	yao.huo
 燣	huo.he
@@ -9216,7 +9216,7 @@ min_phrase_weight: 100
 燭	huo.shu
 燮	xin.you
 燯	huo.ling
-燰	huoai
+燰	huo.ai
 燱	huo.yi
 燲	huo.bei
 燳	huo.zhao
@@ -9570,7 +9570,7 @@ min_phrase_weight: 100
 獏	quan.mo
 獐	quan.zhang
 獑	quan.zhan
-獒	aoquan
+獒	ao.quan
 獓	quanao
 獔	quan.shi
 獕	quan.cui
@@ -13439,7 +13439,7 @@ min_phrase_weight: 100
 艬	zhou.tu
 艭	zhou.shuang
 艮	xue.shui
-良	diangen
+良	dian.gen
 艰	you.gen
 艱	jingen
 色	dao.ba
@@ -14783,7 +14783,7 @@ min_phrase_weight: 100
 螬	chong.cao
 螭	chong.li
 螮	chong.dai
-螯	aochong
+螯	ao.chong
 螰	chong.lu
 螱	wei.chong
 螲	chong.zhi
@@ -15687,7 +15687,7 @@ min_phrase_weight: 100
 謴	yan.guan
 謵	yan.xi
 謶	yan.shu
-謷	aoyan
+謷	ao.yan
 謸	yanao
 謹	yan.jin
 謺	zhi.yan
@@ -16149,7 +16149,7 @@ min_phrase_weight: 100
 贂	bei.can
 贃	bei.huan
 贄	zhi.bei
-贅	aobei
+贅	ao.bei
 贆	bei.quan
 贇	bin.bei
 贈	bei.zeng
@@ -16232,7 +16232,7 @@ min_phrase_weight: 100
 赕	bei.yan
 赖	shu.fu
 赗	bei.mao
-赘	aobei
+赘	ao.bei
 赙	bei.fu
 赚	bei.jian
 赛	gai.bei
@@ -17882,7 +17882,7 @@ min_phrase_weight: 100
 鏇	jin.xuan
 鏈	jin.lian
 鏉	jin.qian
-鏊	aojin
+鏊	ao.jin
 鏋	jin.man
 鏌	jin.mo
 鏍	jin.lei
@@ -19537,7 +19537,7 @@ min_phrase_weight: 100
 騾	ma.lei
 騿	ma.zhang
 驀	mo.ma
-驁	aoma
+驁	ao.ma
 驂	ma.can
 驃	ma.piao
 驄	ma.xin
@@ -19628,7 +19628,7 @@ min_phrase_weight: 100
 骙	ma.gui
 骚	ma.zao
 骛	mao.ma
-骜	aoma
+骜	ao.ma
 骝	ma.liu
 骞	gai.ma
 骟	ma.shan
@@ -20034,7 +20034,7 @@ min_phrase_weight: 100
 鰯	yu.ruo
 鰰	yu.shen
 鰱	yu.lian
-鰲	aoyu
+鰲	ao.yu
 鰳	yu.le
 鰴	yu.wen
 鰵	min.yu
@@ -20188,7 +20188,7 @@ min_phrase_weight: 100
 鳉	yu.jiang
 鳊	yu.bian
 鳋	yu.zao
-鳌	aoyu
+鳌	ao.yu
 鳍	yu.qi
 鳎	yu.ta
 鳏	yu.si
@@ -20759,7 +20759,7 @@ min_phrase_weight: 100
 鼄	zhu.mian
 鼅	zhi.mian
 鼆	ming.mian
-鼇	aomian
+鼇	ao.mian
 鼈	bi.mian
 鼉	shou.mian
 鼊	bi.mian
@@ -21129,7 +21129,7 @@ min_phrase_weight: 100
 㓐	shui.lu
 㓑	shui.xing
 㓒	shui.xin
-㓓	shuinan
+㓓	shui.nan
 㓔	shui.she
 㓕	shui.mie
 㓖	shui.bi
@@ -21334,7 +21334,7 @@ min_phrase_weight: 100
 㖝	wei.chi
 㖞	kou.guo
 㖟	kou.shou
-㖠	kounai
+㖠	kou.nai
 㖡	kou.ye
 㖢	kou.ci
 㖣	kou.pou
@@ -21358,7 +21358,7 @@ min_phrase_weight: 100
 㖵	kou.ju
 㖶	kou.tu
 㖷	kou.shi
-㖸	kounve
+㖸	kou.nve
 㖹	kou.pen
 㖺	kou.chun
 㖻	kou.rou
@@ -21367,7 +21367,7 @@ min_phrase_weight: 100
 㖾	kou.ni
 㖿	kou.ye
 㗀	kou.you
-㗁	koue
+㗁	kou.e
 㗂	kou.sheng
 㗃	kou.ri
 㗄	kou.fang
@@ -21384,7 +21384,7 @@ min_phrase_weight: 100
 㗏	kou.wai
 㗐	kou.min
 㗑	kou.bai
-㗒	kouai
+㗒	kou.ai
 㗓	kou.zhui
 㗔	kou.qian
 㗕	kou.gou
@@ -22325,7 +22325,7 @@ min_phrase_weight: 100
 㥼	xin.yan
 㥽	xin.ze
 㥾	xin.ni
-㥿	aoxin
+㥿	ao.xin
 㦀	xin.feng
 㦁	lian.xin
 㦂	chang.xin
@@ -22459,7 +22459,7 @@ min_phrase_weight: 100
 㨂	shou.dong
 㨃	shou.xiang
 㨄	shou.zhou
-㨅	shounei
+㨅	shou.nei
 㨆	shou.lin
 㨇	bo.shou
 㨈	shou.qi
@@ -22488,10 +22488,10 @@ min_phrase_weight: 100
 㨟	shou.qi
 㨠	shou.ming
 㨡	shou.kou
-㨢	shouneng
+㨢	shou.neng
 㨣	shou.weng
 㨤	shou.zhui
-㨥	shouna
+㨥	shou.na
 㨦	shou.zhi
 㨧	shou.fen
 㨨	shou.liu
@@ -23236,7 +23236,7 @@ min_phrase_weight: 100
 㴋	shui.su
 㴌	shui.gu
 㴍	shui.cheng
-㴎	shuinai
+㴎	shui.nai
 㴏	shui.wang
 㴐	shui.mian
 㴑	shui.ni
@@ -23270,7 +23270,7 @@ min_phrase_weight: 100
 㴭	shui.mu
 㴮	shui.xie
 㴯	shui.zhi
-㴰	shuineng
+㴰	shui.neng
 㴱	shui.da
 㴲	shui.hu
 㴳	shui.long
@@ -23314,7 +23314,7 @@ min_phrase_weight: 100
 㵙	shui.xi
 㵚	shui.jin
 㵛	shui.shan
-㵜	shuinan
+㵜	shui.nan
 㵝	shui.yi
 㵞	shui.chou
 㵟	shui.wei
@@ -23389,7 +23389,7 @@ min_phrase_weight: 100
 㶤	huo.xi
 㶥	huo.gan
 㶦	huo.yu
-㶧	huonei
+㶧	huo.nei
 㶨	bu.huo
 㶩	huo.yin
 㶪	bu.huo
@@ -26782,7 +26782,7 @@ min_phrase_weight: 100
 䫥	gui.ye
 䫦	he.ye
 䫧	bai.ye
-䫨	aoye
+䫨	ao.ye
 䫩	can.ye
 䫪	shuang.ye
 䫫	lou.ye
@@ -27387,7 +27387,7 @@ min_phrase_weight: 100
 䵂	mai.di
 䵃	mai.huang
 䵄	mai.li
-䵅	aomai
+䵅	ao.mai
 䵆	mai.meng
 䵇	ma.wen
 䵈	hou.ma
@@ -29014,7 +29014,7 @@ min_phrase_weight: 100
 𠗧	shui.ze
 𠗨	shui.ye
 𠗩	shui.shen
-𠗪	shuiai
+𠗪	shui.ai
 𠗫	shui.huan
 𠗬	shui.yong
 𠗭	shui.si
@@ -29170,7 +29170,7 @@ min_phrase_weight: 100
 𠚃	heng.kuang
 𠚄	kuang.ren
 𠚅	gong.kuang
-𠚆	aoshu
+𠚆	ao.shu
 𠚇	bing.kuang
 𠚈	shi.kuang
 𠚉	kuang.he
@@ -29462,7 +29462,7 @@ min_phrase_weight: 100
 𠞧	ma.dao
 𠞨	yu.dao
 𠞩	lv.dao
-𠞪	aodao
+𠞪	ao.dao
 𠞫	kou.dao
 𠞬	yi.dao
 𠞭	lou.dao
@@ -29697,7 +29697,7 @@ min_phrase_weight: 100
 𠢒	dao.li
 𠢓	mo.li
 𠢔	qu.li
-𠢕	aoli
+𠢕	ao.li
 𠢖	liu.mian
 𠢗	di.li
 𠢘	heng.li
@@ -30484,7 +30484,7 @@ min_phrase_weight: 100
 𠮥	dao.kou
 𠮦	ba.kou
 𠮧	kou.dao
-𠮨	kounai
+𠮨	kou.nai
 𠮩	kou.liao
 𠮪	kou.yi
 𠮫	wan.kou
@@ -30502,14 +30502,14 @@ min_phrase_weight: 100
 𠮷	tu.kou
 𠮸	yi.kou
 𠮹	kou.cai
-𠮺	kouna
+𠮺	kou.na
 𠮻	kou.jiu
-𠮼	kouna
+𠮼	kou.na
 𠮽	kou.cao
 𠮾	kou.wu
 𠮿	kou.shan
 𠯀	kou.chuan
-𠯁	kouna
+𠯁	kou.na
 𠯂	kou.zi
 𠯃	kou.yi
 𠯄	kou.ren
@@ -30563,7 +30563,7 @@ min_phrase_weight: 100
 𠯴	kou.bian
 𠯵	kou.ba
 𠯶	gong.kou
-𠯷	kounai
+𠯷	kou.nai
 𠯸	kou.ting
 𠯹	kou.reng
 𠯺	shui.kou
@@ -30639,7 +30639,7 @@ min_phrase_weight: 100
 𠱀	kou.pi
 𠱁	kou.shui
 𠱂	kou.tu
-𠱃	kouao
+𠱃	kou.ao
 𠱄	kou.min
 𠱅	kou.sheng
 𠱆	kou.yun
@@ -30756,7 +30756,7 @@ min_phrase_weight: 100
 𠲵	kou.jie
 𠲶	kou.mian
 𠲷	kou.er
-𠲸	kounan
+𠲸	kou.nan
 𠲹	kou.ji
 𠲺	kou.ji
 𠲻	shui.kou
@@ -30918,7 +30918,7 @@ min_phrase_weight: 100
 𠵗	hao.guang
 𠵘	kou.men
 𠵙	kou.ling
-𠵚	kouan
+𠵚	kou.an
 𠵛	pin.kao
 𠵜	kou.wang
 𠵝	kou.ya
@@ -30935,7 +30935,7 @@ min_phrase_weight: 100
 𠵨	kou.cun
 𠵩	kou.guo
 𠵪	kou.cha
-𠵫	kouang
+𠵫	kou.ang
 𠵬	pin.you
 𠵭	kou.yue
 𠵮	kou.niu
@@ -31151,7 +31151,7 @@ min_phrase_weight: 100
 𠹀	kou.sun
 𠹁	kou.gua
 𠹂	kou.ci
-𠹃	kouang
+𠹃	kou.ang
 𠹄	kou.kou
 𠹅	kou.gong
 𠹆	kou.dan
@@ -31160,7 +31160,7 @@ min_phrase_weight: 100
 𠹉	shang.ri
 𠹊	kou.cao
 𠹋	kou.ji
-𠹌	kouneng
+𠹌	kou.neng
 𠹍	kou.rong
 𠹎	kou.huo
 𠹏	kou.zao
@@ -31203,7 +31203,7 @@ min_phrase_weight: 100
 𠹴	kou.jun
 𠹵	kou.yan
 𠹶	kou.ping
-𠹷	koue
+𠹷	kou.e
 𠹸	kou.yi
 𠹹	kou.lun
 𠹺	kou.mai
@@ -31266,7 +31266,7 @@ min_phrase_weight: 100
 𠺳	kou.zhi
 𠺴	kou.ge
 𠺵	kou.ge
-𠺶	kouna
+𠺶	kou.na
 𠺷	kou.zhu
 𠺸	kou.jin
 𠺹	kou.yi
@@ -31394,7 +31394,7 @@ min_phrase_weight: 100
 𠼳	kou.qian
 𠼴	kou.qing
 𠼵	kou.ting
-𠼶	kounan
+𠼶	kou.nan
 𠼷	tai.zai
 𠼸	kou.yan
 𠼹	kou.jin
@@ -31404,13 +31404,13 @@ min_phrase_weight: 100
 𠼽	kou.mi
 𠼾	kou.chong
 𠼿	kou.xin
-𠽀	kouou
+𠽀	kou.ou
 𠽁	kou.chu
 𠽂	kou.dan
 𠽃	kou.zhi
 𠽄	kou.tan
 𠽅	kou.chong
-𠽆	koune
+𠽆	kou.ne
 𠽇	kou.gong
 𠽈	kou.qian
 𠽉	kou.shen
@@ -31584,17 +31584,17 @@ min_phrase_weight: 100
 𠿱	kou.dao
 𠿲	shou.dan
 𠿳	kou.lian
-𠿴	kouai
+𠿴	kou.ai
 𠿵	kou.ken
 𠿶	kou.zhun
-𠿷	kounao
-𠿸	koue
+𠿷	kou.nao
+𠿸	kou.e
 𠿹	kou.lin
 𠿺	kou.zang
 𠿻	qiao.yuan
 𠿼	kou.sha
 𠿽	kou.fu
-𠿾	kouan
+𠿾	kou.an
 𠿿	kou.yi
 𡀀	kou.he
 𡀁	kou.se
@@ -31670,7 +31670,7 @@ min_phrase_weight: 100
 𡁇	kou.zhuo
 𡁈	kou.xin
 𡁉	ma.zhong
-𡁊	kouan
+𡁊	kou.an
 𡁋	kou.ji
 𡁌	kou.qian
 𡁍	kou.qian
@@ -31687,7 +31687,7 @@ min_phrase_weight: 100
 𡁘	dan.cao
 𡁙	kou.kai
 𡁚	kou.han
-𡁛	kounen
+𡁛	kou.nen
 𡁜	kou.guo
 𡁝	kou.xing
 𡁞	kou.qiao
@@ -31737,7 +31737,7 @@ min_phrase_weight: 100
 𡂊	kou.miao
 𡂋	kou.ying
 𡂌	kou.shao
-𡂍	kouang
+𡂍	kou.ang
 𡂎	kou.lv
 𡂏	kou.lie
 𡂐	kou.zan
@@ -31770,7 +31770,7 @@ min_phrase_weight: 100
 𡂫	kou.peng
 𡂬	jun.jin
 𡂭	kou.zhe
-𡂮	kouou
+𡂮	kou.ou
 𡂯	lin.lang
 𡂰	kou.lin
 𡂱	kou.deng
@@ -31787,7 +31787,7 @@ min_phrase_weight: 100
 𡂼	kou.ma
 𡂽	kou.tan
 𡂾	kou.teng
-𡂿	kouou
+𡂿	kou.ou
 𡃀	kou.yi
 𡃁	kou.jian
 𡃂	kou.xie
@@ -31892,7 +31892,7 @@ min_phrase_weight: 100
 𡄥	kou.lian
 𡄦	kou.lin
 𡄧	kou.jiang
-𡄨	kounen
+𡄨	kou.nen
 𡄩	kou.ken
 𡄪	kou.sui
 𡄫	kou.qian
@@ -31921,7 +31921,7 @@ min_phrase_weight: 100
 𡅂	kou.niao
 𡅃	kou.long
 𡅄	ting.dan
-𡅅	koue
+𡅅	kou.e
 𡅆	kou.cang
 𡅇	kou.cong
 𡅈	kou.shou
@@ -31955,7 +31955,7 @@ min_phrase_weight: 100
 𡅤	xi.jin
 𡅥	kou.dian
 𡅦	zhu.jiu
-𡅧	kounan
+𡅧	kou.nan
 𡅨	kou.yan
 𡅩	kou.yan
 𡅪	kou.yuan
@@ -32084,7 +32084,7 @@ min_phrase_weight: 100
 𡇥	kou.bing
 𡇦	kou.nv
 𡇧	kou.dou
-𡇨	kounan
+𡇨	kou.nan
 𡇩	kou.ji
 𡇪	kou.gao
 𡇫	kou.huo
@@ -32114,7 +32114,7 @@ min_phrase_weight: 100
 𡈃	kou.yi
 𡈄	kou.tian
 𡈅	gu.jie
-𡈆	koue
+𡈆	kou.e
 𡈇	kou.tian
 𡈈	kou.zhong
 𡈉	kou.ruo
@@ -32751,7 +32751,7 @@ min_phrase_weight: 100
 𡒀	qiu.tu
 𡒁	tu.jiu
 𡒂	tu.hui
-𡒃	aotu
+𡒃	ao.tu
 𡒄	tu.bing
 𡒅	tu.hui
 𡒆	tu.zhen
@@ -33702,7 +33702,7 @@ min_phrase_weight: 100
 𡠷	ni.nv
 𡠸	nv.er
 𡠹	nv.dai
-𡠺	huoan
+𡠺	huo.an
 𡠻	nv.zao
 𡠼	shu.nv
 𡠽	nv.qi
@@ -36569,7 +36569,7 @@ min_phrase_weight: 100
 𢍪	yue.cao
 𢍫	shu.kai
 𢍬	kou.cao
-𢍭	aobian
+𢍭	ao.bian
 𢍮	gong.cao
 𢍯	tong.cao
 𢍰	si.cao
@@ -38240,7 +38240,7 @@ min_phrase_weight: 100
 𢧱	sang.ge
 𢧲	wo.xie
 𢧳	yong.ge
-𢧴	aoge
+𢧴	ao.ge
 𢧵	que.ge
 𢧶	hu.ge
 𢧷	guo.ge
@@ -38693,7 +38693,7 @@ min_phrase_weight: 100
 𢮶	shou.shi
 𢮷	shou.fang
 𢮸	shou.da
-𢮹	shouan
+𢮹	shou.an
 𢮺	shou.wu
 𢮻	shou.jin
 𢮼	shou.qiu
@@ -38736,7 +38736,7 @@ min_phrase_weight: 100
 𢯡	shou.yu
 𢯢	shou.suo
 𢯣	shou.shui
-𢯤	shouang
+𢯤	shou.ang
 𢯥	shou.yuan
 𢯦	shou.lai
 𢯧	shou.wen
@@ -38925,7 +38925,7 @@ min_phrase_weight: 100
 𢲞	shou.shou
 𢲟	shou.zai
 𢲠	shou.dan
-𢲡	shouna
+𢲡	shou.na
 𢲢	shou.chu
 𢲣	shou.long
 𢲤	shou.gao
@@ -38962,7 +38962,7 @@ min_phrase_weight: 100
 𢳃	shou.yan
 𢳄	shou.xuan
 𢳅	guang.shou
-𢳆	shouao
+𢳆	shou.ao
 𢳇	shou.zu
 𢳈	zu.shou
 𢳉	si.shou
@@ -39015,7 +39015,7 @@ min_phrase_weight: 100
 𢳸	shou.zhi
 𢳹	shou.fu
 𢳺	shou.min
-𢳻	shouai
+𢳻	shou.ai
 𢳼	shou.jiao
 𢳽	shou.shuang
 𢳾	shou.dong
@@ -39119,7 +39119,7 @@ min_phrase_weight: 100
 𢵠	jie.shou
 𢵡	qin.shou
 𢵢	shou.min
-𢵣	shoue
+𢵣	shou.e
 𢵤	ri.shou
 𢵥	shao.shou
 𢵦	shou.duan
@@ -39205,7 +39205,7 @@ min_phrase_weight: 100
 𢶶	shou.yi
 𢶷	shou.jie
 𢶸	shou.bing
-𢶹	shouan
+𢶹	shou.an
 𢶺	shou.xian
 𢶻	shou.feng
 𢶼	shou.wei
@@ -39213,9 +39213,9 @@ min_phrase_weight: 100
 𢶾	shou.zhi
 𢶿	shou.dun
 𢷀	shou.yu
-𢷁	shounan
+𢷁	shou.nan
 𢷂	shou.can
-𢷃	shounao
+𢷃	shou.nao
 𢷄	shou.mie
 𢷅	shou.lu
 𢷆	shou.dan
@@ -39252,7 +39252,7 @@ min_phrase_weight: 100
 𢷥	shou.fu
 𢷦	shou.che
 𢷧	shou.po
-𢷨	shouna
+𢷨	shou.na
 𢷩	shou.yan
 𢷪	shou.kui
 𢷫	shou.yao
@@ -39395,7 +39395,7 @@ min_phrase_weight: 100
 𢹴	shou.you
 𢹵	shou.sa
 𢹶	shou.si
-𢹷	shoue
+𢹷	shou.e
 𢹸	shou.cong
 𢹹	shou.lan
 𢹺	shou.dan
@@ -40429,7 +40429,7 @@ min_phrase_weight: 100
 𣉾	ri.qu
 𣉿	ri.cao
 𣊀	ri.liu
-𣊁	aori
+𣊁	ao.ri
 𣊂	ri.ren
 𣊃	wu.ri
 𣊄	hui.ri
@@ -41358,7 +41358,7 @@ min_phrase_weight: 100
 𣘟	jia.mu
 𣘠	mu.ke
 𣘡	mu.sha
-𣘢	aomu
+𣘢	ao.mu
 𣘣	mu.chun
 𣘤	mu.ji
 𣘥	mu.bi
@@ -42125,7 +42125,7 @@ min_phrase_weight: 100
 𣤞	ri.qian
 𣤟	shi.qian
 𣤠	sui.qian
-𣤡	aoqian
+𣤡	ao.qian
 𣤢	che.qian
 𣤣	yue.qian
 𣤤	lian.qian
@@ -42985,7 +42985,7 @@ min_phrase_weight: 100
 𣱺	shui.ba
 𣱻	shui.ji
 𣱼	shui.dao
-𣱽	shuinai
+𣱽	shui.nai
 𣱾	shui.liao
 𣱿	shui.ru
 𣲀	shui.shan
@@ -43004,10 +43004,10 @@ min_phrase_weight: 100
 𣲍	shui.wu
 𣲎	jin.shui
 𣲏	shui.pu
-𣲐	shuina
+𣲐	shui.na
 𣲑	shui.yao
 𣲒	shui.li
-𣲓	shuina
+𣲓	shui.na
 𣲔	shui.tai
 𣲕	shui.ran
 𣲖	shui.gua
@@ -43044,7 +43044,7 @@ min_phrase_weight: 100
 𣲵	shui.zhi
 𣲶	shui.jiu
 𣲷	shui.you
-𣲸	shuinai
+𣲸	shui.nai
 𣲹	shui.ran
 𣲺	shui.you
 𣲻	shui.ji
@@ -43292,7 +43292,7 @@ min_phrase_weight: 100
 𣶭	shui.lu
 𣶮	shui.ni
 𣶯	shui.men
-𣶰	shuia
+𣶰	shui.a
 𣶱	shui.zhi
 𣶲	shui.miao
 𣶳	shui.yu
@@ -43559,12 +43559,12 @@ min_phrase_weight: 100
 𣺸	shui.huo
 𣺹	shui.zhan
 𣺺	shui.tu
-𣺻	shuiang
+𣺻	shui.ang
 𣺼	shui.dang
 𣺽	shui.ba
 𣺾	shui.ru
 𣺿	shui.feng
-𣻀	shuina
+𣻀	shui.na
 𣻁	shui.zhen
 𣻂	shui.zhe
 𣻃	shui.bei
@@ -43677,7 +43677,7 @@ min_phrase_weight: 100
 𣼮	shui.chi
 𣼯	shui.pei
 𣼰	shui.xin
-𣼱	shuiou
+𣼱	shui.ou
 𣼲	shui.wei
 𣼳	shui.zhi
 𣼴	shui.ruan
@@ -43705,9 +43705,9 @@ min_phrase_weight: 100
 𣽊	shui.gu
 𣽋	shui.gao
 𣽌	shui.qian
-𣽍	shuina
+𣽍	shui.na
 𣽎	shui.shi
-𣽏	shuie
+𣽏	shui.e
 𣽐	shui.gan
 𣽑	shui.ben
 𣽒	shui.bei
@@ -43832,7 +43832,7 @@ min_phrase_weight: 100
 𣿉	shui.yi
 𣿊	shui.wen
 𣿋	shui.hu
-𣿌	shuie
+𣿌	shui.e
 𣿍	shui.min
 𣿎	shui.xian
 𣿏	shui.kou
@@ -43876,7 +43876,7 @@ min_phrase_weight: 100
 𣿵	shui.biao
 𣿶	shui.huo
 𣿷	shui.tu
-𣿸	shuinao
+𣿸	shui.nao
 𣿹	shui.yuan
 𣿺	shui.yao
 𣿻	shui.xiao
@@ -43954,7 +43954,7 @@ min_phrase_weight: 100
 𤁃	man.shan
 𤁄	shui.tu
 𤁅	shui.tai
-𤁆	shuiai
+𤁆	shui.ai
 𤁇	shui.rong
 𤁈	shui.jin
 𤁉	shui.tu
@@ -44084,7 +44084,7 @@ min_phrase_weight: 100
 𤃅	shui.yun
 𤃆	shui.huan
 𤃇	shui.yan
-𤃈	shuinang
+𤃈	shui.nang
 𤃉	shui.xin
 𤃊	shui.shi
 𤃋	shui.bei
@@ -44108,7 +44108,7 @@ min_phrase_weight: 100
 𤃝	shui.li
 𤃞	shui.man
 𤃟	shui.yong
-𤃠	shuinei
+𤃠	shui.nei
 𤃡	shui.ying
 𤃢	shui.lin
 𤃣	shui.ye
@@ -44276,7 +44276,7 @@ min_phrase_weight: 100
 𤆅	ren.huo
 𤆆	you.huo
 𤆇	huo.bi
-𤆈	huonai
+𤆈	huo.nai
 𤆉	ding.huo
 𤆊	huo.bu
 𤆋	ru.huo
@@ -44392,7 +44392,7 @@ min_phrase_weight: 100
 𤇹	huo.bi
 𤇺	huo.jiang
 𤇻	huo.dang
-𤇼	huoan
+𤇼	huo.an
 𤇽	huo.rong
 𤇾	huo.gai
 𤇿	huo.mi
@@ -44425,7 +44425,7 @@ min_phrase_weight: 100
 𤈚	zhao.huo
 𤈛	huo.guang
 𤈜	huo.zhi
-𤈝	huoai
+𤈝	huo.ai
 𤈞	huo.lei
 𤈟	ru.huo
 𤈠	huo.yu
@@ -44493,7 +44493,7 @@ min_phrase_weight: 100
 𤉞	cao.yan
 𤉟	feng.huo
 𤉠	shen.huo
-𤉡	aohuo
+𤉡	ao.huo
 𤉢	dao.huo
 𤉣	huo.zai
 𤉤	huo.bi
@@ -44706,7 +44706,7 @@ min_phrase_weight: 100
 𤌳	huo.xi
 𤌴	huo.jie
 𤌵	huo.ren
-𤌶	huoneng
+𤌶	huo.neng
 𤌷	huo.xin
 𤌸	huo.cao
 𤌹	zhuo.huo
@@ -44785,7 +44785,7 @@ min_phrase_weight: 100
 𤎂	mian.huo
 𤎃	huo.shi
 𤎄	huo.yan
-𤎅	aohuo
+𤎅	ao.huo
 𤎆	huo.tu
 𤎇	ren.huo
 𤎈	huo.ba
@@ -44935,7 +44935,7 @@ min_phrase_weight: 100
 𤐘	huo.shu
 𤐙	huo.bi
 𤐚	huo.xin
-𤐛	huonao
+𤐛	huo.nao
 𤐜	huo.wei
 𤐝	huo.lei
 𤐞	yan.ku
@@ -44973,7 +44973,7 @@ min_phrase_weight: 100
 𤐾	huo.xin
 𤐿	ku.huo
 𤑀	zhao.yan
-𤑁	huoan
+𤑁	huo.an
 𤑂	chang.ge
 𤑃	zhi.jian
 𤑄	bei.huo
@@ -45112,7 +45112,7 @@ min_phrase_weight: 100
 𤓉	nan.huo
 𤓊	huo.yan
 𤓋	huo.bian
-𤓌	huonan
+𤓌	huo.nan
 𤓍	huo.jin
 𤓎	huo.zan
 𤓏	zhi.huo
@@ -45134,7 +45134,7 @@ min_phrase_weight: 100
 𤓟	yao.huo
 𤓠	huo.kou
 𤓡	huo.you
-𤓢	huonang
+𤓢	huo.nang
 𤓣	huo.cun
 𤓤	chu.huo
 𤓥	er.huo
@@ -45438,7 +45438,7 @@ min_phrase_weight: 100
 𤘏	ya.hun
 𤘐	ya.yu
 𤘑	ya.qi
-𤘒	aoya
+𤘒	ao.ya
 𤘓	ya.ning
 𤘔	heng.niu
 𤘕	niu.fan
@@ -48142,7 +48142,7 @@ min_phrase_weight: 100
 𥂟	chuan.min
 𥂠	chen.min
 𥂡	er.min
-𥂢	aomin
+𥂢	ao.min
 𥂣	guo.min
 𥂤	gu.min
 𥂥	can.min
@@ -54772,7 +54772,7 @@ min_phrase_weight: 100
 𦪅	zhou.ting
 𦪆	zhou.ji
 𦪇	zhou.lu
-𦪈	aozhou
+𦪈	ao.zhou
 𦪉	zhou.huai
 𦪊	zhou.qi
 𦪋	zhou.xiu
@@ -59305,13 +59305,13 @@ min_phrase_weight: 100
 𧰺	ji.shi
 𧰻	shi.ling
 𧰼	dao.shi
-𧰽	aoshi
+𧰽	ao.shi
 𧰾	shi.ling
 𧰿	shiai
 𧱀	shi.xian
 𧱁	shi.tong
 𧱂	shi.gen
-𧱃	aoshi
+𧱃	ao.shi
 𧱄	kou.shi
 𧱅	shi.yi
 𧱆	shi.ce
@@ -60614,7 +60614,7 @@ min_phrase_weight: 100
 𨅗	zu.bi
 𨅘	peng.zu
 𨅙	zu.kou
-𨅚	aozu
+𨅚	ao.zu
 𨅛	zu.shu
 𨅜	zu.yi
 𨅝	zu.cheng
@@ -65708,7 +65708,7 @@ min_phrase_weight: 100
 𩔽	fang.ye
 𩔾	xu.bei
 𩔿	kuang.ye
-𩕀	aoye
+𩕀	ao.ye
 𩕁	chun.ye
 𩕂	ye.you
 𩕃	lei.ye
@@ -65946,7 +65946,7 @@ min_phrase_weight: 100
 𩘫	feng.hai
 𩘬	feng.tui
 𩘭	feng.xiu
-𩘮	aofeng
+𩘮	ao.feng
 𩘯	feng.zhuan
 𩘰	feng.su
 𩘱	feng.lv
@@ -66539,7 +66539,7 @@ min_phrase_weight: 100
 𩡼	ma.bian
 𩡽	pan.ma
 𩡾	ma.shao
-𩡿	aoma
+𩡿	ao.ma
 𩢀	ma.tun
 𩢁	ba.ma
 𩢂	shuang.ma
@@ -67515,7 +67515,7 @@ min_phrase_weight: 100
 𩱌	zhu.ge
 𩱍	gu.ge
 𩱎	fu.ge
-𩱏	aoge
+𩱏	ao.ge
 𩱐	ge.shang
 𩱑	jiang.ge
 𩱒	gong.ge
@@ -69728,7 +69728,7 @@ min_phrase_weight: 100
 𪓱	mian.mian
 𪓲	wen.mian
 𪓳	shi.mian
-𪓴	aomian
+𪓴	ao.mian
 𪓵	qiu.mian
 𪓶	chu.mian
 𪓷	xi.mian
@@ -70092,7 +70092,7 @@ min_phrase_weight: 100
 𪙝	chi.jiang
 𪙞	chi.chan
 𪙟	chi.jin
-𪙠	aochi
+𪙠	ao.chi
 𪙡	chi.cao
 𪙢	chi.wei
 𪙣	chi.dan
@@ -70362,7 +70362,7 @@ min_phrase_weight: 100
 𪞔	gai.qu
 𪞕	gai.li
 𪞖	shui.fan
-𪞗	shuinei
+𪞗	shui.nei
 𪞘	shui.jin
 𪞙	shui.wen
 𪞚	shui.chi
@@ -71861,7 +71861,7 @@ min_phrase_weight: 100
 𪵯	shui.zhao
 𪵰	shui.yin
 𪵱	shui.li
-𪵲	shuiao
+𪵲	shui.ao
 𪵳	shui.shi
 𪵴	shui.jin
 𪵵	yong.yue
@@ -71875,7 +71875,7 @@ min_phrase_weight: 100
 𪵽	shui.shuang
 𪵾	shui.xing
 𪵿	ding.quan
-𪶀	shuinan
+𪶀	shui.nan
 𪶁	shui.wang
 𪶂	shui.jian
 𪶃	shui.bie
@@ -71891,7 +71891,7 @@ min_phrase_weight: 100
 𪶍	shui.niu
 𪶎	shui.zhao
 𪶏	fa.ge
-𪶐	shuian
+𪶐	shui.an
 𪶑	shui.bi
 𪶒	shui.luo
 𪶓	shui.da
@@ -71913,7 +71913,7 @@ min_phrase_weight: 100
 𪶣	shui.cao
 𪶤	shui.fu
 𪶥	shui.heng
-𪶦	shuiai
+𪶦	shui.ai
 𪶧	shui.luan
 𪶨	shui.nu
 𪶩	shui.dai
@@ -71921,7 +71921,7 @@ min_phrase_weight: 100
 𪶫	shui.zhui
 𪶬	shui.fei
 𪶭	shui.lie
-𪶮	shuie
+𪶮	shui.e
 𪶯	shui.bai
 𪶰	biao.shui
 𪶱	shui.xin
@@ -72061,7 +72061,7 @@ min_phrase_weight: 100
 𪸷	huo.lu
 𪸸	huo.dian
 𪸹	huo.shan
-𪸺	huoang
+𪸺	huo.ang
 𪸻	huo.min
 𪸼	huo.zhou
 𪸽	huo.zhi
@@ -72072,7 +72072,7 @@ min_phrase_weight: 100
 𪹂	ling.sheng
 𪹃	shao.huo
 𪹄	huo.xin
-𪹅	huonai
+𪹅	huo.nai
 𪹆	huo.yue
 𪹇	huo.tan
 𪹈	huo.zheng
@@ -72099,7 +72099,7 @@ min_phrase_weight: 100
 𪹝	yan.huo
 𪹞	huo.zai
 𪹟	huo.bei
-𪹠	huonan
+𪹠	huo.nan
 𪹡	huo.bin
 𪹢	huo.wen
 𪹣	huo.xu
@@ -72109,13 +72109,13 @@ min_phrase_weight: 100
 𪹧	huo.di
 𪹨	huo.yong
 𪹩	yao.huo
-𪹪	huoe
+𪹪	huo.e
 𪹫	huo.peng
 𪹬	kou.huo
 𪹭	tie.huo
 𪹮	mao.huo
 𪹯	huo.ji
-𪹰	huonan
+𪹰	huo.nan
 𪹱	xiang.huo
 𪹲	huo.wen
 𪹳	huo.shu
@@ -72139,7 +72139,7 @@ min_phrase_weight: 100
 𪺅	huo.xian
 𪺆	huo.lang
 𪺇	huo.li
-𪺈	huonao
+𪺈	huo.nao
 𪺉	huo.xian
 𪺊	huo.yi
 𪺋	qiu.huo
@@ -72947,7 +72947,7 @@ min_phrase_weight: 100
 𫆭	rou.mi
 𫆮	yue.sun
 𫆯	yue.mai
-𫆰	aorou
+𫆰	ao.rou
 𫆱	yue.ba
 𫆲	yue.bi
 𫆳	yue.man
@@ -74045,7 +74045,7 @@ min_phrase_weight: 100
 𫗷	shou.dai
 𫗸	shou.xi
 𫗹	shou.wan
-𫗺	shouao
+𫗺	shou.ao
 𫗻	shou.miao
 𫗼	xiang.gui
 𫗽	xiang.quan
@@ -75164,7 +75164,7 @@ min_phrase_weight: 100
 𫩣	yang.kou
 𫩤	kou.ye
 𫩥	kou.jiu
-𫩦	kouao
+𫩦	kou.ao
 𫩧	ling.kou
 𫩨	yuan.kou
 𫩩	kou.chu
@@ -75181,7 +75181,7 @@ min_phrase_weight: 100
 𫩴	kou.duo
 𫩵	kou.li
 𫩶	li.kou
-𫩷	kounao
+𫩷	kou.nao
 𫩸	kou.bian
 𫩹	kou.si
 𫩺	kou.jin
@@ -75214,7 +75214,7 @@ min_phrase_weight: 100
 𫪕	hao.xian
 𫪖	kou.kua
 𫪗	kou.wu
-𫪘	kouou
+𫪘	kou.ou
 𫪙	feng.kou
 𫪚	kou.zhan
 𫪛	kou.chang
@@ -75224,7 +75224,7 @@ min_phrase_weight: 100
 𫪟	kou.cha
 𫪠	kou.shi
 𫪡	kou.cao
-𫪢	kouan
+𫪢	kou.an
 𫪣	hou.shi
 𫪤	kou.quan
 𫪥	kou.chi
@@ -75257,11 +75257,11 @@ min_phrase_weight: 100
 𫫀	kou.ke
 𫫁	kou.fei
 𫫂	kou.hai
-𫫃	kouai
+𫫃	kou.ai
 𫫄	kou.xie
 𫫅	kou.dou
 𫫆	kou.zhong
-𫫇	koue
+𫫇	kou.e
 𫫈	bu.he
 𫫉	kou.qian
 𫫊	kou.zhi
@@ -75276,7 +75276,7 @@ min_phrase_weight: 100
 𫫓	kou.dian
 𫫔	kou.gua
 𫫕	kou.shou
-𫫖	koue
+𫫖	kou.e
 𫫗	kou.bei
 𫫘	fou.fou
 𫫙	kou.qian
@@ -75287,7 +75287,7 @@ min_phrase_weight: 100
 𫫞	she.nian
 𫫟	kou.tou
 𫫠	kou.su
-𫫡	kouan
+𫫡	kou.an
 𫫢	kou.bei
 𫫣	kou.qian
 𫫤	kou.qi
@@ -76387,7 +76387,7 @@ min_phrase_weight: 100
 𫼪	shou.chan
 𫼫	shou.bi
 𫼬	shou.yi
-𫼭	shounao
+𫼭	shou.nao
 𫼮	shou.nong
 𫼯	shou.bian
 𫼰	shou.ru
@@ -76406,7 +76406,7 @@ min_phrase_weight: 100
 𫼽	shou.men
 𫼾	shou.ji
 𫼿	shou.gai
-𫽀	shouna
+𫽀	shou.na
 𫽁	shou.lian
 𫽂	ji.fen
 𫽃	shou.huo
@@ -76426,7 +76426,7 @@ min_phrase_weight: 100
 𫽑	shu.ri
 𫽒	shou.dou
 𫽓	shou.shou
-𫽔	shounao
+𫽔	shou.nao
 𫽕	shou.bian
 𫽖	shou.zu
 𫽗	shou.min
@@ -76446,8 +76446,8 @@ min_phrase_weight: 100
 𫽥	shou.ju
 𫽦	shou.ran
 𫽧	shou.fei
-𫽨	shounao
-𫽩	shounai
+𫽨	shou.nao
+𫽩	shou.nai
 𫽪	shou.tu
 𫽫	shou.dun
 𫽬	shou.shou
@@ -77272,7 +77272,7 @@ min_phrase_weight: 100
 𬊟	dao.huo
 𬊠	huo.ping
 𬊡	huo.hu
-𬊢	huonao
+𬊢	huo.nao
 𬊣	huo.jing
 𬊤	huo.dan
 𬊥	huo.hui
@@ -77296,7 +77296,7 @@ min_phrase_weight: 100
 𬊷	huo.shu
 𬊸	huo.li
 𬊹	chu.huo
-𬊺	huoai
+𬊺	huo.ai
 𬊻	bai.huo
 𬊼	huo.gun
 𬊽	ling.sheng
@@ -77333,7 +77333,7 @@ min_phrase_weight: 100
 𬋜	huo.zhui
 𬋝	xue.huo
 𬋞	huo.li
-𬋟	huonang
+𬋟	huo.nang
 𬋠	yan.huo
 𬋡	yao.huo
 𬋢	he.huo
@@ -81229,7 +81229,7 @@ min_phrase_weight: 100
 𭈢	kou.qi
 𭈣	kou.wei
 𭈤	kou.qian
-𭈥	kounao
+𭈥	kou.nao
 𭈦	kou.gu
 𭈧	kou.san
 𭈨	kou.duo
@@ -81282,7 +81282,7 @@ min_phrase_weight: 100
 𭉗	kou.ji
 𭉘	ren.pin
 𭉙	kou.he
-𭉚	kouai
+𭉚	kou.ai
 𭉛	kou.gong
 𭉜	kou.li
 𭉝	kou.shu
@@ -81314,14 +81314,14 @@ min_phrase_weight: 100
 𭉷	kou.zu
 𭉸	kou.di
 𭉹	kou.chong
-𭉺	kouna
+𭉺	kou.na
 𭉻	kou.niang
-𭉼	kounan
+𭉼	kou.nan
 𭉽	ren.gong
 𭉾	kou.zhuan
 𭉿	kou.xi
 𭊀	he.yi
-𭊁	kouna
+𭊁	kou.na
 𭊂	kou.li
 𭊃	kou.fan
 𭊄	kou.quan
@@ -81334,7 +81334,7 @@ min_phrase_weight: 100
 𭊋	kou.lao
 𭊌	kou.qiu
 𭊍	kou.huan
-𭊎	koua
+𭊎	kou.a
 𭊏	kou.peng
 𭊐	zhou.he
 𭊑	kou.cai
@@ -81398,7 +81398,7 @@ min_phrase_weight: 100
 𭋋	kou.yuan
 𭋌	kou.gan
 𭋍	kou.jin
-𭋎	kouan
+𭋎	kou.an
 𭋏	kou.zhi
 𭋐	kou.pi
 𭋑	kou.jian
@@ -81419,7 +81419,7 @@ min_phrase_weight: 100
 𭋠	ji.chang
 𭋡	kou.zhen
 𭋢	kou.qie
-𭋣	kouao
+𭋣	kou.ao
 𭋤	kou.yu
 𭋥	kou.meng
 𭋦	kou.shi
@@ -81485,7 +81485,7 @@ min_phrase_weight: 100
 𭌢	kou.bei
 𭌣	kou.yu
 𭌤	kou.chong
-𭌥	kouai
+𭌥	kou.ai
 𭌦	kou.niao
 𭌧	kou.xun
 𭌨	kou.niu
@@ -81520,7 +81520,7 @@ min_phrase_weight: 100
 𭍅	kou.pi
 𭍆	kou.lu
 𭍇	kou.piao
-𭍈	kounang
+𭍈	kou.nang
 𭍉	kou.niao
 𭍊	kou.wen
 𭍋	kou.ye
@@ -82799,7 +82799,7 @@ min_phrase_weight: 100
 𭡄	shou.xin
 𭡅	shou.qiong
 𭡆	shou.ying
-𭡇	shouna
+𭡇	shou.na
 𭡈	shou.zhi
 𭡉	shou.yi
 𭡊	shou.er
@@ -82824,7 +82824,7 @@ min_phrase_weight: 100
 𭡝	shou.han
 𭡞	shou.feng
 𭡟	shou.yuan
-𭡠	shounai
+𭡠	shou.nai
 𭡡	shou.du
 𭡢	shou.cao
 𭡣	ri.shou
@@ -82845,7 +82845,7 @@ min_phrase_weight: 100
 𭡲	shou.xia
 𭡳	shou.qi
 𭡴	shou.zhan
-𭡵	shoue
+𭡵	shou.e
 𭡶	shou.cao
 𭡷	shou.shu
 𭡸	shou.shi
@@ -82856,7 +82856,7 @@ min_phrase_weight: 100
 𭡽	shou.cheng
 𭡾	shou.qi
 𭡿	shou.yi
-𭢀	shouan
+𭢀	shou.an
 𭢁	shou.mi
 𭢂	shou.zuo
 𭢃	shou.suo
@@ -83723,7 +83723,7 @@ min_phrase_weight: 100
 𭯠	ya.mao
 𭯡	mu.mao
 𭯢	wei.liang
-𭯣	aomao
+𭯣	ao.mao
 𭯤	mao.tong
 𭯥	yu.mao
 𭯦	jia.mao
@@ -83745,7 +83745,7 @@ min_phrase_weight: 100
 𭯶	kou.shui
 𭯷	shui.me
 𭯸	shui.ri
-𭯹	shuiang
+𭯹	shui.ang
 𭯺	shui.ren
 𭯻	shui.bi
 𭯼	yong.tu
@@ -83772,7 +83772,7 @@ min_phrase_weight: 100
 𭰑	shui.cha
 𭰒	shui.sha
 𭰓	shui.zhai
-𭰔	shuinao
+𭰔	shui.nao
 𭰕	shui.hao
 𭰖	shui.gong
 𭰗	shui.mai
@@ -83824,7 +83824,7 @@ min_phrase_weight: 100
 𭱅	shui.li
 𭱆	mu.gao
 𭱇	fa.yao
-𭱈	shuinai
+𭱈	shui.nai
 𭱉	qiu.geng
 𭱊	shui.xiang
 𭱋	shui.ran
@@ -84060,7 +84060,7 @@ min_phrase_weight: 100
 𭴱	huo.mei
 𭴲	huo.sha
 𭴳	huo.jian
-𭴴	huona
+𭴴	huo.na
 𭴵	huo.qin
 𭴶	huo.tian
 𭴷	jiu.huo
@@ -84126,7 +84126,7 @@ min_phrase_weight: 100
 𭵳	chen.huo
 𭵴	xing.huo
 𭵵	huo.sheng
-𭵶	huoao
+𭵶	huo.ao
 𭵷	huo.huo
 𭵸	huo.pu
 𭵹	huo.zhu
@@ -85595,7 +85595,7 @@ min_phrase_weight: 100
 𮌰	yue.shi
 𮌱	bei.gong
 𮌲	yue.jian
-𮌳	aoyue
+𮌳	ao.yue
 𮌴	yue.kun
 𮌵	yue.mu
 𮌶	yue.chu
