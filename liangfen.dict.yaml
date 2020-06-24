@@ -1773,12 +1773,12 @@ min_phrase_weight: 100
 哚	kou.duo
 哛	chi.fen
 哜	kou.qi
-哝	kounong
+哝	kou.nong
 哞	kou.mou
 哟	kou.yue
 哠	kou.gao
 員	kou.bei
-哢	kounong
+哢	kou.nong
 哣	kou.dou
 哤	kou.long
 哥	ke.ke
@@ -2165,7 +2165,7 @@ min_phrase_weight: 100
 噢	kouao
 噣	kou.shu
 噤	kou.jin
-噥	kounong
+噥	kou.nong
 噦	kou.sui
 噧	kou.wan
 器	kou.quan
@@ -5445,7 +5445,7 @@ min_phrase_weight: 100
 挲	sha.shou
 挳	shou.jing
 挴	shou.mei
-挵	shounong
+挵	shou.nong
 挶	shou.ju
 挷	shou.bang
 挸	shou.jian
@@ -5843,7 +5843,7 @@ min_phrase_weight: 100
 擀	shou.gan
 擁	shou.yong
 擂	shou.lei
-擃	shounong
+擃	shou.nong
 擄	shou.lu
 擅	shou.dan
 擆	shou.zhu
@@ -6807,7 +6807,7 @@ min_phrase_weight: 100
 梄	mu.you
 梅	mu.mei
 梆	mu.bang
-梇	munong
+梇	mu.nong
 梈	mu.heng
 梉	mu.zhuang
 梊	zhe.mu
@@ -7314,7 +7314,7 @@ min_phrase_weight: 100
 橿	mu.jiang
 檀	mu.dan
 檁	mu.he
-檂	munong
+檂	mu.nong
 檃	yin.mu
 檄	mu.jiao
 檅	mu.sui
@@ -8035,7 +8035,7 @@ min_phrase_weight: 100
 浐	shui.chan
 浑	shui.jun
 浒	shui.xu
-浓	shuinong
+浓	shui.nong
 浔	shui.xun
 浕	shui.jin
 浖	shui.lve
@@ -8659,7 +8659,7 @@ min_phrase_weight: 100
 激	shui.jiao
 濁	shui.shu
 濂	shui.lian
-濃	shuinong
+濃	shui.nong
 濄	shui.guo
 濅	shui.you
 濆	shui.ben
@@ -9222,7 +9222,7 @@ min_phrase_weight: 100
 燳	huo.zhao
 燴	huo.hui
 燵	huo.da
-燶	huonong
+燶	huo.nong
 燷	huo.bing
 燸	huo.xu
 燹	shi.huo
@@ -10870,7 +10870,7 @@ min_phrase_weight: 100
 硣	shi.xiao
 硤	shi.jia
 硥	shi.long
-硦	shinong
+硦	shi.nong
 硧	shi.yong
 硨	shi.che
 硩	zhe.shi
@@ -11199,7 +11199,7 @@ min_phrase_weight: 100
 禬	shi.hui
 禭	shi.sui
 禮	shi.li
-禯	shinong
+禯	shi.nong
 禰	shi.er
 禱	shi.shou
 禲	shi.li
@@ -11278,7 +11278,7 @@ min_phrase_weight: 100
 移	he.duo
 秼	he.zhu
 秽	he.sui
-秾	henong
+秾	he.nong
 秿	he.fu
 稀	he.xi
 稁	er.he
@@ -11376,7 +11376,7 @@ min_phrase_weight: 100
 穝	he.zui
 穞	he.lu
 穟	he.sui
-穠	henong
+穠	he.nong
 穡	he.se
 穢	he.sui
 穣	he.xiang
@@ -11645,7 +11645,7 @@ min_phrase_weight: 100
 筪	zhu.xia
 筫	zhu.bei
 筬	zhu.cheng
-筭	zhunong
+筭	zhu.nong
 筮	zhu.wu
 筯	zhu.zhu
 筰	zhu.zuo
@@ -12423,7 +12423,7 @@ min_phrase_weight: 100
 繴	bi.si
 繵	si.dan
 繶	si.yi
-繷	sinong
+繷	si.nong
 繸	si.sui
 繹	si.xing
 繺	si.sha
@@ -13091,7 +13091,7 @@ min_phrase_weight: 100
 脐	yue.qi
 脑	yue.xiong
 脒	yue.mi
-脓	yuenong
+脓	yue.nong
 脔	yi.rou
 脕	yue.mian
 脖	yue.bo
@@ -13263,7 +13263,7 @@ min_phrase_weight: 100
 膼	yue.guo
 膽	yue.zhan
 膾	yue.hui
-膿	yuenong
+膿	yue.nong
 臀	dian.yue
 臁	yue.lian
 臂	bi.yue
@@ -14221,7 +14221,7 @@ min_phrase_weight: 100
 蕺	cao.ji
 蕻	cao.gong
 蕼	cao.si
-蕽	caonong
+蕽	cao.nong
 蕾	cao.lei
 蕿	cao.yuan
 薀	cao.wen
@@ -15211,7 +15211,7 @@ min_phrase_weight: 100
 襘	yi.hui
 襙	yi.zao
 襚	yi.sui
-襛	yinong
+襛	yi.nong
 襜	yi.zhan
 襝	yi.qian
 襞	bi.yi
@@ -17346,7 +17346,7 @@ min_phrase_weight: 100
 醯	you.min
 醰	you.tan
 醱	you.fa
-醲	younong
+醲	you.nong
 醳	you.xing
 醴	you.li
 醵	you.ju
@@ -19758,7 +19758,7 @@ min_phrase_weight: 100
 鬛	biao.shu
 鬜	biao.jian
 鬝	biao.jian
-鬞	biaonong
+鬞	biao.nong
 鬟	biao.huan
 鬠	biao.hui
 鬡	biao.ning
@@ -20824,7 +20824,7 @@ min_phrase_weight: 100
 齅	bi.chou
 齆	bi.yong
 齇	bi.qie
-齈	binong
+齈	bi.nong
 齉	binang
 齊	er.er
 齋	qi.xiao
@@ -23195,7 +23195,7 @@ min_phrase_weight: 100
 㳢	shui.qiao
 㳣	shui.lao
 㳤	shui.cao
-㳥	shuinong
+㳥	shui.nong
 㳦	shui.jie
 㳧	shui.er
 㳨	shui.dai
@@ -23404,7 +23404,7 @@ min_phrase_weight: 100
 㶳	yu.huo
 㶴	huo.duo
 㶵	ren.huo
-㶶	huonong
+㶶	huo.nong
 㶷	huo.xun
 㶸	huo.li
 㶹	huo.gong
@@ -24110,7 +24110,7 @@ min_phrase_weight: 100
 䁵	mu.huan
 䁶	mu.jiao
 䁷	yao.mu
-䁸	munong
+䁸	mu.nong
 䁹	mu.bi
 䁺	mu.xing
 䁻	mu.le
@@ -24223,7 +24223,7 @@ min_phrase_weight: 100
 䃦	dun.shi
 䃧	long.shi
 䃨	shi.qiang
-䃩	shinong
+䃩	shi.nong
 䃪	shi.dan
 䃫	shi.zhan
 䃬	shi.gui
@@ -25644,7 +25644,7 @@ min_phrase_weight: 100
 䙳	xi.huo
 䙴	xi.si
 䙵	xi.gui
-䙶	xinong
+䙶	xi.nong
 䙷	jian.cun
 䙸	jian.cun
 䙹	kai.jian
@@ -27410,7 +27410,7 @@ min_phrase_weight: 100
 䵙	shu.duo
 䵚	shu.yao
 䵛	shu.jian
-䵜	shunong
+䵜	shu.nong
 䵝	hei.yi
 䵞	hei.dao
 䵟	hei.gan
@@ -29046,7 +29046,7 @@ min_phrase_weight: 100
 𠘇	shui.zhou
 𠘈	shui.chan
 𠘉	shui.jing
-𠘊	shuinong
+𠘊	shui.nong
 𠘋	shui.ding
 𠘌	shui.jiang
 𠘍	shui.mu
@@ -31109,7 +31109,7 @@ min_phrase_weight: 100
 𠸖	kou.ling
 𠸗	chu.gu
 𠸘	kou.su
-𠸙	gunong
+𠸙	gu.nong
 𠸚	kou.gou
 𠸛	ming.xian
 𠸜	xian.ming
@@ -31624,7 +31624,7 @@ min_phrase_weight: 100
 𡀙	kou.ku
 𡀚	kou.si
 𡀛	kou.hu
-𡀜	kounong
+𡀜	kou.nong
 𡀝	kou.nian
 𡀞	kou.qi
 𡀟	kou.sui
@@ -32349,7 +32349,7 @@ min_phrase_weight: 100
 𡋮	tu.zhao
 𡋯	tu.bo
 𡋰	tu.wu
-𡋱	tunong
+𡋱	tu.nong
 𡋲	you.tu
 𡋳	tu.bi
 𡋴	ban.tu
@@ -34779,7 +34779,7 @@ min_phrase_weight: 100
 𡱬	wei.zi
 𡱭	wei.gan
 𡱮	chi.tian
-𡱯	shinong
+𡱯	shi.nong
 𡱰	shi.shi
 𡱱	shi.yao
 𡱲	shi.fan
@@ -34870,7 +34870,7 @@ min_phrase_weight: 100
 𡳇	shi.liu
 𡳈	shi.tu
 𡳉	shi.wen
-𡳊	weinong
+𡳊	wei.nong
 𡳋	shi.shi
 𡳌	shi.wen
 𡳍	shi.ju
@@ -40507,7 +40507,7 @@ min_phrase_weight: 100
 𣋌	ri.kui
 𣋍	ri.fei
 𣋎	shan.chang
-𣋏	rinong
+𣋏	ri.nong
 𣋐	ming.zhe
 𣋑	ri.ye
 𣋒	ri.kui
@@ -42731,7 +42731,7 @@ min_phrase_weight: 100
 𣭼	niao.mao
 𣭽	chen.mao
 𣭾	mao.fu
-𣭿	maonong
+𣭿	mao.nong
 𣮀	li.mao
 𣮁	mao.xiu
 𣮂	mao.li
@@ -45062,7 +45062,7 @@ min_phrase_weight: 100
 𤒗	zhi.ci
 𤒘	huo.du
 𤒙	zhen.shu
-𤒚	huonong
+𤒚	huo.nong
 𤒛	huo.ru
 𤒜	huo.huo
 𤒝	zi.huo
@@ -47960,7 +47960,7 @@ min_phrase_weight: 100
 𤿩	gao.pi
 𤿪	qian.pi
 𤿫	dui.pi
-𤿬	pinong
+𤿬	pi.nong
 𤿭	pi.fu
 𤿮	kou.pi
 𤿯	mian.pi
@@ -50424,7 +50424,7 @@ min_phrase_weight: 100
 𥦉	xue.li
 𥦊	xue.zuo
 𥦋	xue.fen
-𥦌	xuenong
+𥦌	xue.nong
 𥦍	xue.cao
 𥦎	xue.bei
 𥦏	xue.da
@@ -51399,7 +51399,7 @@ min_phrase_weight: 100
 𥵘	zhu.li
 𥵙	zhu.zhao
 𥵚	zhu.qin
-𥵛	zhunong
+𥵛	zhu.nong
 𥵜	zhu.pu
 𥵝	zhu.ling
 𥵞	zhu.jie
@@ -56255,7 +56255,7 @@ min_phrase_weight: 100
 𧁐	cao.shi
 𧁑	cao.xin
 𧁒	cao.yang
-𧁓	caonong
+𧁓	cao.nong
 𧁔	pu.min
 𧁕	cao.bing
 𧁖	cao.tian
@@ -57838,7 +57838,7 @@ min_phrase_weight: 100
 𧙿	yi.yi
 𧚀	yi.mei
 𧚁	yi.wan
-𧚂	yinong
+𧚂	yi.nong
 𧚃	yi.xi
 𧚄	yi.wo
 𧚅	yi.liang
@@ -60370,7 +60370,7 @@ min_phrase_weight: 100
 𨁣	zu.huo
 𨁤	zu.chuang
 𨁥	du.zu
-𨁦	zunong
+𨁦	zu.nong
 𨁧	zunei
 𨁨	zu.kuang
 𨁩	zu.ba
@@ -60682,7 +60682,7 @@ min_phrase_weight: 100
 𨆛	zu.dun
 𨆜	fan.zu
 𨆝	zu.hui
-𨆞	zunong
+𨆞	zu.nong
 𨆟	zu.dong
 𨆠	zu.kui
 𨆡	zu.ye
@@ -61366,7 +61366,7 @@ min_phrase_weight: 100
 𨑇	xi.chen
 𨑈	gai.cun
 𨑉	chen.tu
-𨑊	duonong
+𨑊	duo.nong
 𨑋	xin.chen
 𨑌	tian.chen
 𨑍	zou.jiu
@@ -61517,7 +61517,7 @@ min_phrase_weight: 100
 𨓞	zou.liu
 𨓟	zou.gong
 𨓠	zou.shi
-𨓡	zounong
+𨓡	zou.nong
 𨓢	jin.wu
 𨓣	zou.cun
 𨓤	zou.wen
@@ -64553,7 +64553,7 @@ min_phrase_weight: 100
 𩂺	yu.shu
 𩂻	yu.er
 𩂼	yu.geng
-𩂽	yunong
+𩂽	yu.nong
 𩂾	yu.kao
 𩂿	yu.jun
 𩃀	yu.yan
@@ -64678,7 +64678,7 @@ min_phrase_weight: 100
 𩄷	yu.zhan
 𩄸	yu.pu
 𩄹	yu.lang
-𩄺	yunong
+𩄺	yu.nong
 𩄻	yu.mo
 𩄼	yu.fei
 𩄽	yu.lou
@@ -64745,7 +64745,7 @@ min_phrase_weight: 100
 𩅺	yu.yang
 𩅻	yu.zhu
 𩅼	yu.qian
-𩅽	yunong
+𩅽	yu.nong
 𩅾	yun.shen
 𩅿	yu.pu
 𩆀	yu.zhi
@@ -66358,7 +66358,7 @@ min_phrase_weight: 100
 𩟇	shiao
 𩟈	shi.dang
 𩟉	shi.gui
-𩟊	shinong
+𩟊	shi.nong
 𩟋	shi.zhan
 𩟌	shi.yao
 𩟍	shi.qi
@@ -67010,7 +67010,7 @@ min_phrase_weight: 100
 𩩓	gu.xiao
 𩩔	gu.zu
 𩩕	gu.mao
-𩩖	gunong
+𩩖	gu.nong
 𩩗	gu.she
 𩩘	yu.gu
 𩩙	gu.shi
@@ -68209,7 +68209,7 @@ min_phrase_weight: 100
 𩼂	yu.sui
 𩼃	yu.jing
 𩼄	si.yan
-𩼅	yunong
+𩼅	yu.nong
 𩼆	yu.li
 𩼇	yu.can
 𩼈	yu.da
@@ -68920,7 +68920,7 @@ min_phrase_weight: 100
 𪇉	yong.niao
 𪇊	niao.bi
 𪇋	niao.wei
-𪇌	niaonong
+𪇌	niao.nong
 𪇍	niao.guo
 𪇎	jin.niao
 𪇏	jiang.niao
@@ -69656,7 +69656,7 @@ min_phrase_weight: 100
 𪒩	hei.sui
 𪒪	hei.wan
 𪒫	hei.qian
-𪒬	heinong
+𪒬	hei.nong
 𪒭	hei.qin
 𪒮	hei.dian
 𪒯	hei.xian
@@ -70400,7 +70400,7 @@ min_phrase_weight: 100
 𪞺	chu.ru
 𪞻	nao.wu
 𪞼	nao.xian
-𪞽	naonong
+𪞽	nao.nong
 𪞾	fu.dao
 𪞿	tun.dao
 𪟀	dao.fang
@@ -70676,7 +70676,7 @@ min_phrase_weight: 100
 𪣎	tu.zhu
 𪣏	tu.zhou
 𪣐	tu.zhuang
-𪣑	tunong
+𪣑	tu.nong
 𪣒	tu.jun
 𪣓	tu.tuo
 𪣔	tu.wu
@@ -72806,7 +72806,7 @@ min_phrase_weight: 100
 𫄠	si.gen
 𫄡	si.tong
 𫄢	si.fu
-𫄣	sinong
+𫄣	si.nong
 𫄤	si.da
 𫄥	si.li
 𫄦	si.jie
@@ -73024,7 +73024,7 @@ min_phrase_weight: 100
 𫇺	cao.zhuang
 𫇻	cao.chi
 𫇼	cao.fan
-𫇽	caonong
+𫇽	cao.nong
 𫇾	cao.tu
 𫇿	cao.shu
 𫈀	cao.chui
@@ -74882,7 +74882,7 @@ min_phrase_weight: 100
 𫥉	shui.zhi
 𫥊	shui.wei
 𫥋	shui.gen
-𫥌	shuinong
+𫥌	shui.nong
 𫥍	shui.yan
 𫥎	mian.shui
 𫥏	shui.mei
@@ -75528,7 +75528,7 @@ min_phrase_weight: 100
 𫯏	yi.wai
 𫯐	duo.ben
 𫯑	shen.xi
-𫯒	duonong
+𫯒	duo.nong
 𫯓	lai.duo
 𫯔	qi.duo
 𫯕	ru.wai
@@ -76388,7 +76388,7 @@ min_phrase_weight: 100
 𫼫	shou.bi
 𫼬	shou.yi
 𫼭	shounao
-𫼮	shounong
+𫼮	shou.nong
 𫼯	shou.bian
 𫼰	shou.ru
 𫼱	shou.gong
@@ -76774,7 +76774,7 @@ min_phrase_weight: 100
 𬂭	mu.xiang
 𬂮	mu.sha
 𬂯	mu.tian
-𬂰	munong
+𬂰	mu.nong
 𬂱	tang.mu
 𬂲	mu.ya
 𬂳	mu.wu
@@ -77248,7 +77248,7 @@ min_phrase_weight: 100
 𬊇	huo.cha
 𬊈	huo.xun
 𬊉	huo.da
-𬊊	huonong
+𬊊	huo.nong
 𬊋	huo.qiu
 𬊌	huo.zhi
 𬊍	huo.shou
@@ -77444,7 +77444,7 @@ min_phrase_weight: 100
 𬍋	yu.quan
 𬍌	gou.ku
 𬍍	zhunan
-𬍎	zhunong
+𬍎	zhu.nong
 𬍏	lv.xia
 𬍐	wang.chu
 𬍑	wang.shan
@@ -77580,7 +77580,7 @@ min_phrase_weight: 100
 𬏓	fan.ba
 𬏔	fan.fen
 𬏕	you.dan
-𬏖	yinong
+𬏖	yi.nong
 𬏗	fan.ci
 𬏘	yi.cao
 𬏙	huo.pi
@@ -78012,7 +78012,7 @@ min_phrase_weight: 100
 𬖃	zhu.zan
 𬖄	zhu.lian
 𬖅	zhu.yu
-𬖆	zhunong
+𬖆	zhu.nong
 𬖇	zhu.qu
 𬖈	zhu.zhui
 𬖉	zhu.wang
@@ -78322,7 +78322,7 @@ min_phrase_weight: 100
 𬚹	yue.duo
 𬚺	rou.ci
 𬚻	yue.tun
-𬚼	yuenong
+𬚼	yue.nong
 𬚽	kuang.yue
 𬚾	yue.wo
 𬚿	rou.xian
@@ -79327,7 +79327,7 @@ min_phrase_weight: 100
 𬪦	you.jing
 𬪧	you.qu
 𬪨	you.jian
-𬪩	younong
+𬪩	you.nong
 𬪪	you.you
 𬪫	you.jian
 𬪬	you.xin
@@ -79967,7 +79967,7 @@ min_phrase_weight: 100
 𬴦	er.cheng
 𬴧	biao.kai
 𬴨	biao.yao
-𬴩	biaonong
+𬴩	biao.nong
 𬴪	biao.song
 𬴫	biao.lin
 𬴬	biao.shang
@@ -80268,7 +80268,7 @@ min_phrase_weight: 100
 𬹓	huange
 𬹔	shu.shu
 𬹕	hei.zhen
-𬹖	heinong
+𬹖	hei.nong
 𬹗	hei.lai
 𬹘	hei.ma
 𬹙	zhen.hei
@@ -82780,7 +82780,7 @@ min_phrase_weight: 100
 𭠱	shou.dao
 𭠲	shou.hong
 𭠳	shou.ke
-𭠴	shounong
+𭠴	shou.nong
 𭠵	shou.yao
 𭠶	shou.zhi
 𭠷	shou.tu
@@ -83116,7 +83116,7 @@ min_phrase_weight: 100
 𭦁	ri.ji
 𭦂	ri.gen
 𭦃	ren.ri
-𭦄	rinong
+𭦄	ri.nong
 𭦅	ri.tu
 𭦆	ri.da
 𭦇	ri.mang
@@ -85110,7 +85110,7 @@ min_phrase_weight: 100
 𮅋	zhu.zhu
 𮅌	zhu.xin
 𮅍	zhu.li
-𮅎	zhunong
+𮅎	zhu.nong
 𮅏	zhu.pie
 𮅐	zhu.gen
 𮅑	zhu.kang
@@ -87269,7 +87269,7 @@ min_phrase_weight: 100
 𮦺	yu.bin
 𮦻	shi.huo
 𮦼	yu.huo
-𮦽	yunong
+𮦽	yu.nong
 𮦾	yu.bi
 𮦿	yu.tu
 𮧀	yun.qian
