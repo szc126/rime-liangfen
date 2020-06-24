@@ -6162,7 +6162,7 @@ min_phrase_weight: 100
 旿	ri.wu
 昀	ri.yun
 昁	ri.fu
-昂	riang
+昂	ri.ang
 昃	ri.ren
 昄	ri.fan
 昅	ri.ji
@@ -6239,7 +6239,7 @@ min_phrase_weight: 100
 晌	ri.xiang
 晍	ri.tong
 晎	ri.gong
-晏	rian
+晏	ri.an
 晐	ri.hai
 晑	ri.xiang
 晒	ri.xi
@@ -6308,7 +6308,7 @@ min_phrase_weight: 100
 暑	ri.zhe
 暒	ri.xing
 暓	mao.ri
-暔	rinan
+暔	ri.nan
 暕	ri.jian
 暖	ri.yuan
 暗	ri.yin
@@ -6327,7 +6327,7 @@ min_phrase_weight: 100
 暤	ri.ben
 暥	ri.yan
 暦	chang.ri
-暧	riai
+暧	ri.ai
 暨	ji.dan
 暩	ri.ji
 暪	ri.man
@@ -6374,7 +6374,7 @@ min_phrase_weight: 100
 曓	ri.ben
 曔	ri.jing
 曕	ri.zhan
-曖	riai
+曖	ri.ai
 曗	ri.ye
 曘	ri.xu
 曙	ri.shu
@@ -12061,7 +12061,7 @@ min_phrase_weight: 100
 紊	wen.si
 紋	si.wen
 紌	si.you
-納	sinei
+納	si.nei
 紎	si.quan
 紏	si.dou
 紐	si.chou
@@ -12483,7 +12483,7 @@ min_phrase_weight: 100
 纰	si.bi
 纱	si.shao
 纲	si.gang
-纳	sinei
+纳	si.nei
 纴	si.ren
 纵	si.cong
 纶	si.lun
@@ -12673,13 +12673,13 @@ min_phrase_weight: 100
 置	si.zhi
 罯	si.yin
 罰	si.dao
-罱	sinan
+罱	si.nan
 署	si.zhe
 罳	si.si
 罴	ba.huo
 罵	si.ma
 罶	si.liu
-罷	sineng
+罷	si.neng
 罸	si.tao
 罹	si.wei
 罺	si.chao
@@ -22686,7 +22686,7 @@ min_phrase_weight: 100
 㫥	ri.ming
 㫦	ren.ri
 㫧	ri.mi
-㫨	rian
+㫨	ri.an
 㫩	hui.ri
 㫪	chun.jiu
 㫫	ri.ya
@@ -22756,7 +22756,7 @@ min_phrase_weight: 100
 㬫	yan.ri
 㬬	ri.qu
 㬭	ri.jue
-㬮	rinan
+㬮	ri.nan
 㬯	ri.lei
 㬰	ri.ren
 㬱	xian.ri
@@ -24736,7 +24736,7 @@ min_phrase_weight: 100
 䋧	si.ju
 䋨	si.pou
 䋩	si.er
-䋪	sia
+䋪	si.a
 䋫	si.zheng
 䋬	si.tian
 䋭	si.yu
@@ -24753,7 +24753,7 @@ min_phrase_weight: 100
 䋸	si.dun
 䋹	si.fu
 䋺	si.qiu
-䋻	sinan
+䋻	si.nan
 䋼	si.ying
 䋽	si.feng
 䋾	si.duo
@@ -24820,7 +24820,7 @@ min_phrase_weight: 100
 䌻	si.yu
 䌼	si.dui
 䌽	si.cai
-䌾	sinan
+䌾	si.nan
 䌿	si.fu
 䍀	si.jian
 䍁	si.sui
@@ -27677,7 +27677,7 @@ min_phrase_weight: 100
 𠂮	chang.yi
 𠂯	qian.er
 𠂰	chang.jin
-𠂱	cinai
+𠂱	ci.nai
 𠂲	pie.lai
 𠂳	xiong.yao
 𠂴	shou.dan
@@ -30287,7 +30287,7 @@ min_phrase_weight: 100
 𠫠	si.ji
 𠫡	si.mu
 𠫢	feng.si
-𠫣	sinei
+𠫣	si.nei
 𠫤	cha.hong
 𠫥	ba.si
 𠫦	si.jin
@@ -40113,7 +40113,7 @@ min_phrase_weight: 100
 𣅂	ri.er
 𣅃	ri.bu
 𣅄	zhi.ri
-𣅅	rinai
+𣅅	ri.nai
 𣅆	heng.ri
 𣅇	ri.wang
 𣅈	wen.ri
@@ -40134,7 +40134,7 @@ min_phrase_weight: 100
 𣅗	ri.ji
 𣅘	ri.kui
 𣅙	ri.kui
-𣅚	rinei
+𣅚	ri.nei
 𣅛	chang.ri
 𣅜	bi.ri
 𣅝	ri.you
@@ -40387,7 +40387,7 @@ min_phrase_weight: 100
 𣉔	ri.zao
 𣉕	ri.sang
 𣉖	ri.gen
-𣉗	riang
+𣉗	ri.ang
 𣉘	neng.ri
 𣉙	zhuo.ri
 𣉚	ri.yang
@@ -40501,7 +40501,7 @@ min_phrase_weight: 100
 𣋆	ri.run
 𣋇	yang.dui
 𣋈	shang.ri
-𣋉	riao
+𣋉	ri.ao
 𣋊	ri.dan
 𣋋	ri.mian
 𣋌	ri.kui
@@ -40576,16 +40576,16 @@ min_phrase_weight: 100
 𣌑	ri.mi
 𣌒	yi.dui
 𣌓	ri.guan
-𣌔	rie
+𣌔	ri.e
 𣌕	ri.xun
-𣌖	rinan
+𣌖	ri.nan
 𣌗	ri.jue
 𣌘	ri.pu
 𣌙	ri.gan
 𣌚	dan.jing
 𣌛	dan.sang
 𣌜	xing.li
-𣌝	rinang
+𣌝	ri.nang
 𣌞	pu.yang
 𣌟	ri.ling
 𣌠	chun.chun
@@ -51959,7 +51959,7 @@ min_phrase_weight: 100
 𥾈	ba.si
 𥾉	si.bao
 𥾊	si.ji
-𥾋	sinai
+𥾋	si.nai
 𥾌	si.zi
 𥾍	si.gan
 𥾎	si.qi
@@ -51973,7 +51973,7 @@ min_phrase_weight: 100
 𥾖	si.chuan
 𥾗	si.xiao
 𥾘	si.shi
-𥾙	sina
+𥾙	si.na
 𥾚	si.rong
 𥾛	si.qie
 𥾜	xiong.si
@@ -52073,7 +52073,7 @@ min_phrase_weight: 100
 𥿺	si.wang
 𥿻	si.zhi
 𥿼	si.huang
-𥿽	sian
+𥿽	si.an
 𥿾	si.shou
 𥿿	er.si
 𦀀	an.si
@@ -52116,7 +52116,7 @@ min_phrase_weight: 100
 𦀥	jiu.si
 𦀦	si.jin
 𦀧	shao.si
-𦀨	sina
+𦀨	si.na
 𦀩	si.you
 𦀪	si.bo
 𦀫	si.qing
@@ -52136,7 +52136,7 @@ min_phrase_weight: 100
 𦀹	si.cun
 𦀺	si.che
 𦀻	si.gai
-𦀼	sinei
+𦀼	si.nei
 𦀽	si.gao
 𦀾	si.chuang
 𦀿	si.wei
@@ -52257,7 +52257,7 @@ min_phrase_weight: 100
 𦂲	si.bi
 𦂳	chen.si
 𦂴	si.shan
-𦂵	sina
+𦂵	si.na
 𦂶	si.ke
 𦂷	si.wen
 𦂸	si.po
@@ -52480,7 +52480,7 @@ min_phrase_weight: 100
 𦆑	si.tu
 𦆒	si.kui
 𦆓	si.wei
-𦆔	siai
+𦆔	si.ai
 𦆕	si.che
 𦆖	si.huo
 𦆗	cong.shao
@@ -52591,7 +52591,7 @@ min_phrase_weight: 100
 𦈀	cong.ning
 𦈁	cong.lv
 𦈂	si.rao
-𦈃	sinang
+𦈃	si.nang
 𦈄	si.ji
 𦈅	si.die
 𦈆	wen.bao
@@ -52908,7 +52908,7 @@ min_phrase_weight: 100
 𦌽	si.yan
 𦌾	si.huan
 𦌿	si.li
-𦍀	sinan
+𦍀	si.nan
 𦍁	si.si
 𦍂	si.xun
 𦍃	wang.huan
@@ -54403,7 +54403,7 @@ min_phrase_weight: 100
 𦤔	zi.fang
 𦤕	chou.jue
 𦤖	zi.zu
-𦤗	zinai
+𦤗	zi.nai
 𦤘	er.zi
 𦤙	nie.chu
 𦤚	chou.ba
@@ -72788,7 +72788,7 @@ min_phrase_weight: 100
 𫄎	si.lv
 𫄏	si.zhen
 𫄐	fen.pai
-𫄑	sinei
+𫄑	si.nei
 𫄒	si.wen
 𫄓	si.mo
 𫄔	si.lian
@@ -77006,7 +77006,7 @@ min_phrase_weight: 100
 𬆕	dai.cao
 𬆖	dai.zuo
 𬆗	tai.si
-𬆘	sian
+𬆘	si.an
 𬆙	dai.yu
 𬆚	dai.lu
 𬆛	dainao
@@ -83121,7 +83121,7 @@ min_phrase_weight: 100
 𭦆	ri.da
 𭦇	ri.mang
 𭦈	ri.ba
-𭦉	rinan
+𭦉	ri.nan
 𭦊	ri.fu
 𭦋	ri.yan
 𭦌	dao.ri
@@ -83139,7 +83139,7 @@ min_phrase_weight: 100
 𭦘	shen.bing
 𭦙	heng.ri
 𭦚	bai.ri
-𭦛	rinai
+𭦛	ri.nai
 𭦜	hangan
 𭦝	han.ling
 𭦞	zao.xian
