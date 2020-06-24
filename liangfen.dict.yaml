@@ -320,7 +320,7 @@ min_phrase_weight: 100
 伭	ren.xuan
 伮	ren.nu
 伯	ren.bai
-估	rengu
+估	ren.gu
 伱	ren.xiao
 伲	ren.ni
 伳	ren.shi
@@ -387,7 +387,7 @@ min_phrase_weight: 100
 佰	ren.bai
 佱	ren.zheng
 佲	ren.ming
-佳	rengui
+佳	ren.gui
 佴	ren.er
 併	ren.bing
 佶	ren.ji
@@ -410,7 +410,7 @@ min_phrase_weight: 100
 侇	ren.yi
 侈	ren.duo
 侉	ren.kua
-侊	renguang
+侊	ren.guang
 例	ren.lie
 侌	jin.yun
 侍	ren.si
@@ -487,7 +487,7 @@ min_phrase_weight: 100
 俔	ren.jian
 俕	ren.song
 俖	ren.fou
-俗	rengu
+俗	ren.gu
 俘	ren.fu
 俙	ren.xi
 俚	ren.li
@@ -539,8 +539,8 @@ min_phrase_weight: 100
 倈	ren.lai
 倉	ren.kou
 倊	ren.xin
-個	rengu
-倌	renguan
+個	ren.gu
+倌	ren.guan
 倍	ren.pou
 倎	ren.dian
 倏	ren.quan
@@ -574,7 +574,7 @@ min_phrase_weight: 100
 倫	ren.lun
 倬	ren.zhuo
 倭	ren.wei
-倮	renguo
+倮	ren.guo
 倯	ren.song
 倰	ren.ling
 倱	ren.kun
@@ -618,7 +618,7 @@ min_phrase_weight: 100
 偗	ren.sheng
 偘	ren.pin
 偙	ren.di
-做	rengu
+做	ren.gu
 偛	ren.cha
 停	ren.ting
 偝	ren.bei
@@ -656,7 +656,7 @@ min_phrase_weight: 100
 偽	ren.wei
 偾	ren.ben
 偿	ren.chang
-傀	rengui
+傀	ren.gui
 傁	ren.sou
 傂	ren.hu
 傃	ren.su
@@ -694,7 +694,7 @@ min_phrase_weight: 100
 傣	ren.tai
 傤	ren.zai
 傥	ren.dang
-傦	rengu
+傦	ren.gu
 傧	ren.bin
 储	ren.zhu
 傩	ren.nan
@@ -739,7 +739,7 @@ min_phrase_weight: 100
 僐	ren.shan
 僑	ren.qiao
 僒	ren.jiong
-僓	rengui
+僓	ren.gui
 僔	ren.zun
 僕	ren.pu
 僖	ren.xi
@@ -769,7 +769,7 @@ min_phrase_weight: 100
 僮	ren.tong
 僯	ren.lin
 僰	ji.ren
-僱	rengu
+僱	ren.gu
 僲	ren.chuan
 僳	ren.su
 僴	ren.jian
@@ -819,7 +819,7 @@ min_phrase_weight: 100
 儠	ren.lie
 儡	ren.tian
 儢	ren.lv
-儣	renguang
+儣	ren.guang
 儤	ren.bao
 儥	ren.mai
 儦	ren.huo
@@ -838,7 +838,7 @@ min_phrase_weight: 100
 儳	ren.dan
 儴	ren.xiang
 儵	ren.hei
-儶	rengui
+儶	ren.gui
 儷	ren.li
 儸	ren.luo
 儹	ren.zan
@@ -3781,7 +3781,7 @@ min_phrase_weight: 100
 岲	shan.xiong
 岳	qiu.shan
 岴	shan.qiu
-岵	shangu
+岵	shan.gu
 岶	shan.bai
 岷	shan.min
 岸	shangan
@@ -3791,7 +3791,7 @@ min_phrase_weight: 100
 岼	shan.ping
 岽	shan.dong
 岾	shan.zhan
-岿	shangui
+岿	shan.gui
 峀	shan.you
 峁	shan.mao
 峂	shan.dong
@@ -3834,7 +3834,7 @@ min_phrase_weight: 100
 峧	shan.jiao
 峨	shan.wo
 峩	shan.wo
-峪	shangu
+峪	shan.gu
 峫	shan.xie
 峬	shan.fu
 峭	shan.xiao
@@ -3875,7 +3875,7 @@ min_phrase_weight: 100
 崐	shan.kun
 崑	shan.kun
 崒	shan.zu
-崓	shangu
+崓	shan.gu
 崔	shan.zhui
 崕	shan.ya
 崖	shan.ya
@@ -3902,7 +3902,7 @@ min_phrase_weight: 100
 崫	shan.qu
 崬	shan.dong
 崭	shan.zhan
-崮	shangu
+崮	shan.gu
 崯	shan.jin
 崰	shan.zai
 崱	shan.ze
@@ -3964,7 +3964,7 @@ min_phrase_weight: 100
 嵩	shangao
 嵪	shangao
 嵫	shan.zi
-嵬	shangui
+嵬	shan.gui
 嵭	shan.pang
 嵮	shan.zhen
 嵯	shan.cha
@@ -4059,11 +4059,11 @@ min_phrase_weight: 100
 巈	shan.ju
 巉	shan.tu
 巊	shan.ying
-巋	shangui
+巋	shan.gui
 巌	shangan
 巍	shan.wei
 巎	shan.wen
-巏	shanguan
+巏	shan.guan
 巐	shan.sheng
 巑	shan.zan
 巒	luan.shan
@@ -4082,7 +4082,7 @@ min_phrase_weight: 100
 巟	wang.chuan
 巠	heng.gong
 巡	zou.chuan
-巢	chuanguo
+巢	chuan.guo
 巣	xiao.guo
 巤	chuan.yi
 工	er.shu
@@ -4172,7 +4172,7 @@ min_phrase_weight: 100
 帹	jin.qie
 帺	jin.qi
 帻	jin.ze
-帼	jinguo
+帼	jin.guo
 帽	jin.mao
 帾	jin.zhe
 帿	jin.hou
@@ -4199,7 +4199,7 @@ min_phrase_weight: 100
 幔	jin.man
 幕	mo.jin
 幖	jin.piao
-幗	jinguo
+幗	jin.guo
 幘	jin.ze
 幙	jin.mo
 幚	bang.bo
@@ -4509,7 +4509,7 @@ min_phrase_weight: 100
 徊	ren.hui
 律	ren.yu
 後	ren.wen
-徍	rengui
+徍	ren.gui
 徎	ren.cheng
 徏	ren.bu
 徐	ren.yu
@@ -4649,7 +4649,7 @@ min_phrase_weight: 100
 怖	xin.bu
 怗	xin.zhan
 怘	gu.xin
-怙	xingu
+怙	xin.gu
 怚	xin.qie
 怛	xin.dan
 怜	xin.ling
@@ -4701,7 +4701,7 @@ min_phrase_weight: 100
 恊	xin.li
 恋	yi.xin
 恌	xin.zhao
-恍	xinguang
+恍	xin.guang
 恎	xin.zhi
 恏	hao.xin
 恐	gong.xin
@@ -4810,7 +4810,7 @@ min_phrase_weight: 100
 悷	xin.li
 悸	xin.ji
 悹	guan.xin
-悺	xinguan
+悺	xin.guan
 悻	xin.xing
 悼	xin.zhuo
 悽	xin.qi
@@ -4824,7 +4824,7 @@ min_phrase_weight: 100
 情	xin.qing
 惆	xin.zhou
 惇	xin.xiang
-惈	xinguo
+惈	xin.guo
 惉	zhan.xin
 惊	xin.jing
 惋	xin.wan
@@ -4863,7 +4863,7 @@ min_phrase_weight: 100
 惬	xin.jia
 惭	xin.zhan
 惮	xin.dan
-惯	xinguan
+惯	xin.guan
 惰	xin.yue
 惱	xin.xin
 惲	xin.jun
@@ -4918,8 +4918,8 @@ min_phrase_weight: 100
 愣	xin.fang
 愤	xin.ben
 愥	xin.ying
-愦	xingui
-愧	xingui
+愦	xin.gui
+愧	xin.gui
 愨	ke.xin
 愩	xingong
 愪	xin.yuan
@@ -4930,7 +4930,7 @@ min_phrase_weight: 100
 愯	xin.zhi
 愰	xin.huang
 愱	xin.ji
-愲	xingu
+愲	xin.gu
 愳	mu.xin
 愴	xin.cang
 愵	xin.ruo
@@ -4966,7 +4966,7 @@ min_phrase_weight: 100
 慓	xin.piao
 慔	xin.mo
 慕	mo.xin
-慖	xinguo
+慖	xin.guo
 慗	shu.xin
 慘	xin.can
 慙	zhan.xin
@@ -4979,7 +4979,7 @@ min_phrase_weight: 100
 慠	xinao
 慡	xin.shuang
 慢	xin.man
-慣	xinguan
+慣	xin.guan
 慤	ke.xin
 慥	xin.zao
 慦	jiu.xin
@@ -5026,7 +5026,7 @@ min_phrase_weight: 100
 憏	xin.ji
 憐	xin.lin
 憑	feng.xin
-憒	xingui
+憒	xin.gui
 憓	xin.hui
 憔	xin.jiao
 憕	xin.deng
@@ -5117,7 +5117,7 @@ min_phrase_weight: 100
 懪	xin.bao
 懫	xin.zhi
 懬	guang.xin
-懭	xinguang
+懭	xin.guang
 懮	xin.you
 懯	fu.xin
 懰	xin.liu
@@ -5133,7 +5133,7 @@ min_phrase_weight: 100
 懺	xin.jiu
 懻	xin.ji
 懼	xin.qu
-懽	xinguan
+懽	xin.guan
 懾	xin.nie
 懿	yi.zi
 戀	luan.xin
@@ -9415,7 +9415,7 @@ min_phrase_weight: 100
 犴	quangan
 犵	quan.qi
 状	pan.quan
-犷	quanguang
+犷	quan.guang
 犸	quan.ma
 犹	quan.you
 犺	quan.kang
@@ -9440,7 +9440,7 @@ min_phrase_weight: 100
 狍	quan.bao
 狎	quan.jia
 狏	quan.ye
-狐	quangua
+狐	quan.gua
 狑	quan.ling
 狒	quan.fu
 狓	quan.pi
@@ -9452,7 +9452,7 @@ min_phrase_weight: 100
 狙	quan.qie
 狚	quan.dan
 狛	quan.bai
-狜	quangu
+狜	quan.gu
 狝	quan.er
 狞	quan.ning
 狟	quangen
@@ -9507,7 +9507,7 @@ min_phrase_weight: 100
 猐	quan.qiang
 猑	quan.kun
 猒	ri.quan
-猓	quanguo
+猓	quan.guo
 猔	quan.zong
 猕	quan.mi
 猖	quan.chang
@@ -9524,10 +9524,10 @@ min_phrase_weight: 100
 猡	quan.luo
 猢	quan.hu
 猣	quan.wen
-猤	quangui
+猤	quan.gui
 猥	quan.wei
 猦	quan.feng
-猧	quanguo
+猧	quan.guo
 猨	quan.yuan
 猩	quan.xing
 猪	quan.zhe
@@ -9550,7 +9550,7 @@ min_phrase_weight: 100
 猻	quan.sun
 猼	quan.fu
 猽	quan.ming
-猾	quangu
+猾	quan.gu
 猿	quan.yuan
 獀	quan.sou
 獁	quan.ma
@@ -9607,14 +9607,14 @@ min_phrase_weight: 100
 獴	quan.meng
 獵	quan.lie
 獶	quan.you
-獷	quanguang
+獷	quan.guang
 獸	shou.quan
 獹	quan.lu
 獺	quan.lai
 獻	hu.quan
 獼	quan.mi
 獽	quan.xiang
-獾	quanguan
+獾	quan.guan
 獿	quan.wen
 玀	quan.luo
 玁	quan.yan
@@ -9971,7 +9971,7 @@ min_phrase_weight: 100
 瓠	kua.gua
 瓡	xing.gua
 瓢	piao.gua
-瓣	xingua
+瓣	xin.gua
 瓤	xiang.gua
 瓥	gua.chong
 瓦	heng.dian
@@ -10086,7 +10086,7 @@ min_phrase_weight: 100
 畓	shui.tian
 畔	tian.ban
 畕	tian.tian
-畖	tiangua
+畖	tian.gua
 畗	dian.fu
 畘	tian.ran
 留	mao.tian
@@ -10102,7 +10102,7 @@ min_phrase_weight: 100
 畣	he.tian
 畤	tian.si
 略	tiange
-畦	tiangui
+畦	tian.gui
 畧	tiange
 畨	mi.tian
 畩	tian.yi
@@ -13341,7 +13341,7 @@ min_phrase_weight: 100
 舊	cao.jiu
 舋	tong.qie
 舌	qian.kou
-舍	rengu
+舍	ren.gu
 舎	ren.ji
 舏	she.jiu
 舐	she.shi
@@ -15441,7 +15441,7 @@ min_phrase_weight: 100
 訾	ci.yan
 訿	yan.ci
 詀	yan.zhan
-詁	yangu
+詁	yan.gu
 詂	yan.fu
 詃	yan.xuan
 詄	yan.shi
@@ -15503,7 +15503,7 @@ min_phrase_weight: 100
 詼	yan.hui
 詽	yan.kai
 詾	yan.xiong
-詿	yangui
+詿	yan.gui
 誀	yan.er
 誁	yan.bing
 誂	yan.zhao
@@ -15554,7 +15554,7 @@ min_phrase_weight: 100
 誯	yan.chang
 誰	yan.zhui
 誱	yan.jie
-課	yanguo
+課	yan.guo
 誳	yan.qu
 誴	yan.zong
 誵	yan.yao
@@ -15603,7 +15603,7 @@ min_phrase_weight: 100
 諠	yan.xuan
 諡	yan.min
 諢	yan.jun
-諣	yanguo
+諣	yan.guo
 諤	yane
 諥	yan.zhong
 諦	yan.di
@@ -15641,7 +15641,7 @@ min_phrase_weight: 100
 謆	yan.shan
 謇	gai.yan
 謈	ri.yan
-謉	yangui
+謉	yan.gui
 謊	yan.huang
 謋	yan.jie
 謌	yange
@@ -15684,7 +15684,7 @@ min_phrase_weight: 100
 謱	yan.lou
 謲	yan.can
 謳	yan.qu
-謴	yanguan
+謴	yan.guan
 謵	yan.xi
 謶	yan.shu
 謷	aoyan
@@ -15783,9 +15783,9 @@ min_phrase_weight: 100
 讔	yan.yin
 讕	yan.lan
 讖	yan.jiu
-讗	yangui
+讗	yan.gui
 讘	yan.nie
-讙	yanguan
+讙	yan.guan
 讚	yan.zan
 讛	yan.yi
 讜	yan.dang
@@ -15826,7 +15826,7 @@ min_phrase_weight: 100
 访	yan.fang
 诀	yan.jue
 证	yan.zheng
-诂	yangu
+诂	yan.gu
 诃	yan.ke
 评	yan.ping
 诅	yan.qie
@@ -15846,7 +15846,7 @@ min_phrase_weight: 100
 诓	yan.kuang
 诔	yan.lei
 试	yan.shi
-诖	yangui
+诖	yan.gui
 诗	yan.si
 诘	yan.ji
 诙	yan.hui
@@ -15886,7 +15886,7 @@ min_phrase_weight: 100
 读	yan.mai
 诼	yan.shi
 诽	yan.fei
-课	yanguo
+课	yan.guo
 诿	yan.wei
 谀	yan.yu
 谁	yan.zhui
@@ -15944,7 +15944,7 @@ min_phrase_weight: 100
 谵	yan.zhan
 谶	yan.jiu
 谷	ba.kou
-谸	qiangu
+谸	qian.gu
 谹	gu.hong
 谺	gu.ya
 谻	gu.xun
@@ -16582,7 +16582,7 @@ min_phrase_weight: 100
 躳	shen.lv
 躴	shen.liang
 躵	shen.ren
-躶	shenguo
+躶	shen.guo
 躷	shen.wei
 躸	shen.qi
 躹	shen.ju
@@ -17474,12 +17474,12 @@ min_phrase_weight: 100
 鈯	jin.chu
 鈰	jin.shi
 鈱	jin.min
-鈲	jingua
+鈲	jin.gua
 鈳	jin.ke
 鈴	jin.ling
 鈵	jin.bing
 鈶	jin.tai
-鈷	jingu
+鈷	jin.gu
 鈸	jin.ba
 鈹	jin.pi
 鈺	jin.yu
@@ -17560,7 +17560,7 @@ min_phrase_weight: 100
 銅	jin.tong
 銆	jin.bai
 銇	jin.lei
-銈	jingui
+銈	jin.gui
 銉	jin.yu
 銊	jin.xu
 銋	jin.ren
@@ -17591,7 +17591,7 @@ min_phrase_weight: 100
 銤	jin.mi
 銥	jin.yi
 銦	jin.yin
-銧	jinguang
+銧	jin.guang
 銨	jinan
 銩	jin.diu
 銪	jin.you
@@ -17626,7 +17626,7 @@ min_phrase_weight: 100
 鋇	jin.bei
 鋈	wo.jin
 鋉	jin.shu
-鋊	jingu
+鋊	jin.gu
 鋋	jin.yan
 鋌	jin.ting
 鋍	jin.bo
@@ -17681,7 +17681,7 @@ min_phrase_weight: 100
 鋾	jin.tao
 鋿	jin.shang
 錀	jin.lun
-錁	jinguo
+錁	jin.guo
 錂	jin.ling
 錃	bo.jin
 錄	jin.lu
@@ -17719,14 +17719,14 @@ min_phrase_weight: 100
 錤	jin.qi
 錥	jin.yu
 錦	jin.bo
-錧	jinguan
+錧	jin.guan
 錨	jin.miao
 錩	jin.chang
 錪	jin.dian
 錫	jin.yi
 錬	jin.dong
 錭	jin.zhou
-錮	jingu
+錮	jin.gu
 錯	jin.xi
 錰	jin.jie
 錱	jin.wang
@@ -17755,7 +17755,7 @@ min_phrase_weight: 100
 鍈	jin.ying
 鍉	jin.shi
 鍊	jin.jian
-鍋	jinguo
+鍋	jin.guo
 鍌	xi.jin
 鍍	jin.du
 鍎	jin.dun
@@ -17784,7 +17784,7 @@ min_phrase_weight: 100
 鍥	jin.qi
 鍦	jin.shi
 鍧	jin.yan
-鍨	jingui
+鍨	jin.gui
 鍩	jin.ruo
 鍪	mao.jin
 鍫	qiu.jin
@@ -17878,7 +17878,7 @@ min_phrase_weight: 100
 鏃	jin.zu
 鏄	jin.zhuan
 鏅	jin.xiu
-鏆	jinguan
+鏆	jin.guan
 鏇	jin.xuan
 鏈	jin.lian
 鏉	jin.qian
@@ -17936,7 +17936,7 @@ min_phrase_weight: 100
 鏽	jin.su
 鏾	jin.san
 鏿	jin.tang
-鐀	jingui
+鐀	jin.gui
 鐁	jin.si
 鐂	jin.liu
 鐃	jin.yao
@@ -17993,7 +17993,7 @@ min_phrase_weight: 100
 鐶	jin.huan
 鐷	jin.ye
 鐸	jin.xing
-鐹	jinguo
+鐹	jin.guo
 鐺	jin.dang
 鐻	jin.ju
 鐼	jin.ben
@@ -18027,7 +18027,7 @@ min_phrase_weight: 100
 鑘	jin.tian
 鑙	jin.zhi
 鑚	jin.zan
-鑛	jinguang
+鑛	jin.guang
 鑜	jin.shang
 鑝	jin.peng
 鑞	jin.lie
@@ -18052,8 +18052,8 @@ min_phrase_weight: 100
 鑱	jin.tu
 鑲	jin.xiang
 鑳	jin.zu
-鑴	jingui
-鑵	jinguan
+鑴	jin.gui
+鑵	jin.guan
 鑶	jin.cang
 鑷	jin.nie
 鑸	jin.lei
@@ -18116,7 +18116,7 @@ min_phrase_weight: 100
 钱	jin.jian
 钲	jin.zheng
 钳	jingan
-钴	jingu
+钴	jin.gu
 钵	jin.ben
 钶	jin.ke
 钷	jin.po
@@ -18197,7 +18197,7 @@ min_phrase_weight: 100
 锂	jin.li
 锃	jin.cheng
 锄	jin.zhu
-锅	jinguo
+锅	jin.guo
 锆	jingao
 锇	jin.wo
 锈	jin.xiu
@@ -18222,11 +18222,11 @@ min_phrase_weight: 100
 锛	jin.ben
 锜	jin.qi
 锝	jin.cun
-锞	jinguo
+锞	jin.guo
 锟	jin.kun
 锠	jin.chang
 锡	jin.yi
-锢	jingu
+锢	jin.gu
 锣	jin.luo
 锤	jin.chui
 锥	jin.zhui
@@ -18354,13 +18354,13 @@ min_phrase_weight: 100
 閟	men.bi
 閠	men.yu
 閡	men.hai
-関	menguan
+関	men.guan
 閣	menge
 閤	men.he
 閥	men.fa
 閦	men.zhong
 閧	mengong
-閨	mengui
+閨	men.gui
 閩	men.chong
 閪	men.xi
 閫	men.kun
@@ -18395,7 +18395,7 @@ min_phrase_weight: 100
 闈	men.wei
 闉	men.tu
 闊	men.huo
-闋	mengui
+闋	men.gui
 闌	men.jian
 闍	men.zhe
 闎	men.quan
@@ -18410,13 +18410,13 @@ min_phrase_weight: 100
 闗	men.si
 闘	men.cun
 闙	men.qi
-闚	mengui
+闚	men.gui
 闛	men.tang
 關	men.yao
 闝	men.bai
 闞	mengan
 闟	men.yu
-闠	mengui
+闠	men.gui
 闡	men.dan
 闢	men.bi
 闣	men.dang
@@ -18442,7 +18442,7 @@ min_phrase_weight: 100
 闷	men.xin
 闸	men.jia
 闹	men.shi
-闺	mengui
+闺	men.gui
 闻	men.er
 闼	men.da
 闽	men.chong
@@ -18452,7 +18452,7 @@ min_phrase_weight: 100
 阁	menge
 阂	men.hai
 阃	men.kun
-阄	mengui
+阄	men.gui
 阅	men.dui
 阆	men.liang
 阇	men.zhe
@@ -18467,9 +18467,9 @@ min_phrase_weight: 100
 阐	men.dan
 阑	men.jian
 阒	men.quan
-阓	mengui
+阓	men.gui
 阔	men.huo
-阕	mengui
+阕	men.gui
 阖	men.he
 阗	men.zhen
 阘	men.ta
@@ -18807,7 +18807,7 @@ min_phrase_weight: 100
 靤	mian.bao
 靥	yan.mian
 靦	mian.jian
-靧	miangui
+靧	mian.gui
 靨	yan.mian
 革	nian.shi
 靪	ge.ding
@@ -19794,12 +19794,12 @@ min_phrase_weight: 100
 鬿	gui.jin
 魀	gui.jie
 魁	gui.dou
-魂	yungui
+魂	yun.gui
 魃	gui.ba
 魄	bai.gui
 魅	gui.wei
 魆	gui.yue
-魇	yangui
+魇	yan.gui
 魈	gui.xiao
 魉	gui.liang
 魊	gui.huo
@@ -19816,8 +19816,8 @@ min_phrase_weight: 100
 魕	gui.ji
 魖	gui.xu
 魗	shou.gui
-魘	yangui
-魙	jiangui
+魘	yan.gui
+魙	jian.gui
 魚	dao.huo
 魛	yu.dao
 魜	yu.ren
@@ -20781,7 +20781,7 @@ min_phrase_weight: 100
 鼚	gu.chang
 鼛	gu.jiu
 鼜	gu.zao
-鼝	yuangu
+鼝	yuan.gu
 鼞	gu.tang
 鼟	gu.deng
 鼠	jiu.yi
@@ -21026,7 +21026,7 @@ min_phrase_weight: 100
 㑩	ren.luo
 㑪	ren.qi
 㑫	ren.nian
-㑬	rengu
+㑬	ren.gu
 㑭	ren.bi
 㑮	ren.jun
 㑯	ren.ye
@@ -21076,7 +21076,7 @@ min_phrase_weight: 100
 㒛	ren.di
 㒜	ren.yu
 㒝	ren.mie
-㒞	rengui
+㒞	ren.gui
 㒟	ren.ma
 㒠	ren.jiu
 㒡	ren.xi
@@ -21930,7 +21930,7 @@ min_phrase_weight: 100
 㟱	shangao
 㟲	shan.yuan
 㟳	shan.li
-㟴	shangui
+㟴	shan.gui
 㟵	shan.zheng
 㟶	shan.yuan
 㟷	shan.da
@@ -21963,7 +21963,7 @@ min_phrase_weight: 100
 㠒	shan.piao
 㠓	shan.meng
 㠔	shan.bi
-㠕	shangui
+㠕	shan.gui
 㠖	shan.yi
 㠗	shanao
 㠘	shan.yu
@@ -22174,7 +22174,7 @@ min_phrase_weight: 100
 㣥	ren.shi
 㣦	ren.wei
 㣧	ren.yi
-㣨	rengu
+㣨	ren.gu
 㣩	ren.lin
 㣪	ren.yuan
 㣫	ren.zhong
@@ -22242,7 +22242,7 @@ min_phrase_weight: 100
 㤩	ge.xin
 㤪	heng.yuan
 㤫	you.xin
-㤬	xingui
+㤬	xin.gui
 㤭	xin.qiao
 㤮	kuang.xin
 㤯	xin.jiong
@@ -23590,7 +23590,7 @@ min_phrase_weight: 100
 㹭	quan.ye
 㹮	quan.bai
 㹯	quan.xiu
-㹰	quanguang
+㹰	quan.guang
 㹱	quan.zu
 㹲	quan.xiao
 㹳	quan.wu
@@ -23638,7 +23638,7 @@ min_phrase_weight: 100
 㺝	quan.jian
 㺞	quan.yu
 㺟	quan.di
-㺠	quangua
+㺠	quan.gua
 㺡	quan.li
 㺢	quan.huo
 㺣	quan.xi
@@ -23744,17 +23744,17 @@ min_phrase_weight: 100
 㼇	wang.gui
 㼈	wang.luo
 㼉	gua.yin
-㼊	tungua
+㼊	tun.gua
 㼋	gu.gua
 㼌	gua.gua
 㼍	lei.gua
 㼎	gua.jiao
 㼏	tuo.gua
-㼐	biangua
-㼑	jiangua
+㼐	bian.gua
+㼑	jian.gua
 㼒	gua.yang
 㼓	gua.jian
-㼔	wengua
+㼔	wen.gua
 㼕	dang.gua
 㼖	gua.li
 㼗	ding.wa
@@ -23845,7 +23845,7 @@ min_phrase_weight: 100
 㽬	fu.fu
 㽭	tian.xu
 㽮	tian.sheng
-㽯	tiangui
+㽯	tian.gui
 㽰	peng.pi
 㽱	bing.jiu
 㽲	bing.kao
@@ -25756,7 +25756,7 @@ min_phrase_weight: 100
 䛣	yan.pin
 䛤	yan.zu
 䛥	yan.xi
-䛦	yangu
+䛦	yan.gu
 䛧	yan.mi
 䛨	yan.xin
 䛩	yan.ya
@@ -25789,11 +25789,11 @@ min_phrase_weight: 100
 䜄	yan.xi
 䜅	yan.cui
 䜆	ma.yan
-䜇	yangun
+䜇	yan.gun
 䜈	yan.chao
 䜉	yan.qi
 䜊	yan.cao
-䜋	yangui
+䜋	yan.gui
 䜌	si.yan
 䜍	yan.liao
 䜎	yan.lao
@@ -26101,7 +26101,7 @@ min_phrase_weight: 100
 䠼	shen.yu
 䠽	shen.qi
 䠾	shen.shan
-䠿	shengui
+䠿	shen.gui
 䡀	shen.dan
 䡁	shen.long
 䡂	che.jiu
@@ -26410,7 +26410,7 @@ min_phrase_weight: 100
 䥱	jin.xie
 䥲	jinou
 䥳	jin.you
-䥴	jingui
+䥴	jin.gui
 䥵	jin.xiao
 䥶	jin.li
 䥷	jin.dao
@@ -26455,7 +26455,7 @@ min_phrase_weight: 100
 䦞	men.wang
 䦟	men.zuo
 䦠	men.shi
-䦡	menguan
+䦡	men.guan
 䦢	men.fa
 䦣	men.pou
 䦤	men.zhuo
@@ -26470,7 +26470,7 @@ min_phrase_weight: 100
 䦭	men.xiang
 䦮	men.chun
 䦯	men.zhi
-䦰	mengui
+䦰	men.gui
 䦱	men.wei
 䦲	men.zhan
 䦳	men.xiang
@@ -27093,7 +27093,7 @@ min_phrase_weight: 100
 䰜	gong.ge
 䰝	ge.zeng
 䰞	zhe.ge
-䰟	yungui
+䰟	yun.gui
 䰠	gui.shen
 䰡	gui.shi
 䰢	gui.xing
@@ -27496,7 +27496,7 @@ min_phrase_weight: 100
 䶯	nv.gui
 䶰	gui.mao
 䶱	dong.gui
-䶲	rangui
+䶲	ran.gui
 䶳	yue.kang
 䶴	chui.yue
 䶵	yue.hu
@@ -27934,7 +27934,7 @@ min_phrase_weight: 100
 𠆯	ren.chuan
 𠆰	ren.ji
 𠆱	ren.shi
-𠆲	renguang
+𠆲	ren.guang
 𠆳	ren.shang
 𠆴	fu.ren
 𠆵	ren.xi
@@ -27971,7 +27971,7 @@ min_phrase_weight: 100
 𠇔	ren.mao
 𠇕	ren.ba
 𠇖	ren.fa
-𠇗	rengua
+𠇗	ren.gua
 𠇘	ren.yue
 𠇙	ren.kou
 𠇚	ren.jia
@@ -28029,14 +28029,14 @@ min_phrase_weight: 100
 𠈎	ren.heng
 𠈏	he.ren
 𠈐	ren.ye
-𠈑	renguang
+𠈑	ren.guang
 𠈒	ren.xiao
 𠈓	ren.liang
 𠈔	ren.heng
 𠈕	ren.kuang
 𠈖	ren.juan
 𠈗	rengen
-𠈘	rengui
+𠈘	ren.gui
 𠈙	ren.jian
 𠈚	ren.zai
 𠈛	ren.dao
@@ -28054,7 +28054,7 @@ min_phrase_weight: 100
 𠈧	ren.you
 𠈨	ren.zha
 𠈩	ren.jin
-𠈪	renguan
+𠈪	ren.guan
 𠈫	ren.juan
 𠈬	ren.tu
 𠈭	ren.lao
@@ -28071,7 +28071,7 @@ min_phrase_weight: 100
 𠈸	ren.te
 𠈹	ren.wen
 𠈺	ren.tu
-𠈻	rengu
+𠈻	ren.gu
 𠈼	ren.you
 𠈽	dao.ren
 𠈾	rengan
@@ -28188,7 +28188,7 @@ min_phrase_weight: 100
 𠊭	ren.xian
 𠊮	ren.wen
 𠊯	ren.you
-𠊰	renguo
+𠊰	ren.guo
 𠊱	ren.hou
 𠊲	ren.tu
 𠊳	ren.pu
@@ -28202,7 +28202,7 @@ min_phrase_weight: 100
 𠊻	ren.xiao
 𠊼	ren.cao
 𠊽	ren.hun
-𠊾	rengui
+𠊾	ren.gui
 𠊿	ren.xuan
 𠋀	ren.yong
 𠋁	ren.ce
@@ -28395,7 +28395,7 @@ min_phrase_weight: 100
 𠍼	ren.yi
 𠍽	ren.she
 𠍾	ren.yan
-𠍿	renguan
+𠍿	ren.guan
 𠎀	ren.mu
 𠎁	ren.hei
 𠎂	ren.you
@@ -28454,14 +28454,14 @@ min_phrase_weight: 100
 𠎷	ren.jiu
 𠎸	ren.se
 𠎹	ren.wen
-𠎺	rengui
+𠎺	ren.gui
 𠎻	ren.dun
 𠎼	ren.piao
 𠎽	ren.fan
 𠎾	ren.si
 𠎿	ren.jie
-𠏀	renguo
-𠏁	rengui
+𠏀	ren.guo
+𠏁	ren.gui
 𠏂	ren.tu
 𠏃	rene
 𠏄	ren.sheng
@@ -28492,7 +28492,7 @@ min_phrase_weight: 100
 𠏝	ren.mu
 𠏞	renge
 𠏟	ren.bing
-𠏠	rengui
+𠏠	ren.gui
 𠏡	ren.ling
 𠏢	ren.luan
 𠏣	ren.er
@@ -28514,10 +28514,10 @@ min_phrase_weight: 100
 𠏳	zhong.si
 𠏴	ren.pi
 𠏵	ren.feng
-𠏶	rengua
+𠏶	ren.gua
 𠏷	ren.mi
 𠏸	he.hu
-𠏹	renguo
+𠏹	ren.guo
 𠏺	ren.kui
 𠏻	ren.rui
 𠏼	ren.jia
@@ -28560,7 +28560,7 @@ min_phrase_weight: 100
 𠐡	ren.bei
 𠐢	ren.yuan
 𠐣	ren.han
-𠐤	rengui
+𠐤	ren.gui
 𠐥	ren.xin
 𠐦	ren.huai
 𠐧	ren.meng
@@ -28585,7 +28585,7 @@ min_phrase_weight: 100
 𠐺	ren.pin
 𠐻	ren.jian
 𠐼	ren.pin
-𠐽	rengui
+𠐽	ren.gui
 𠐾	ren.ye
 𠐿	ren.hong
 𠑀	ren.dai
@@ -28710,7 +28710,7 @@ min_phrase_weight: 100
 𠒷	xian.xin
 𠒸	xi.guang
 𠒹	shu.er
-𠒺	yuangui
+𠒺	yuan.gui
 𠒻	yuan.pu
 𠒼	guang.huang
 𠒽	guang.dong
@@ -29521,7 +29521,7 @@ min_phrase_weight: 100
 𠟢	xun.dao
 𠟣	ji.dao
 𠟤	shan.dao
-𠟥	jiangua
+𠟥	jian.gua
 𠟦	se.dao
 𠟧	zhan.dao
 𠟨	ling.dao
@@ -30599,7 +30599,7 @@ min_phrase_weight: 100
 𠰘	kou.min
 𠰙	kou.kan
 𠰚	kou.er
-𠰛	shangu
+𠰛	shan.gu
 𠰜	kou.hu
 𠰝	si.kou
 𠰞	pie.lv
@@ -31035,7 +31035,7 @@ min_phrase_weight: 100
 𠷌	kou.ze
 𠷍	kou.lu
 𠷎	gong.kou
-𠷏	wanguo
+𠷏	wan.guo
 𠷐	kou.heng
 𠷑	kou.shu
 𠷒	kou.mu
@@ -31050,7 +31050,7 @@ min_phrase_weight: 100
 𠷛	kou.you
 𠷜	zuo.ju
 𠷝	kou.kou
-𠷞	luangu
+𠷞	luan.gu
 𠷟	kou.jie
 𠷠	shi.kou
 𠷡	bai.he
@@ -32652,7 +32652,7 @@ min_phrase_weight: 100
 𡐝	tu.huo
 𡐞	bi.tu
 𡐟	tu.kao
-𡐠	dungui
+𡐠	dun.gui
 𡐡	tu.dai
 𡐢	tu.gong
 𡐣	tu.fu
@@ -32765,7 +32765,7 @@ min_phrase_weight: 100
 𡒎	cao.tu
 𡒏	tu.shui
 𡒐	sun.tu
-𡒑	shangui
+𡒑	shan.gui
 𡒒	ming.zhong
 𡒓	chen.tu
 𡒔	tu.di
@@ -34343,7 +34343,7 @@ min_phrase_weight: 100
 𡪸	an.li
 𡪹	gai.xin
 𡪺	gai.deng
-𡪻	yangu
+𡪻	yan.gu
 𡪼	gai.mi
 𡪽	gai.jian
 𡪾	gai.yu
@@ -35121,7 +35121,7 @@ min_phrase_weight: 100
 𡷂	shan.ming
 𡷃	shan.yun
 𡷄	shan.wang
-𡷅	shangui
+𡷅	shan.gui
 𡷆	gen.shan
 𡷇	kou.shan
 𡷈	shan.shan
@@ -35200,9 +35200,9 @@ min_phrase_weight: 100
 𡸑	shan.yi
 𡸒	shan.li
 𡸓	cao.cong
-𡸔	shangui
+𡸔	shan.gui
 𡸕	shan.qiong
-𡸖	shanguo
+𡸖	shan.guo
 𡸗	shan.zha
 𡸘	shan.qu
 𡸙	shan.qun
@@ -35288,7 +35288,7 @@ min_phrase_weight: 100
 𡹩	chen.shan
 𡹪	shan.ji
 𡹫	shan.jiong
-𡹬	shanguo
+𡹬	shan.guo
 𡹭	shan.shi
 𡹮	shan.cao
 𡹯	shan.hui
@@ -35349,7 +35349,7 @@ min_phrase_weight: 100
 𡺦	shan.ying
 𡺧	chu.shan
 𡺨	shan.wei
-𡺩	shanguo
+𡺩	shan.guo
 𡺪	shan.shi
 𡺫	shan.yao
 𡺬	shan.yi
@@ -35383,7 +35383,7 @@ min_phrase_weight: 100
 𡻈	shan.qin
 𡻉	shangou
 𡻊	shan.he
-𡻋	shangu
+𡻋	shan.gu
 𡻌	shan.chen
 𡻍	shan.wo
 𡻎	shan.juan
@@ -35397,7 +35397,7 @@ min_phrase_weight: 100
 𡻖	shan.yuan
 𡻗	shan.zhen
 𡻘	shan.min
-𡻙	shanguo
+𡻙	shan.guo
 𡻚	shan.kang
 𡻛	shan.sun
 𡻜	shan.zhi
@@ -35412,7 +35412,7 @@ min_phrase_weight: 100
 𡻥	shan.ma
 𡻦	shan.shi
 𡻧	dou.shan
-𡻨	shangun
+𡻨	shan.gun
 𡻩	shan.man
 𡻪	shan.liu
 𡻫	shan.pin
@@ -35423,7 +35423,7 @@ min_phrase_weight: 100
 𡻰	shan.ji
 𡻱	shan.lei
 𡻲	shan.kou
-𡻳	shanguo
+𡻳	shan.guo
 𡻴	shan.ling
 𡻵	shan.pin
 𡻶	shan.mei
@@ -35502,7 +35502,7 @@ min_phrase_weight: 100
 𡼿	shan.ku
 𡽀	shan.wen
 𡽁	shan.xin
-𡽂	shangu
+𡽂	shan.gu
 𡽃	er.shan
 𡽄	shan.jiao
 𡽅	shan.yun
@@ -35571,7 +35571,7 @@ min_phrase_weight: 100
 𡾄	shan.shu
 𡾅	shan.lv
 𡾆	shan.ye
-𡾇	shanguang
+𡾇	shan.guang
 𡾈	shan.qiong
 𡾉	shan.mo
 𡾊	shan.tian
@@ -35586,7 +35586,7 @@ min_phrase_weight: 100
 𡾓	shan.ceng
 𡾔	tian.shan
 𡾕	shan.tang
-𡾖	shangui
+𡾖	shan.gui
 𡾗	shan.ying
 𡾘	shan.shi
 𡾙	shane
@@ -35626,9 +35626,9 @@ min_phrase_weight: 100
 𡾻	shan.zang
 𡾼	shan.shuang
 𡾽	shan.zeng
-𡾾	shangui
+𡾾	shan.gui
 𡾿	shan.feng
-𡿀	shangui
+𡿀	shan.gui
 𡿁	wei.shan
 𡿂	chong.li
 𡿃	shane
@@ -35681,7 +35681,7 @@ min_phrase_weight: 100
 𡿲	chuan.yong
 𡿳	chuan.yong
 𡿴	san.chuan
-𡿵	chuangu
+𡿵	chuan.gu
 𡿶	chuan.ben
 𡿷	chuan.lv
 𡿸	chuan.cha
@@ -35870,7 +35870,7 @@ min_phrase_weight: 100
 𢂯	cong.jin
 𢂰	jin.zheng
 𢂱	jin.yuan
-𢂲	jingu
+𢂲	jin.gu
 𢂳	jin.mei
 𢂴	jin.zhi
 𢂵	jin.jie
@@ -35909,7 +35909,7 @@ min_phrase_weight: 100
 𢃖	jin.zhou
 𢃗	jin.han
 𢃘	hu.jin
-𢃙	jinguan
+𢃙	jin.guan
 𢃚	jin.kun
 𢃛	qi.jin
 𢃜	jin.zhi
@@ -35922,7 +35922,7 @@ min_phrase_weight: 100
 𢃣	jin.qu
 𢃤	huo.jin
 𢃥	chen.jin
-𢃦	jinguo
+𢃦	jin.guo
 𢃧	jin.xin
 𢃨	jin.shi
 𢃩	jin.juan
@@ -35931,7 +35931,7 @@ min_phrase_weight: 100
 𢃬	qian.jin
 𢃭	jin.xin
 𢃮	jin.mian
-𢃯	jingui
+𢃯	jin.gui
 𢃰	jin.shi
 𢃱	jin.mou
 𢃲	jinge
@@ -35958,7 +35958,7 @@ min_phrase_weight: 100
 𢄇	bo.gou
 𢄈	jin.yin
 𢄉	bi.you
-𢄊	jingui
+𢄊	jin.gui
 𢄋	ying.jin
 𢄌	jin.sha
 𢄍	jin.he
@@ -36035,7 +36035,7 @@ min_phrase_weight: 100
 𢅔	jin.zhu
 𢅕	jin.sui
 𢅖	jin.lian
-𢅗	jinguo
+𢅗	jin.guo
 𢅘	jin.ji
 𢅙	jin.bei
 𢅚	jin.piao
@@ -36945,7 +36945,7 @@ min_phrase_weight: 100
 𢓢	ren.kua
 𢓣	ren.ci
 𢓤	ren.jiang
-𢓥	renguang
+𢓥	ren.guang
 𢓦	wang.er
 𢓧	ren.di
 𢓨	ren.yin
@@ -36970,7 +36970,7 @@ min_phrase_weight: 100
 𢓻	ren.shi
 𢓼	ren.bi
 𢓽	ren.da
-𢓾	rengu
+𢓾	ren.gu
 𢓿	ren.xin
 𢔀	ren.you
 𢔁	ren.ling
@@ -37068,7 +37068,7 @@ min_phrase_weight: 100
 𢕝	ren.feng
 𢕞	ren.xin
 𢕟	renao
-𢕠	renguan
+𢕠	ren.guan
 𢕡	ren.wen
 𢕢	ren.ruan
 𢕣	ren.wen
@@ -37425,7 +37425,7 @@ min_phrase_weight: 100
 𢛂	zhuo.xin
 𢛃	jiu.xin
 𢛄	xin.ya
-𢛅	xingu
+𢛅	xin.gu
 𢛆	xian.xin
 𢛇	zhou.xin
 𢛈	xin.xin
@@ -37545,7 +37545,7 @@ min_phrase_weight: 100
 𢜺	xinai
 𢜻	xin.ran
 𢜼	xin.cheng
-𢜽	xingui
+𢜽	xin.gui
 𢜾	xinge
 𢜿	xin.jia
 𢝀	xin.tu
@@ -37584,7 +37584,7 @@ min_phrase_weight: 100
 𢝡	xin.mao
 𢝢	xin.bei
 𢝣	xin.chun
-𢝤	xinguai
+𢝤	xin.guai
 𢝥	xin.shui
 𢝦	bing.xin
 𢝧	hen.xin
@@ -37604,7 +37604,7 @@ min_phrase_weight: 100
 𢝵	fei.xin
 𢝶	xin.shua
 𢝷	xin.jie
-𢝸	xinguo
+𢝸	xin.guo
 𢝹	xin.da
 𢝺	xin.dun
 𢝻	xin.mu
@@ -37782,7 +37782,7 @@ min_phrase_weight: 100
 𢠧	xin.wen
 𢠨	xin.min
 𢠩	xin.ma
-𢠪	xingui
+𢠪	xin.gui
 𢠫	xin.shu
 𢠬	shi.xin
 𢠭	xin.ji
@@ -37811,7 +37811,7 @@ min_phrase_weight: 100
 𢡄	xin.ri
 𢡅	xin.mu
 𢡆	shi.xin
-𢡇	xingu
+𢡇	xin.gu
 𢡈	sui.xin
 𢡉	xin.zhi
 𢡊	xin.xin
@@ -37936,7 +37936,7 @@ min_phrase_weight: 100
 𢣁	xin.xin
 𢣂	xin.yi
 𢣃	xin.sui
-𢣄	xinguo
+𢣄	xin.guo
 𢣅	xin.luo
 𢣆	xin.song
 𢣇	xin.qian
@@ -37950,7 +37950,7 @@ min_phrase_weight: 100
 𢣏	xingai
 𢣐	xin.bin
 𢣑	xin.xin
-𢣒	xingui
+𢣒	xin.gui
 𢣓	er.xin
 𢣔	xin.fang
 𢣕	yi.xin
@@ -38042,7 +38042,7 @@ min_phrase_weight: 100
 𢤫	xin.ju
 𢤬	xin.fen
 𢤭	xin.he
-𢤮	xingui
+𢤮	xin.gui
 𢤯	xin.jiu
 𢤰	dai.xin
 𢤱	xin.long
@@ -38127,7 +38127,7 @@ min_phrase_weight: 100
 𢦀	gong.xin
 𢦁	yi.xin
 𢦂	xin.lan
-𢦃	xingu
+𢦃	xin.gu
 𢦄	xin.chou
 𢦅	xingan
 𢦆	yi.xin
@@ -39876,7 +39876,7 @@ min_phrase_weight: 100
 𣁕	wen.wen
 𣁖	zhuo.wen
 𣁗	tan.wen
-𣁘	wenguo
+𣁘	wen.guo
 𣁙	cao.wen
 𣁚	wen.ji
 𣁛	wei.wen
@@ -41701,7 +41701,7 @@ min_phrase_weight: 100
 𣝶	mu.suan
 𣝷	shou.mu
 𣝸	mu.xi
-𣝹	lingui
+𣝹	lin.gui
 𣝺	linge
 𣝻	mu.yang
 𣝼	mu.jiong
@@ -41948,7 +41948,7 @@ min_phrase_weight: 100
 𣡭	mu.die
 𣡮	mu.cun
 𣡯	ba.ji
-𣡰	renguo
+𣡰	ren.guo
 𣡱	xi.cun
 𣡲	mu.xian
 𣡳	le.ji
@@ -45299,7 +45299,7 @@ min_phrase_weight: 100
 𤖄	pan.qi
 𤖅	pan.shui
 𤖆	pan.jian
-𤖇	panguo
+𤖇	pan.guo
 𤖈	pan.ba
 𤖉	pan.bing
 𤖊	pan.yuan
@@ -45342,7 +45342,7 @@ min_phrase_weight: 100
 𤖯	pian.bu
 𤖰	pian.you
 𤖱	pian.he
-𤖲	piangu
+𤖲	pian.gu
 𤖳	pian.ping
 𤖴	pian.chi
 𤖵	pian.ju
@@ -45395,7 +45395,7 @@ min_phrase_weight: 100
 𤗤	piangong
 𤗥	pian.mu
 𤗦	piange
-𤗧	piangui
+𤗧	pian.gui
 𤗨	pian.xi
 𤗩	pian.yong
 𤗪	pian.lv
@@ -45408,7 +45408,7 @@ min_phrase_weight: 100
 𤗱	pian.fu
 𤗲	pian.can
 𤗳	pian.fa
-𤗴	piangui
+𤗴	pian.gui
 𤗵	pian.pu
 𤗶	pian.huang
 𤗷	pian.lin
@@ -45811,7 +45811,7 @@ min_phrase_weight: 100
 𤞄	quan.ji
 𤞅	quan.pai
 𤞆	quan.jin
-𤞇	quangui
+𤞇	quan.gui
 𤞈	quan.qiu
 𤞉	quan.shu
 𤞊	quan.lie
@@ -45834,7 +45834,7 @@ min_phrase_weight: 100
 𤞛	zhuang.quan
 𤞜	quan.fou
 𤞝	quan.zhi
-𤞞	quangu
+𤞞	quan.gu
 𤞟	quan.dou
 𤞠	quan.sha
 𤞡	quan.xie
@@ -46015,7 +46015,7 @@ min_phrase_weight: 100
 𤡐	quan.cao
 𤡑	quan.piao
 𤡒	quan.ye
-𤡓	quanguo
+𤡓	quan.guo
 𤡔	quan.xiao
 𤡕	quan.niao
 𤡖	quan.zhe
@@ -46045,7 +46045,7 @@ min_phrase_weight: 100
 𤡮	quan.ran
 𤡯	quan.yu
 𤡰	quan.ban
-𤡱	quangui
+𤡱	quan.gui
 𤡲	quan.kai
 𤡳	quan.wen
 𤡴	kou.quan
@@ -46141,7 +46141,7 @@ min_phrase_weight: 100
 𤣎	quan.ying
 𤣏	hu.quan
 𤣐	quan.tu
-𤣑	quangui
+𤣑	quan.gui
 𤣒	quan.nie
 𤣓	quan.qu
 𤣔	quan.wang
@@ -46151,7 +46151,7 @@ min_phrase_weight: 100
 𤣘	ming.zhu
 𤣙	quan.zheng
 𤣚	quan.yan
-𤣛	quangua
+𤣛	quan.gua
 𤣜	quan.chen
 𤣝	quan.chong
 𤣞	quan.dang
@@ -46679,11 +46679,11 @@ min_phrase_weight: 100
 𤫨	wang.ge
 𤫩	wang.ling
 𤫪	tuo.gua
-𤫫	fengua
+𤫫	fen.gua
 𤫬	gua.feng
 𤫭	gua.tun
 𤫮	gua.yue
-𤫯	yingua
+𤫯	yin.gua
 𤫰	gua.fu
 𤫱	ju.gua
 𤫲	ling.gua
@@ -46712,14 +46712,14 @@ min_phrase_weight: 100
 𤬉	gui.gua
 𤬊	gua.bian
 𤬋	gua.guo
-𤬌	tuangua
+𤬌	tuan.gua
 𤬍	yue.gua
 𤬎	gua.dai
 𤬏	lou.gua
 𤬐	ying.gua
 𤬑	gua.gua
 𤬒	gua.wen
-𤬓	jiangua
+𤬓	jian.gua
 𤬔	gua.yao
 𤬕	gua.chuan
 𤬖	yue.xi
@@ -46731,11 +46731,11 @@ min_phrase_weight: 100
 𤬜	gua.lu
 𤬝	hu.gua
 𤬞	gua.xiang
-𤬟	xingua
+𤬟	xin.gua
 𤬠	gua.guan
-𤬡	xingua
-𤬢	xingua
-𤬣	xingua
+𤬡	xin.gua
+𤬢	xin.gua
+𤬣	xin.gua
 𤬤	li.gua
 𤬥	er.yi
 𤬦	gai.wa
@@ -47071,7 +47071,7 @@ min_phrase_weight: 100
 𤱰	tian.pai
 𤱱	zai.tian
 𤱲	tian.di
-𤱳	tianguang
+𤱳	tian.guang
 𤱴	tian.zha
 𤱵	juan.tian
 𤱶	mu.quan
@@ -47197,7 +47197,7 @@ min_phrase_weight: 100
 𤳮	zhou.tian
 𤳯	chuan.shu
 𤳰	wei.hua
-𤳱	tianguang
+𤳱	tian.guang
 𤳲	chuan.jie
 𤳳	tian.tian
 𤳴	tian.ke
@@ -49020,9 +49020,9 @@ min_phrase_weight: 100
 𥐍	duan.dou
 𥐎	shi.xu
 𥐏	duan.ju
-𥐐	duangun
+𥐐	duan.gun
 𥐑	shi.ying
-𥐒	duangu
+𥐒	duan.gu
 𥐓	shi.guan
 𥐔	duan.wen
 𥐕	shi.yi
@@ -53327,7 +53327,7 @@ min_phrase_weight: 100
 𦓠	heng.er
 𦓡	ma.er
 𦓢	er.quan
-𦓣	duanguang
+𦓣	duan.guang
 𦓤	pie.wei
 𦓥	lei.er
 𦓦	lei.bu
@@ -54371,7 +54371,7 @@ min_phrase_weight: 100
 𦣴	chen.huan
 𦣵	chen.wen
 𦣶	chen.ju
-𦣷	chengu
+𦣷	chen.gu
 𦣸	dao.jian
 𦣹	kuang.er
 𦣺	zi.shu
@@ -57582,7 +57582,7 @@ min_phrase_weight: 100
 𧕿	fei.chong
 𧖀	si.chong
 𧖁	er.chong
-𧖂	jingu
+𧖂	jin.gu
 𧖃	chong.xian
 𧖄	li.chong
 𧖅	gai.chong
@@ -58664,7 +58664,7 @@ min_phrase_weight: 100
 𧦹	yan.ben
 𧦺	yan.qiu
 𧦻	yan.kao
-𧦼	yangua
+𧦼	yan.gua
 𧦽	yan.er
 𧦾	yan.you
 𧦿	yan.bing
@@ -58704,7 +58704,7 @@ min_phrase_weight: 100
 𧧡	yan.si
 𧧢	yan.huang
 𧧣	yan.xiong
-𧧤	yanguan
+𧧤	yan.guan
 𧧥	yan.qu
 𧧦	yan.xiang
 𧧧	wang.yan
@@ -58715,7 +58715,7 @@ min_phrase_weight: 100
 𧧬	zai.yan
 𧧭	yan.jiang
 𧧮	yan.chuan
-𧧯	yanguang
+𧧯	yan.guang
 𧧰	yan.chen
 𧧱	yan.shan
 𧧲	yan.er
@@ -58924,7 +58924,7 @@ min_phrase_weight: 100
 𧪽	yan.jin
 𧪾	yan.sun
 𧪿	yangou
-𧫀	yangun
+𧫀	yan.gun
 𧫁	yan.yuan
 𧫂	yan.zi
 𧫃	gong.yan
@@ -59009,7 +59009,7 @@ min_phrase_weight: 100
 𧬒	yan.fang
 𧬓	da.yan
 𧬔	yan.mu
-𧬕	yangu
+𧬕	yan.gu
 𧬖	yan.wen
 𧬗	yan.qi
 𧬘	yan.jian
@@ -59069,7 +59069,7 @@ min_phrase_weight: 100
 𧭎	yan.pu
 𧭏	yan.tai
 𧭐	yi.yan
-𧭑	yangua
+𧭑	yan.gua
 𧭒	tong.yan
 𧭓	yan.ying
 𧭔	zhou.yan
@@ -59100,7 +59100,7 @@ min_phrase_weight: 100
 𧭭	chang.yan
 𧭮	yan.mian
 𧭯	yan.zuo
-𧭰	yanguang
+𧭰	yan.guang
 𧭱	yan.qian
 𧭲	yan.hei
 𧭳	ke.yan
@@ -59126,7 +59126,7 @@ min_phrase_weight: 100
 𧮇	yan.mai
 𧮈	yan.zu
 𧮉	yan.kui
-𧮊	yangui
+𧮊	yan.gui
 𧮋	yan.cui
 𧮌	luan.yan
 𧮍	yan.yin
@@ -59733,7 +59733,7 @@ min_phrase_weight: 100
 𧷦	bei.mi
 𧷧	bu.bei
 𧷨	tu.pin
-𧷩	gangui
+𧷩	gan.gui
 𧷪	wei.gui
 𧷫	guang.bei
 𧷬	bei.juan
@@ -59799,7 +59799,7 @@ min_phrase_weight: 100
 𧸨	bei.fang
 𧸩	bei.mu
 𧸪	bei.tu
-𧸫	yuangun
+𧸫	yuan.gun
 𧸬	xun.bei
 𧸭	bei.di
 𧸮	bei.wei
@@ -60828,7 +60828,7 @@ min_phrase_weight: 100
 𨈭	shen.ran
 𨈮	shen.shen
 𨈯	shen.yun
-𨈰	shengu
+𨈰	shen.gu
 𨈱	shen.dan
 𨈲	shen.kui
 𨈳	shen.ju
@@ -60841,11 +60841,11 @@ min_phrase_weight: 100
 𨈺	shen.lao
 𨈻	shen.zi
 𨈼	shen.xiao
-𨈽	shenguan
+𨈽	shen.guan
 𨈾	shen.bing
 𨈿	he.shen
 𨉀	shen.niu
-𨉁	shenguang
+𨉁	shen.guang
 𨉂	shen.yi
 𨉃	ren.shen
 𨉄	shen.ce
@@ -60882,7 +60882,7 @@ min_phrase_weight: 100
 𨉣	shen.jia
 𨉤	shen.huang
 𨉥	shen.mian
-𨉦	shengu
+𨉦	shen.gu
 𨉧	shen.dai
 𨉨	shen.duan
 𨉩	shen.chun
@@ -60897,11 +60897,11 @@ min_phrase_weight: 100
 𨉲	shengao
 𨉳	shen.weng
 𨉴	shen.rong
-𨉵	shengui
+𨉵	shen.gui
 𨉶	shen.cha
 𨉷	shen.rong
 𨉸	shen.ma
-𨉹	shenguo
+𨉹	shen.guo
 𨉺	shen.pin
 𨉻	shen.ruan
 𨉼	shene
@@ -60924,7 +60924,7 @@ min_phrase_weight: 100
 𨊍	shen.zhan
 𨊎	shen.ding
 𨊏	shen.teng
-𨊐	shenguo
+𨊐	shen.guo
 𨊑	shen.jiang
 𨊒	shen.shu
 𨊓	shen.ning
@@ -62605,7 +62605,7 @@ min_phrase_weight: 100
 𨤞	bian.si
 𨤟	bian.xing
 𨤠	bian.di
-𨤡	bianguang
+𨤡	bian.guang
 𨤢	shao.li
 𨤣	dao.li
 𨤤	li.ye
@@ -62665,7 +62665,7 @@ min_phrase_weight: 100
 𨥚	jin.za
 𨥛	jin.hu
 𨥜	jin.yao
-𨥝	jingua
+𨥝	jin.gua
 𨥞	jin.shi
 𨥟	jin.xi
 𨥠	jin.yin
@@ -62812,7 +62812,7 @@ min_phrase_weight: 100
 𨧭	he.jin
 𨧮	mi.jin
 𨧯	jin.ye
-𨧰	jinguai
+𨧰	jin.guai
 𨧱	jin.qu
 𨧲	jin.mu
 𨧳	zhi.jin
@@ -62946,7 +62946,7 @@ min_phrase_weight: 100
 𨩳	jin.quan
 𨩴	jin.chuan
 𨩵	jin.fan
-𨩶	jinguan
+𨩶	jin.guan
 𨩷	jin.jia
 𨩸	jin.ba
 𨩹	you.jin
@@ -62964,7 +62964,7 @@ min_phrase_weight: 100
 𨪅	jin.mao
 𨪆	jin.ke
 𨪇	jin.ran
-𨪈	jingui
+𨪈	jin.gui
 𨪉	jin.hu
 𨪊	jin.zao
 𨪋	jingou
@@ -63011,7 +63011,7 @@ min_phrase_weight: 100
 𨪴	jin.ri
 𨪵	jin.ju
 𨪶	jin.yan
-𨪷	jingu
+𨪷	jin.gu
 𨪸	jin.shan
 𨪹	jin.wang
 𨪺	jin.shan
@@ -63073,7 +63073,7 @@ min_phrase_weight: 100
 𨫲	jin.zhuang
 𨫳	jin.sui
 𨫴	jin.hao
-𨫵	jinguo
+𨫵	jin.guo
 𨫶	jin.mu
 𨫷	jin.yu
 𨫸	jin.he
@@ -63105,7 +63105,7 @@ min_phrase_weight: 100
 𨬒	jingan
 𨬓	jin.yue
 𨬔	jin.run
-𨬕	jingu
+𨬕	jin.gu
 𨬖	jin.zi
 𨬗	jin.xu
 𨬘	jin.mu
@@ -63115,7 +63115,7 @@ min_phrase_weight: 100
 𨬜	jin.xia
 𨬝	lu.jin
 𨬞	jin.wei
-𨬟	jingu
+𨬟	jin.gu
 𨬠	jin.wen
 𨬡	jin.qu
 𨬢	jin.xian
@@ -63204,7 +63204,7 @@ min_phrase_weight: 100
 𨭵	jin.qu
 𨭶	jin.chu
 𨭷	jin.feng
-𨭸	jingu
+𨭸	jin.gu
 𨭹	jin.xian
 𨭺	jin.jin
 𨭻	qiu.jin
@@ -63261,7 +63261,7 @@ min_phrase_weight: 100
 𨮮	jin.qie
 𨮯	jin.cheng
 𨮰	jin.suan
-𨮱	jingu
+𨮱	jin.gu
 𨮲	er.jin
 𨮳	jin.xiong
 𨮴	jin.er
@@ -63346,7 +63346,7 @@ min_phrase_weight: 100
 𨰃	jin.ying
 𨰄	jin.huan
 𨰅	jin.bi
-𨰆	jingua
+𨰆	jin.gua
 𨰇	jin.lian
 𨰈	jin.qing
 𨰉	jin.jin
@@ -63407,7 +63407,7 @@ min_phrase_weight: 100
 𨱀	jin.hu
 𨱁	jin.shu
 𨱂	jin.hua
-𨱃	jingua
+𨱃	jin.gua
 𨱄	jin.chu
 𨱅	jin.zhen
 𨱆	jin.wu
@@ -63416,7 +63416,7 @@ min_phrase_weight: 100
 𨱉	jin.jing
 𨱊	jin.qu
 𨱋	jin.ling
-𨱌	jinguan
+𨱌	jin.guan
 𨱍	jin.lang
 𨱎	jin.yu
 𨱏	jin.da
@@ -63635,7 +63635,7 @@ min_phrase_weight: 100
 𨴤	men.wang
 𨴥	men.zhai
 𨴦	you.men
-𨴧	mengua
+𨴧	men.gua
 𨴨	men.shu
 𨴩	men.yu
 𨴪	men.fu
@@ -63676,21 +63676,21 @@ min_phrase_weight: 100
 𨵍	men.zhan
 𨵎	men.ke
 𨵏	men.cun
-𨵐	mengu
+𨵐	men.gu
 𨵑	men.cao
 𨵒	men.sheng
 𨵓	men.zhong
 𨵔	men.zhi
 𨵕	men.chong
 𨵖	men.zhong
-𨵗	mengua
+𨵗	men.gua
 𨵘	men.hu
 𨵙	men.ju
-𨵚	menguo
+𨵚	men.guo
 𨵛	men.ming
 𨵜	men.mian
 𨵝	men.da
-𨵞	menguai
+𨵞	men.guai
 𨵟	men.fu
 𨵠	men.jie
 𨵡	men.qu
@@ -63699,7 +63699,7 @@ min_phrase_weight: 100
 𨵤	men.qi
 𨵥	men.sheng
 𨵦	men.yu
-𨵧	menguo
+𨵧	men.guo
 𨵨	men.xue
 𨵩	men.fu
 𨵪	men.ye
@@ -63846,7 +63846,7 @@ min_phrase_weight: 100
 𨷷	men.chong
 𨷸	men.xi
 𨷹	men.huo
-𨷺	mengui
+𨷺	men.gui
 𨷻	men.luan
 𨷼	men.shi
 𨷽	men.yan
@@ -64471,7 +64471,7 @@ min_phrase_weight: 100
 𩁨	lu.zhui
 𩁩	cao.zhui
 𩁪	nian.zhui
-𩁫	juanguan
+𩁫	juan.guan
 𩁬	nian.zhui
 𩁭	da.di
 𩁮	cao.zhui
@@ -64897,7 +64897,7 @@ min_phrase_weight: 100
 𩈒	mian.he
 𩈓	mian.pi
 𩈔	mian.ke
-𩈕	miangua
+𩈕	mian.gua
 𩈖	mian.ling
 𩈗	mian.yong
 𩈘	mo.mian
@@ -64920,7 +64920,7 @@ min_phrase_weight: 100
 𩈩	mian.na
 𩈪	mian.zhuang
 𩈫	mian.nai
-𩈬	mianguan
+𩈬	mian.guan
 𩈭	mian.yi
 𩈮	mian.zhou
 𩈯	mian.yan
@@ -65423,7 +65423,7 @@ min_phrase_weight: 100
 𩐠	yingong
 𩐡	yin.xiao
 𩐢	xiang.yin
-𩐣	yinguang
+𩐣	yin.guang
 𩐤	yin.tong
 𩐥	yin.he
 𩐦	yin.yi
@@ -65460,7 +65460,7 @@ min_phrase_weight: 100
 𩑅	yingong
 𩑆	yin.lei
 𩑇	yin.zhuo
-𩑈	yinguang
+𩑈	yin.guang
 𩑉	yin.nian
 𩑊	yin.ling
 𩑋	heng.jian
@@ -66970,7 +66970,7 @@ min_phrase_weight: 100
 𩨫	gu.yin
 𩨬	gu.xuan
 𩨭	gu.ta
-𩨮	shangu
+𩨮	shan.gu
 𩨯	gu.chi
 𩨰	gu.shi
 𩨱	ci.gu
@@ -67063,7 +67063,7 @@ min_phrase_weight: 100
 𩪈	gu.suo
 𩪉	gu.lu
 𩪊	gu.piao
-𩪋	aogu
+𩪋	ao.gu
 𩪌	gu.feng
 𩪍	gu.qu
 𩪎	gu.mang
@@ -67085,7 +67085,7 @@ min_phrase_weight: 100
 𩪞	gu.xun
 𩪟	gu.kou
 𩪠	guang.gu
-𩪡	diangu
+𩪡	dian.gu
 𩪢	gu.qian
 𩪣	gu.yi
 𩪤	gu.ye
@@ -67114,7 +67114,7 @@ min_phrase_weight: 100
 𩪻	gu.mie
 𩪼	gu.guan
 𩪽	gu.duan
-𩪾	luangu
+𩪾	luan.gu
 𩪿	gao.wan
 𩫀	gao.da
 𩫁	gao.mao
@@ -67579,7 +67579,7 @@ min_phrase_weight: 100
 𩲌	fang.gui
 𩲍	gui.niu
 𩲎	gui.shao
-𩲏	rengui
+𩲏	ren.gui
 𩲐	gui.wu
 𩲑	gui.yun
 𩲒	gui.chang
@@ -67657,7 +67657,7 @@ min_phrase_weight: 100
 𩳚	gui.wan
 𩳛	gui.che
 𩳜	gui.you
-𩳝	tungui
+𩳝	tun.gui
 𩳞	gui.qiu
 𩳟	gui.shi
 𩳠	ge.gui
@@ -67689,7 +67689,7 @@ min_phrase_weight: 100
 𩳺	ri.gui
 𩳻	gui.jie
 𩳼	ke.gui
-𩳽	chungui
+𩳽	chun.gui
 𩳾	gui.mian
 𩳿	bei.gui
 𩴀	gui.zhe
@@ -67707,14 +67707,14 @@ min_phrase_weight: 100
 𩴌	gui.jian
 𩴍	gui.sou
 𩴎	gui.ji
-𩴏	juangui
+𩴏	juan.gui
 𩴐	gui.lv
 𩴑	gui.can
 𩴒	qiang.gui
 𩴓	gui.jin
 𩴔	gui.yong
-𩴕	zhangui
-𩴖	juangui
+𩴕	zhan.gui
+𩴖	juan.gui
 𩴗	gui.jin
 𩴘	gui.chu
 𩴙	gui.shen
@@ -67730,7 +67730,7 @@ min_phrase_weight: 100
 𩴣	chang.gui
 𩴤	gui.liao
 𩴥	xu.gui
-𩴦	jiangui
+𩴦	jian.gui
 𩴧	gui.jiao
 𩴨	yang.gui
 𩴩	gui.huo
@@ -67741,7 +67741,7 @@ min_phrase_weight: 100
 𩴮	gui.xing
 𩴯	gui.ju
 𩴰	gui.wei
-𩴱	bingui
+𩴱	bin.gui
 𩴲	meng.gui
 𩴳	gui.cha
 𩴴	gui.tu
@@ -67751,7 +67751,7 @@ min_phrase_weight: 100
 𩴸	gui.bin
 𩴹	gui.di
 𩴺	mai.gui
-𩴻	tiangui
+𩴻	tian.gui
 𩴼	gui.tian
 𩴽	yang.gui
 𩴾	gui.mie
@@ -69777,7 +69777,7 @@ min_phrase_weight: 100
 𪔢	gu.sheng
 𪔣	gu.kong
 𪔤	gu.yue
-𪔥	piangu
+𪔥	pian.gu
 𪔦	gu.dong
 𪔧	gu.yin
 𪔨	gu.ge
@@ -70170,7 +70170,7 @@ min_phrase_weight: 100
 𪚫	gui.dan
 𪚬	gui.jin
 𪚭	gui.gou
-𪚮	rangui
+𪚮	ran.gui
 𪚯	huo.gui
 𪚰	gui.huo
 𪚱	huo.gui
@@ -71036,7 +71036,7 @@ min_phrase_weight: 100
 𪨶	shan.che
 𪨷	shan.yan
 𪨸	shan.chui
-𪨹	shanguo
+𪨹	shan.guo
 𪨺	shan.leng
 𪨻	shan.min
 𪨼	shan.nai
@@ -71071,7 +71071,7 @@ min_phrase_weight: 100
 𪩙	shan.cun
 𪩚	shan.hui
 𪩛	shan.chi
-𪩜	shangui
+𪩜	shan.gui
 𪩝	shan.qu
 𪩞	shan.qian
 𪩟	shan.he
@@ -71228,7 +71228,7 @@ min_phrase_weight: 100
 𪫶	niange
 𪫷	shou.xin
 𪫸	xin.que
-𪫹	xingu
+𪫹	xin.gu
 𪫺	xin.qian
 𪫻	xin.wan
 𪫼	dui.xin
@@ -71236,7 +71236,7 @@ min_phrase_weight: 100
 𪫾	nv.xin
 𪫿	xin.zhi
 𪬀	xin.yi
-𪬁	xinguai
+𪬁	xin.guai
 𪬂	si.xin
 𪬃	xin.yi
 𪬄	ba.xin
@@ -71723,7 +71723,7 @@ min_phrase_weight: 100
 𪳥	mu.gui
 𪳦	zhui.gao
 𪳧	mu.zi
-𪳨	hanguo
+𪳨	han.guo
 𪳩	mu.jian
 𪳪	mu.po
 𪳫	sang.you
@@ -72201,7 +72201,7 @@ min_phrase_weight: 100
 𪻃	quan.lv
 𪻄	quan.mei
 𪻅	quan.yuan
-𪻆	quangui
+𪻆	quan.gui
 𪻇	quan.ke
 𪻈	quan.qiang
 𪻉	quan.nan
@@ -73388,7 +73388,7 @@ min_phrase_weight: 100
 𫍦	yan.nong
 𫍧	yan.lai
 𫍨	yan.chen
-𫍩	yanguo
+𫍩	yan.guo
 𫍪	yan.ji
 𫍫	yan.yan
 𫍬	yan.wang
@@ -73402,7 +73402,7 @@ min_phrase_weight: 100
 𫍴	yan.lou
 𫍵	yanao
 𫍶	yan.zhi
-𫍷	yangui
+𫍷	yan.gui
 𫍸	yan.shan
 𫍹	yan.qie
 𫍺	yan.wen
@@ -73778,7 +73778,7 @@ min_phrase_weight: 100
 𫓬	jin.za
 𫓭	jin.yang
 𫓮	jin.chu
-𫓯	jingui
+𫓯	jin.gui
 𫓰	jin.xu
 𫓱	jin.qiao
 𫓲	jin.xun
@@ -73811,11 +73811,11 @@ min_phrase_weight: 100
 𫔍	jin.fan
 𫔎	jin.yu
 𫔏	jin.chan
-𫔐	jingu
+𫔐	jin.gu
 𫔑	jin.dan
 𫔒	jin.xiong
 𫔓	jin.huo
-𫔔	jingui
+𫔔	jin.gui
 𫔕	jin.lei
 𫔖	chang.nong
 𫔗	chang.tian
@@ -73823,7 +73823,7 @@ min_phrase_weight: 100
 𫔙	gong.men
 𫔚	men.zhong
 𫔛	men.hua
-𫔜	mengu
+𫔜	men.gu
 𫔝	men.mu
 𫔞	men.you
 𫔟	men.dai
@@ -73926,7 +73926,7 @@ min_phrase_weight: 100
 𫖀	mian.mo
 𫖁	mian.zhao
 𫖂	na.mian
-𫖃	miangui
+𫖃	mian.gui
 𫖄	jia.mian
 𫖅	ge.long
 𫖆	ge.zhi
@@ -74358,7 +74358,7 @@ min_phrase_weight: 100
 𫜰	xian.chi
 𫜱	nian.long
 𫜲	you.long
-𫜳	rangui
+𫜳	ran.gui
 𫜴	fen.yue
 𫝀	shu.heng
 𫝁	qi.kou
@@ -74549,7 +74549,7 @@ min_phrase_weight: 100
 𫟺	jin.hai
 𫟻	jin.zhou
 𫟼	jin.da
-𫟽	jinguai
+𫟽	jin.guai
 𫟾	jin.sheng
 𫟿	jin.cha
 𫠀	jin.cuo
@@ -74658,7 +74658,7 @@ min_phrase_weight: 100
 𫡩	ye.ye
 𫡪	mou.yi
 𫡫	yinan
-𫡬	wanguo
+𫡬	wan.guo
 𫡭	mai.yi
 𫡮	mi.yi
 𫡯	chao.yi
@@ -74698,7 +74698,7 @@ min_phrase_weight: 100
 𫢑	ren.fu
 𫢒	ren.long
 𫢓	ren.shi
-𫢔	rengui
+𫢔	ren.gui
 𫢕	ren.dao
 𫢖	reng.ge
 𫢗	ren.zhen
@@ -75343,7 +75343,7 @@ min_phrase_weight: 100
 𫬖	kou.zhang
 𫬗	kou.xia
 𫬘	kou.ba
-𫬙	yuangun
+𫬙	yuan.gun
 𫬚	ming.wen
 𫬛	kou.zhun
 𫬜	kou.qin
@@ -76191,7 +76191,7 @@ min_phrase_weight: 100
 𫹦	zhi.dai
 𫹧	ren.ye
 𫹨	ren.ye
-𫹩	renguan
+𫹩	ren.guan
 𫹪	ren.yan
 𫹫	xin.kao
 𫹬	dao.xin
@@ -78908,10 +78908,10 @@ min_phrase_weight: 100
 𬤃	yan.juan
 𬤄	yan.can
 𬤅	yan.ji
-𬤆	yanguan
+𬤆	yan.guan
 𬤇	yan.tu
 𬤈	yan.dai
-𬤉	yangui
+𬤉	yan.gui
 𬤊	yan.shi
 𬤋	yan.xin
 𬤌	yan.cha
@@ -78950,7 +78950,7 @@ min_phrase_weight: 100
 𬤭	yan.hui
 𬤮	yan.zan
 𬤯	yan.jian
-𬤰	yanguan
+𬤰	yan.guan
 𬤱	yan.zhui
 𬤲	gu.ling
 𬤳	gu.lun
@@ -79135,7 +79135,7 @@ min_phrase_weight: 100
 𬧦	shen.dian
 𬧧	shen.hua
 𬧨	shen.kun
-𬧩	shenguo
+𬧩	shen.guo
 𬧪	shen.mu
 𬧫	shen.ji
 𬧬	shen.yi
@@ -79344,7 +79344,7 @@ min_phrase_weight: 100
 𬪷	you.quan
 𬪸	you.zhao
 𬪹	dao.you
-𬪺	bianguang
+𬪺	bian.guang
 𬪻	bian.qu
 𬪼	zhong.xi
 𬪽	zhong.ge
@@ -79376,7 +79376,7 @@ min_phrase_weight: 100
 𬫗	jin.cha
 𬫘	jin.qian
 𬫙	jin.kao
-𬫚	jinguo
+𬫚	jin.guo
 𬫛	jin.zuo
 𬫜	ren.jin
 𬫝	jin.zhuang
@@ -79512,7 +79512,7 @@ min_phrase_weight: 100
 𬭟	jin.zou
 𬭠	jin.cha
 𬭡	jin.tiao
-𬭢	jingui
+𬭢	jin.gui
 𬭣	jin.quan
 𬭤	jin.hou
 𬭥	jin.xin
@@ -79580,16 +79580,16 @@ min_phrase_weight: 100
 𬮣	men.kuang
 𬮤	men.he
 𬮥	men.zhong
-𬮦	menguan
+𬮦	men.guan
 𬮧	men.wang
 𬮨	men.chi
 𬮩	men.xi
 𬮪	men.sha
 𬮫	men.wu
 𬮬	men.qing
-𬮭	mengui
+𬮭	men.gui
 𬮮	men.qi
-𬮯	mengua
+𬮯	men.gua
 𬮰	mena
 𬮱	men.tu
 𬮲	men.yao
@@ -80629,13 +80629,13 @@ min_phrase_weight: 100
 𬿊	ren.ye
 𬿋	jie.mai
 𬿌	ren.you
-𬿍	rengui
+𬿍	ren.gui
 𬿎	yu.ren
 𬿏	ren.yan
 𬿐	fu.wu
 𬿑	ren.ling
 𬿒	bian.wen
-𬿓	renguo
+𬿓	ren.guo
 𬿔	ren.sha
 𬿕	ren.ya
 𬿖	ren.qiu
@@ -80730,12 +80730,12 @@ min_phrase_weight: 100
 𭀯	gui.fu
 𭀰	mian.mian
 𭀱	ren.er
-𭀲	xianguan
-𭀳	xianguan
+𭀲	xian.guan
+𭀳	xian.guan
 𭀴	guang.liang
 𭀵	xian.shan
 𭀶	guang.tong
-𭀷	xianguan
+𭀷	xian.guan
 𭀸	gui.kou
 𭀹	er.xi
 𭀺	xian.shan
@@ -82113,7 +82113,7 @@ min_phrase_weight: 100
 𭖖	shan.bai
 𭖗	shan.li
 𭖘	shan.zai
-𭖙	shanguang
+𭖙	shan.guang
 𭖚	shan.duo
 𭖛	shan.kuang
 𭖜	shui.shan
@@ -82126,7 +82126,7 @@ min_phrase_weight: 100
 𭖣	shan.jiong
 𭖤	shan.jin
 𭖥	shan.er
-𭖦	shangu
+𭖦	shan.gu
 𭖧	shan.wang
 𭖨	shan.jun
 𭖩	shan.xing
@@ -82194,7 +82194,7 @@ min_phrase_weight: 100
 𭗧	an.yao
 𭗨	shan.heng
 𭗩	shan.xi
-𭗪	shangui
+𭗪	shan.gui
 𭗫	shan.lv
 𭗬	shan.yan
 𭗭	shan.wen
@@ -82238,13 +82238,13 @@ min_phrase_weight: 100
 𭘓	jin.wu
 𭘔	jin.wu
 𭘕	jin.wei
-𭘖	jingu
+𭘖	jin.gu
 𭘗	jin.you
 𭘘	jin.ling
 𭘙	jin.ta
 𭘚	jin.tai
 𭘛	jin.hui
-𭘜	jinguang
+𭘜	jin.guang
 𭘝	jin.zhai
 𭘞	jinge
 𭘟	bu.fa
@@ -82265,11 +82265,11 @@ min_phrase_weight: 100
 𭘮	jin.diao
 𭘯	bu.peng
 𭘰	jin.fu
-𭘱	jingu
+𭘱	jin.gu
 𭘲	jin.hua
 𭘳	di.yi
 𭘴	jin.bei
-𭘵	jingui
+𭘵	jin.gui
 𭘶	jin.ju
 𭘷	jing.jin
 𭘸	bo.bo
@@ -82481,7 +82481,7 @@ min_phrase_weight: 100
 𭜆	ren.ye
 𭜇	ren.ming
 𭜈	ren.wen
-𭜉	renguang
+𭜉	ren.guang
 𭜊	ren.ye
 𭜋	kui.xin
 𭜌	xin.wan
@@ -84203,7 +84203,7 @@ min_phrase_weight: 100
 𭷀	pan.fu
 𭷁	pan.wen
 𭷂	pan.wu
-𭷃	pangu
+𭷃	pan.gu
 𭷄	pangong
 𭷅	pan.si
 𭷆	pan.qin
@@ -84463,7 +84463,7 @@ min_phrase_weight: 100
 𭻄	shen.yin
 𭻅	tian.shui
 𭻆	tian.ba
-𭻇	tiangu
+𭻇	tian.gu
 𭻈	qu.jia
 𭻉	ren.tian
 𭻊	tian.dian
@@ -84479,7 +84479,7 @@ min_phrase_weight: 100
 𭻔	tian.lai
 𭻕	tian.li
 𭻖	tian.xi
-𭻗	tiangu
+𭻗	tian.gu
 𭻘	tian.di
 𭻙	zhunan
 𭻚	nan.bao
@@ -86273,7 +86273,7 @@ min_phrase_weight: 100
 𮗖	shu.chan
 𮗗	yi.chan
 𮗘	chen.chan
-𮗙	jiangui
+𮗙	jian.gui
 𮗚	cao.chan
 𮗛	cao.chan
 𮗜	jiu.chan
@@ -86465,7 +86465,7 @@ min_phrase_weight: 100
 𮚖	bei.ri
 𮚗	bei.xin
 𮚘	er.bei
-𮚙	guangu
+𮚙	guan.gu
 𮚚	chen.bei
 𮚛	bei.zhuang
 𮚜	mai.zhu
@@ -86630,7 +86630,7 @@ min_phrase_weight: 100
 𮜻	shen.nong
 𮜼	shen.qian
 𮜽	shen.qin
-𮜾	shenguan
+𮜾	shen.guan
 𮜿	che.wan
 𮝀	che.qu
 𮝁	yue.che
@@ -86955,7 +86955,7 @@ min_phrase_weight: 100
 𮢀	jin.you
 𮢁	jin.ji
 𮢂	jin.you
-𮢃	jingu
+𮢃	jin.gu
 𮢄	jin.er
 𮢅	jin.lin
 𮢆	jin.sheng
@@ -86967,7 +86967,7 @@ min_phrase_weight: 100
 𮢌	jin.fu
 𮢍	jin.she
 𮢎	jin.cha
-𮢏	jingua
+𮢏	jin.gua
 𮢐	jin.shou
 𮢑	jin.ju
 𮢒	mu.jin
@@ -87004,7 +87004,7 @@ min_phrase_weight: 100
 𮢱	jin.jian
 𮢲	jin.fen
 𮢳	er.jin
-𮢴	jingu
+𮢴	jin.gu
 𮢵	jin.qian
 𮢶	yi.jin
 𮢷	jin.ke
@@ -87094,7 +87094,7 @@ min_phrase_weight: 100
 𮤋	men.yang
 𮤌	men.heng
 𮤍	men.tai
-𮤎	menguang
+𮤎	men.guang
 𮤏	men.jiang
 𮤐	men.ji
 𮤑	men.fu
@@ -87121,7 +87121,7 @@ min_phrase_weight: 100
 𮤦	menao
 𮤧	men.ling
 𮤨	men.mi
-𮤩	mengui
+𮤩	men.gui
 𮤪	men.mo
 𮤫	men.ding
 𮤬	men.tu
@@ -87762,7 +87762,7 @@ min_phrase_weight: 100
 𮮧	chu.gu
 𮮨	bei.pi
 𮮩	kuang.gu
-𮮪	bengu
+𮮪	ben.gu
 𮮫	ji.tang
 𮮬	shu.chou
 𮮭	shu.qie
