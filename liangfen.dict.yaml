@@ -12989,7 +12989,7 @@ min_phrase_weight: 100
 肪	yue.fang
 肫	yue.tun
 肬	yue.you
-肭	yuenei
+肭	yue.nei
 肮	yue.kang
 肯	zhi.yue
 肰	yue.quan
@@ -13066,7 +13066,7 @@ min_phrase_weight: 100
 胷	xiong.yue
 胸	yue.xiong
 胹	yue.er
-胺	yuean
+胺	yue.an
 胻	yue.xing
 胼	yue.bing
 能	si.bi
@@ -13177,11 +13177,11 @@ min_phrase_weight: 100
 腦	yue.xin
 腧	yue.yu
 腨	yue.duan
-腩	yuenan
+腩	yue.nan
 腪	yue.jun
 腫	yue.zhong
 腬	yue.rou
-腭	yuee
+腭	yue.e
 腮	yue.si
 腯	yue.dun
 腰	yue.yao
@@ -25077,7 +25077,7 @@ min_phrase_weight: 100
 䐼	yue.si
 䐽	yue.man
 䐾	yue.xing
-䐿	yueao
+䐿	yue.ao
 䑀	yue.bi
 䑁	yao.yue
 䑂	yue.yu
@@ -33507,7 +33507,7 @@ min_phrase_weight: 100
 𡝴	nv.yuan
 𡝵	nv.zu
 𡝶	fang.nv
-𡝷	xuean
+𡝷	xue.an
 𡝸	qiang.nv
 𡝹	nv.meng
 𡝺	nv.mei
@@ -40722,7 +40722,7 @@ min_phrase_weight: 100
 𣎣	yue.jiao
 𣎤	yue.ge
 𣎥	you.qu
-𣎦	yuenang
+𣎦	yue.nang
 𣎧	yue.huo
 𣎨	yue.cong
 𣎩	yan.yue
@@ -50517,7 +50517,7 @@ min_phrase_weight: 100
 𥧦	xue.gao
 𥧧	xue.min
 𥧨	xue.bei
-𥧩	xuena
+𥧩	xue.na
 𥧪	nong.kong
 𥧫	xue.lang
 𥧬	xue.jian
@@ -50546,7 +50546,7 @@ min_phrase_weight: 100
 𥨃	xue.shu
 𥨄	xue.wen
 𥨅	xue.she
-𥨆	xueao
+𥨆	xue.ao
 𥨇	xue.bai
 𥨈	xue.jiu
 𥨉	xue.yan
@@ -50581,7 +50581,7 @@ min_phrase_weight: 100
 𥨦	xue.zhi
 𥨧	xue.shu
 𥨨	kong.gong
-𥨩	xueao
+𥨩	xue.ao
 𥨪	xue.yi
 𥨫	xue.mian
 𥨬	xue.er
@@ -50589,7 +50589,7 @@ min_phrase_weight: 100
 𥨮	xue.lao
 𥨯	xue.yi
 𥨰	xue.deng
-𥨱	xueou
+𥨱	xue.ou
 𥨲	xue.nv
 𥨳	xue.ge
 𥨴	xue.huo
@@ -53697,7 +53697,7 @@ min_phrase_weight: 100
 𦙒	yue.dou
 𦙓	yue.you
 𦙔	zhao.yue
-𦙕	yuenai
+𦙕	yue.nai
 𦙖	yao.yue
 𦙗	yue.wu
 𦙘	yue.yao
@@ -53912,7 +53912,7 @@ min_phrase_weight: 100
 𦜩	yue.hu
 𦜪	yue.mu
 𦜫	yue.mu
-𦜬	yuenei
+𦜬	yue.nei
 𦜭	yue.ben
 𦜮	yue.kui
 𦜯	yue.huo
@@ -53932,7 +53932,7 @@ min_phrase_weight: 100
 𦜽	rou.yan
 𦜾	zhi.rou
 𦜿	rou.xian
-𦝀	yuenai
+𦝀	yue.nai
 𦝁	yue.qi
 𦝂	yue.de
 𦝃	yue.lin
@@ -54012,7 +54012,7 @@ min_phrase_weight: 100
 𦞍	ji.rou
 𦞎	yue.yan
 𦞏	wei.rou
-𦞐	yuenve
+𦞐	yue.nve
 𦞑	yue.bei
 𦞒	yue.dai
 𦞓	yue.pai
@@ -54058,7 +54058,7 @@ min_phrase_weight: 100
 𦞻	yue.cao
 𦞼	yue.yao
 𦞽	yue.gu
-𦞾	yuenai
+𦞾	yue.nai
 𦞿	yue.shou
 𦟀	wang.xun
 𦟁	wang.yue
@@ -54083,7 +54083,7 @@ min_phrase_weight: 100
 𦟔	yue.zhi
 𦟕	yue.hun
 𦟖	rou.ma
-𦟗	yuenan
+𦟗	yue.nan
 𦟘	yue.yin
 𦟙	yue.huo
 𦟚	yue.dou
@@ -54174,7 +54174,7 @@ min_phrase_weight: 100
 𦠯	yue.xian
 𦠰	jian.zhuo
 𦠱	yue.fa
-𦠲	yuee
+𦠲	yue.e
 𦠳	yue.chan
 𦠴	yue.qin
 𦠵	yue.dui
@@ -54221,7 +54221,7 @@ min_phrase_weight: 100
 𦡞	yue.jin
 𦡟	bei.ling
 𦡠	nong.ji
-𦡡	yueai
+𦡡	yue.ai
 𦡢	yue.lou
 𦡣	yue.bing
 𦡤	yue.zhun
@@ -54330,7 +54330,7 @@ min_phrase_weight: 100
 𦣋	yue.luan
 𦣌	yue.lin
 𦣍	yue.mei
-𦣎	yuenan
+𦣎	yue.nan
 𦣏	luan.yue
 𦣐	yue.luan
 𦣑	yue.su
@@ -54340,8 +54340,8 @@ min_phrase_weight: 100
 𦣕	yue.piao
 𦣖	wang.jing
 𦣗	yue.rao
-𦣘	yuenang
-𦣙	yuenang
+𦣘	yue.nang
+𦣙	yue.nang
 𦣚	nan.rou
 𦣛	yue.lian
 𦣜	yue.ji
@@ -72922,7 +72922,7 @@ min_phrase_weight: 100
 𫆔	bi.yu
 𫆕	nai.yu
 𫆖	yue.tu
-𫆗	yueang
+𫆗	yue.ang
 𫆘	yue.bian
 𫆙	xiao.yue
 𫆚	yue.you
@@ -76738,7 +76738,7 @@ min_phrase_weight: 100
 𬂉	yue.bei
 𬂊	yue.ming
 𬂋	yao.yue
-𬂌	yueneng
+𬂌	yue.neng
 𬂍	yue.ju
 𬂎	yue.shi
 𬂏	xiang.yue
@@ -78327,7 +78327,7 @@ min_phrase_weight: 100
 𬚾	yue.wo
 𬚿	rou.xian
 𬛀	jian.gong
-𬛁	yuena
+𬛁	yue.na
 𬛂	yue.jin
 𬛃	rou.zhe
 𬛄	yue.ri
@@ -83314,7 +83314,7 @@ min_phrase_weight: 100
 𭩇	peng.kong
 𭩈	yue.xiang
 𭩉	yue.yi
-𭩊	yueai
+𭩊	yue.ai
 𭩋	yue.yu
 𭩌	wang.wang
 𭩍	yue.yue
