@@ -5,6 +5,7 @@
 #
 #   derived from scim-table-zh LiangFen table.
 #
+# Modified version. https://github.com/szc126/rime-liangfen
 
 ---
 name: liangfen
