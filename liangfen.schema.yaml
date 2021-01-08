@@ -5,7 +5,7 @@
 schema:
   schema_id: liangfen
   name: LiangFen
-  version: "3.0"
+  version: "4.0"
   author:
     - TianHeng <2417647441@qq.com>
   description: |
@@ -58,11 +58,9 @@ translator:
   preedit_format:
     - "xlit|v|ü|"
     - xform/iü/iv/
-    - xform/uü/uv/
   comment_format:
     - "xlit|v|ü|"
     - xform/iü/iv/
-    - xform/uü/uv/
 
 reverse_lookup:
   dictionary: luna_pinyin
